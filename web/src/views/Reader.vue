@@ -4,6 +4,7 @@ import { marked } from 'marked'
 import { api } from '../api'
 
 const currentLawId = inject('currentLawId')
+const snapshot = inject('snapshot', false)
 const detail = ref(null)
 const termsById = ref({})
 const readings = reactive({})   // key: `${articleId}:${kind}`
@@ -74,8 +75,8 @@ const law = computed(() => detail.value)
       <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
         <h2 class="serif" style="margin:0; font-size:18px; letter-spacing:.1em;">{{ a.label }}</h2>
         <span style="flex:1"></span>
-        <button @click="toggleReading(a, 'interpret')">AI 解读</button>
-        <button @click="toggleReading(a, 'scenario')">场景分析</button>
+        <button :disabled="snapshot" :title="snapshot ? '静态快照模式不可用' : ''" @click="toggleReading(a, 'interpret')">AI 解读</button>
+        <button :disabled="snapshot" :title="snapshot ? '静态快照模式不可用' : ''" @click="toggleReading(a, 'scenario')">场景分析</button>
       </div>
 
       <p

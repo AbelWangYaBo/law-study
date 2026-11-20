@@ -6,7 +6,7 @@ import pytest
 
 from app.importer.parsers import cn_num_to_int, parse_article_label, parse_html, parse_md
 
-UDI_HTML = Path("/Volumes/APFS_2/abel/走进先健/医疗器械唯一标识系统规则.html")
+UDI_HTML = Path(__file__).resolve().parent / "fixtures" / "医疗器械唯一标识系统规则.html"
 
 # 内嵌法规总表 md 样例（结构同 保密法.md）
 MD_SAMPLE = """---

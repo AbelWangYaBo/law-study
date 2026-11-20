@@ -1,0 +1,3971 @@
+{
+ "id": 1,
+ "name": "医疗器械唯一标识系统规则",
+ "doc_number": "",
+ "authority": "",
+ "level": "规范性文件",
+ "effective_date": "",
+ "articles": [
+  {
+   "id": 1,
+   "order_no": 1,
+   "label": "第一条",
+   "paragraphs": [
+    {
+     "id": 1,
+     "order_no": 1,
+     "text": "为规范医疗器械唯一标识系统建设，加强医疗器械全生命周期管理，根据《医疗器械监督管理条例》，制定本规则。",
+     "tokens": [
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "建设",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "加强",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "全",
+       "term_id": null
+      },
+      {
+       "t": "生命周期",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "监督",
+       "term_id": null
+      },
+      {
+       "t": "管理条例",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "order_no": 2,
+   "label": "第二条",
+   "paragraphs": [
+    {
+     "id": 2,
+     "order_no": 1,
+     "text": "在中华人民共和国境内销售、使用的医疗器械，其唯一标识系统应当符合本规则。",
+     "tokens": [
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "境内",
+       "term_id": null
+      },
+      {
+       "t": "销售",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "唯一",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "order_no": 3,
+   "label": "第三条",
+   "paragraphs": [
+    {
+     "id": 3,
+     "order_no": 1,
+     "text": "本规则所称医疗器械唯一标识系统，由医疗器械唯一标识、唯一标识数据载体和唯一标识数据库组成。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "称",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "唯一",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "载体",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "唯一",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "数据库",
+       "term_id": null
+      },
+      {
+       "t": "组成",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4,
+     "order_no": 2,
+     "text": "医疗器械唯一标识，是指在医疗器械产品或者包装上附载的，由数字、字母或者符号组成的代码，用于对医疗器械进行唯一性识别。",
+     "tokens": [
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指在",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "附载",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "数字",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "字母",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "符号",
+       "term_id": null
+      },
+      {
+       "t": "组成",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "代码",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "唯一性",
+       "term_id": 4
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 5,
+     "order_no": 3,
+     "text": "医疗器械唯一标识数据载体，是指存储或者传输医疗器械唯一标识的数据媒介。",
+     "tokens": [
+      {
+       "t": "医疗器械唯一标识数据载体",
+       "term_id": 2
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "存储",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "传输",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "媒介",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 6,
+     "order_no": 4,
+     "text": "医疗器械唯一标识数据库，是指储存医疗器械唯一标识的产品标识与关联信息的数据库。",
+     "tokens": [
+      {
+       "t": "医疗器械唯一标识数据库",
+       "term_id": 3
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "关联",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数据库",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "order_no": 4,
+   "label": "第四条",
+   "paragraphs": [
+    {
+     "id": 7,
+     "order_no": 1,
+     "text": "医疗器械唯一标识系统建设应当积极借鉴国际标准，遵循政府引导、企业落实、统筹推进、分步实施的原则。",
+     "tokens": [
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "建设",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "积极",
+       "term_id": null
+      },
+      {
+       "t": "借鉴",
+       "term_id": null
+      },
+      {
+       "t": "国际标准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "遵循",
+       "term_id": null
+      },
+      {
+       "t": "政府",
+       "term_id": null
+      },
+      {
+       "t": "引导",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "落实",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "统筹",
+       "term_id": null
+      },
+      {
+       "t": "推进",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分步",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "order_no": 5,
+   "label": "第五条",
+   "paragraphs": [
+    {
+     "id": 8,
+     "order_no": 1,
+     "text": "国家药品监督管理局负责建立医疗器械唯一标识系统制度，制定医疗器械唯一标识系统建设规划，推动各方积极应用医疗器械唯一标识，促进医疗器械全生命周期管理。",
+     "tokens": [
+      {
+       "t": "国家药品监督管理局",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "制度",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "建设",
+       "term_id": null
+      },
+      {
+       "t": "规划",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "推动",
+       "term_id": null
+      },
+      {
+       "t": "各方",
+       "term_id": null
+      },
+      {
+       "t": "积极",
+       "term_id": null
+      },
+      {
+       "t": "应用",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "促进",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "全",
+       "term_id": null
+      },
+      {
+       "t": "生命周期",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "order_no": 2,
+     "text": "省、自治区、直辖市药品监督管理部门负责指导并监督本行政区域内注册人/备案人开展医疗器械唯一标识系统建设相关工作。",
+     "tokens": [
+      {
+       "t": "省",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "自治区",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "直辖市",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "指导",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "监督",
+       "term_id": null
+      },
+      {
+       "t": "本行政区域",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "开展",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "建设",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "order_no": 6,
+   "label": "第六条",
+   "paragraphs": [
+    {
+     "id": 10,
+     "order_no": 1,
+     "text": "注册人/备案人负责按照本规则创建和维护医疗器械唯一标识，在产品或者包装上赋予医疗器械唯一标识数据载体，上传相关数据，利用医疗器械唯一标识加强产品全过程管理。",
+     "tokens": [
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "创建",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "赋予",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识数据载体",
+       "term_id": 2
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "上传",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "利用",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "加强",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 11,
+     "order_no": 2,
+     "text": "鼓励医疗器械生产经营企业和使用单位积极应用医疗器械唯一标识进行相关管理。",
+     "tokens": [
+      {
+       "t": "鼓励",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "经营",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "单位",
+       "term_id": null
+      },
+      {
+       "t": "积极",
+       "term_id": null
+      },
+      {
+       "t": "应用",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "order_no": 7,
+   "label": "第七条",
+   "paragraphs": [
+    {
+     "id": 12,
+     "order_no": 1,
+     "text": "医疗器械唯一标识包括产品标识和生产标识。产品标识为识别注册人/备案人、医疗器械型号规格和包装的唯一代码；生产标识由医疗器械生产过程相关信息的代码组成，根据监管和实际应用需求，可包含医疗器械序列号、生产批号、生产日期、失效日期等。",
+     "tokens": [
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "型号",
+       "term_id": null
+      },
+      {
+       "t": "规格",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "唯一",
+       "term_id": null
+      },
+      {
+       "t": "代码",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "代码",
+       "term_id": null
+      },
+      {
+       "t": "组成",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "监管",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "实际",
+       "term_id": null
+      },
+      {
+       "t": "应用",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "包含",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "序列号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产日期",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "失效",
+       "term_id": null
+      },
+      {
+       "t": "日期",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 13,
+     "order_no": 2,
+     "text": "产品发生可能影响医疗器械识别、追溯的变更或者监管要求变化时，应当创建新的产品标识。",
+     "tokens": [
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "发生",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "追溯",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "变更",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "监管",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "变化",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "创建",
+       "term_id": null
+      },
+      {
+       "t": "新",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "order_no": 3,
+     "text": "医疗器械停止销售、使用的，其产品标识不得用于其他医疗器械；重新销售、使用时，可使用原产品标识。",
+     "tokens": [
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "停止",
+       "term_id": null
+      },
+      {
+       "t": "销售",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "重新",
+       "term_id": null
+      },
+      {
+       "t": "销售",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "原",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "order_no": 8,
+   "label": "第八条",
+   "paragraphs": [
+    {
+     "id": 15,
+     "order_no": 1,
+     "text": "医疗器械唯一标识应当符合唯一性、稳定性和可扩展性的要求。",
+     "tokens": [
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "唯一性",
+       "term_id": 4
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "稳定性",
+       "term_id": 5
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "可扩展性",
+       "term_id": 6
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 16,
+     "order_no": 2,
+     "text": "唯一性，是指医疗器械唯一标识应当与医疗器械识别要求相一致。",
+     "tokens": [
+      {
+       "t": "唯一性",
+       "term_id": 4
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "相一致",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 17,
+     "order_no": 3,
+     "text": "稳定性，是指医疗器械唯一标识应当与产品基本特征相关，产品的基本特征未变化的，产品标识应当保持不变。",
+     "tokens": [
+      {
+       "t": "稳定性",
+       "term_id": 5
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "基本特征",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "基本特征",
+       "term_id": null
+      },
+      {
+       "t": "未",
+       "term_id": null
+      },
+      {
+       "t": "变化",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "不变",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 18,
+     "order_no": 4,
+     "text": "可扩展性，是指医疗器械唯一标识应当与监管要求和实际应用不断发展相适应。",
+     "tokens": [
+      {
+       "t": "可扩展性",
+       "term_id": 6
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "监管",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "实际",
+       "term_id": null
+      },
+      {
+       "t": "应用",
+       "term_id": null
+      },
+      {
+       "t": "不断",
+       "term_id": null
+      },
+      {
+       "t": "发展",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "order_no": 9,
+   "label": "第九条",
+   "paragraphs": [
+    {
+     "id": 19,
+     "order_no": 1,
+     "text": "注册人/备案人应当按照医疗器械唯一标识的编制标准创建、维护医疗器械唯一标识。",
+     "tokens": [
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "编制",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "创建",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 20,
+     "order_no": 2,
+     "text": "医疗器械唯一标识编制标准应当符合国家药品监督管理局以及符合本规则要求的发码机构制定的相关标准。",
+     "tokens": [
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "编制",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "国家药品监督管理局",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "发码",
+       "term_id": null
+      },
+      {
+       "t": "机构",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "order_no": 10,
+   "label": "第十条",
+   "paragraphs": [
+    {
+     "id": 21,
+     "order_no": 1,
+     "text": "发码机构应当为中国境内的法人机构，具备完善的管理制度和运行体系，确保按照其标准创建的医疗器械唯一标识的唯一性，并符合国家数据安全有关要求。",
+     "tokens": [
+      {
+       "t": "发码",
+       "term_id": null
+      },
+      {
+       "t": "机构",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "中国",
+       "term_id": null
+      },
+      {
+       "t": "境内",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "法人",
+       "term_id": null
+      },
+      {
+       "t": "机构",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "完善",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "管理制度",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "运行",
+       "term_id": null
+      },
+      {
+       "t": "体系",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "创建",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "唯一性",
+       "term_id": 4
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "符合国家",
+       "term_id": null
+      },
+      {
+       "t": "数据安全",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 22,
+     "order_no": 2,
+     "text": "发码机构应当向注册人/备案人提供执行其标准的流程并指导实施，应当将其编码标准上传至医疗器械唯一标识数据库并动态维护，每年1月31日前向国家药品监督管理局提交按照其标准创建的唯一标识上一年度的报告。",
+     "tokens": [
+      {
+       "t": "发码",
+       "term_id": null
+      },
+      {
+       "t": "机构",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "流程",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "指导",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "将",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "编码标准",
+       "term_id": null
+      },
+      {
+       "t": "上传",
+       "term_id": null
+      },
+      {
+       "t": "至",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识数据库",
+       "term_id": 3
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "动态",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "每年",
+       "term_id": null
+      },
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "月",
+       "term_id": null
+      },
+      {
+       "t": "31",
+       "term_id": null
+      },
+      {
+       "t": "日前",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "国家药品监督管理局",
+       "term_id": null
+      },
+      {
+       "t": "提交",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "创建",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "唯一",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "年度",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 23,
+     "order_no": 3,
+     "text": "国家鼓励发码机构采用相关国际标准建立唯一标识运行体系。",
+     "tokens": [
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "鼓励",
+       "term_id": null
+      },
+      {
+       "t": "发码",
+       "term_id": null
+      },
+      {
+       "t": "机构",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "国际标准",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "唯一",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "运行",
+       "term_id": null
+      },
+      {
+       "t": "体系",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "order_no": 11,
+   "label": "第十一条",
+   "paragraphs": [
+    {
+     "id": 24,
+     "order_no": 1,
+     "text": "医疗器械唯一标识数据载体应当满足自动识别和数据采集技术以及人工识读的要求。如空间有限或者使用受限，应当优先采用符合自动识别和数据采集技术的载体形式。",
+     "tokens": [
+      {
+       "t": "医疗器械唯一标识数据载体",
+       "term_id": 2
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "自动识别和数据采集",
+       "term_id": 7
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "人工识读",
+       "term_id": 8
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "空间",
+       "term_id": null
+      },
+      {
+       "t": "有限",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "受限",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "优先",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "自动识别和数据采集",
+       "term_id": 7
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "载体",
+       "term_id": null
+      },
+      {
+       "t": "形式",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 25,
+     "order_no": 2,
+     "text": "自动识别和数据采集技术包括一维码、二维码或者射频标签等形式，鼓励采用先进的自动识别和数据采集技术。",
+     "tokens": [
+      {
+       "t": "自动识别和数据采集",
+       "term_id": 7
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "一维",
+       "term_id": null
+      },
+      {
+       "t": "码",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "二维码",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "射频",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "形式",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "鼓励",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "先进",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "自动识别和数据采集",
+       "term_id": 7
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 26,
+     "order_no": 3,
+     "text": "采用一维码时，可将产品标识和生产标识串联，也可多行并联；采用射频标签时，应当同时具备一维码或者二维码。",
+     "tokens": [
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "一维",
+       "term_id": null
+      },
+      {
+       "t": "码时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "将",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "串联",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "也",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "多行",
+       "term_id": null
+      },
+      {
+       "t": "并联",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "射频",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "同时",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "一维",
+       "term_id": null
+      },
+      {
+       "t": "码",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "二维码",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "order_no": 12,
+   "label": "第十二条",
+   "paragraphs": [
+    {
+     "id": 27,
+     "order_no": 1,
+     "text": "注册人/备案人应当选择与其创建的医疗器械唯一标识相适应的数据载体标准，对以其名义上市的医疗器械最小销售单元和更高级别的包装或者医疗器械产品上赋予唯一标识数据载体，并确保在医疗器械经营使用期间唯一标识数据载体牢固、清晰、可读。",
+     "tokens": [
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "选择",
+       "term_id": null
+      },
+      {
+       "t": "与其",
+       "term_id": null
+      },
+      {
+       "t": "创建",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "载体",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "名义",
+       "term_id": null
+      },
+      {
+       "t": "上市",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "最小",
+       "term_id": null
+      },
+      {
+       "t": "销售",
+       "term_id": null
+      },
+      {
+       "t": "单元",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "更",
+       "term_id": null
+      },
+      {
+       "t": "高级",
+       "term_id": null
+      },
+      {
+       "t": "别的",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "赋予",
+       "term_id": null
+      },
+      {
+       "t": "唯一",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "载体",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "经营",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "期间",
+       "term_id": null
+      },
+      {
+       "t": "唯一",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "载体",
+       "term_id": null
+      },
+      {
+       "t": "牢固",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "清晰",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "读",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "order_no": 13,
+   "label": "第十三条",
+   "paragraphs": [
+    {
+     "id": 28,
+     "order_no": 1,
+     "text": "国家药品监督管理局制定医疗器械唯一标识数据相关标准及规范，组织建立医疗器械唯一标识数据库，供公众查询。",
+     "tokens": [
+      {
+       "t": "国家药品监督管理局",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识数据库",
+       "term_id": 3
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "供",
+       "term_id": null
+      },
+      {
+       "t": "公众",
+       "term_id": null
+      },
+      {
+       "t": "查询",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "order_no": 14,
+   "label": "第十四条",
+   "paragraphs": [
+    {
+     "id": 29,
+     "order_no": 1,
+     "text": "注册人/备案人应当按照相关标准或者规范要求上传、维护和更新唯一标识数据库中的相关数据，并对数据的真实性、准确性、完整性负责。",
+     "tokens": [
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "上传",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "唯一",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "数据库",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "真实性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "准确性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "完整性",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "order_no": 15,
+   "label": "第十五条",
+   "paragraphs": [
+    {
+     "id": 30,
+     "order_no": 1,
+     "text": "注册人/备案人应当在申请医疗器械注册、注册变更或者办理备案时，在注册/备案管理系统中提交其产品标识。",
+     "tokens": [
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "申请",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "变更",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "办理",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "管理系统",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "提交",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 31,
+     "order_no": 2,
+     "text": "注册人/备案人应当在产品上市销售前，将产品标识和相关数据上传至医疗器械唯一标识数据库。",
+     "tokens": [
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "上市",
+       "term_id": null
+      },
+      {
+       "t": "销售",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "将",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "上传",
+       "term_id": null
+      },
+      {
+       "t": "至",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识数据库",
+       "term_id": 3
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "order_no": 16,
+   "label": "第十六条",
+   "paragraphs": [
+    {
+     "id": 32,
+     "order_no": 1,
+     "text": "药品监督管理部门可根据监管需求调用和管理相关数据。",
+     "tokens": [
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "监管",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "调用",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 33,
+     "order_no": 2,
+     "text": "鼓励各相关方采用先进信息化手段、应用医疗器械唯一标识，对医疗器械在生产、经营、使用等环节进行管理。",
+     "tokens": [
+      {
+       "t": "鼓励",
+       "term_id": null
+      },
+      {
+       "t": "各",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "方",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "先进",
+       "term_id": null
+      },
+      {
+       "t": "信息化",
+       "term_id": null
+      },
+      {
+       "t": "手段",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "应用",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械唯一标识",
+       "term_id": 1
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "经营",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "环节",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "order_no": 17,
+   "label": "第十七条",
+   "paragraphs": [
+    {
+     "id": 34,
+     "order_no": 1,
+     "text": "本规则下列用语的含义：",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "用语",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "含义",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 35,
+     "order_no": 2,
+     "text": "自动识别和数据采集，是指不通过键盘直接将数据输入计算机系统或者其他微处理器控制的设备的技术。",
+     "tokens": [
+      {
+       "t": "自动识别和数据采集",
+       "term_id": 7
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "通过",
+       "term_id": null
+      },
+      {
+       "t": "键盘",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "将",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "输入",
+       "term_id": null
+      },
+      {
+       "t": "计算机系统",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "微处理器",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 36,
+     "order_no": 3,
+     "text": "人工识读，是指与机器识读媒介相对应的，可由人眼直接识别的编码信息。",
+     "tokens": [
+      {
+       "t": "人工识读",
+       "term_id": 8
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "机器",
+       "term_id": null
+      },
+      {
+       "t": "识读",
+       "term_id": null
+      },
+      {
+       "t": "媒介",
+       "term_id": null
+      },
+      {
+       "t": "相对",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "人眼",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "编码",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "order_no": 18,
+   "label": "第十八条",
+   "paragraphs": [
+    {
+     "id": 37,
+     "order_no": 1,
+     "text": "本规则自2019年10月1日起施行。分类实施的具体步骤另行制定并公布。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "自",
+       "term_id": null
+      },
+      {
+       "t": "2019",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "10",
+       "term_id": null
+      },
+      {
+       "t": "月",
+       "term_id": null
+      },
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "日起",
+       "term_id": null
+      },
+      {
+       "t": "施行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "分类",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "具体步骤",
+       "term_id": null
+      },
+      {
+       "t": "另行",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "公布",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

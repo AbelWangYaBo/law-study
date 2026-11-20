@@ -1,0 +1,24 @@
+{
+ "name": "法规体系",
+ "children": [
+  {
+   "name": "医疗器械监督管理条例",
+   "extra": {
+    "level": "",
+    "law_id": null,
+    "virtual": true
+   },
+   "children": [
+    {
+     "name": "医疗器械唯一标识系统规则",
+     "extra": {
+      "level": "规范性文件",
+      "law_id": 1,
+      "virtual": false
+     },
+     "children": []
+    }
+   ]
+  }
+ ]
+}

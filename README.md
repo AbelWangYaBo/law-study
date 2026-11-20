@@ -49,3 +49,13 @@ cd web && npm run dev   # http://localhost:5174
 ```bash
 uv run pytest    # 15 例：解析器/抽取器/分词器/API 端到端/一字不差校验
 ```
+
+## 静态快照只读模式（GitHub Pages）
+
+后端不可用时前端自动回退读取 `web/public/api-snapshot/` 下的导出快照，顶部显示只读横幅；
+阅读 / 拼句背诵（打乱与判分在本地进行）/ 术语字典 / 知识图谱均可浏览，AI 解读与练习进度不可用。
+
+```bash
+uv run python scripts/snapshot.py    # 数据库变更后重新导出，随 vite build 拷入 dist
+```
+

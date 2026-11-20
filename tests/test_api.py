@@ -4,7 +4,7 @@ from pathlib import Path
 
 from app.importer.import_service import import_law
 
-UDI_HTML = Path("/Volumes/APFS_2/abel/走进先健/医疗器械唯一标识系统规则.html")
+UDI_HTML = Path(__file__).resolve().parent / "fixtures" / "医疗器械唯一标识系统规则.html"
 
 
 def _import(db_session):

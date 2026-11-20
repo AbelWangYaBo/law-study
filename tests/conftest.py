@@ -9,8 +9,6 @@ import app.database as database
 from app.database import Base, get_db
 from app.main import app
 
-UDI_HTML = "/Volumes/APFS_2/abel/走进先健/医疗器械唯一标识系统规则.html"
-
 
 @pytest.fixture
 def db_session(tmp_path):

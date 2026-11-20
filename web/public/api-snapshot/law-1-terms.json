@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1,
+  "name": "医疗器械唯一标识",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "在医疗器械产品或者包装上附载的，由数字、字母或者符号组成的代码，用于对医疗器械进行唯一性识别",
+  "article_id": 3,
+  "article_label": "第三条"
+ },
+ {
+  "id": 2,
+  "name": "医疗器械唯一标识数据载体",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "存储或者传输医疗器械唯一标识的数据媒介",
+  "article_id": 3,
+  "article_label": "第三条"
+ },
+ {
+  "id": 3,
+  "name": "医疗器械唯一标识数据库",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "储存医疗器械唯一标识的产品标识与关联信息的数据库",
+  "article_id": 3,
+  "article_label": "第三条"
+ },
+ {
+  "id": 4,
+  "name": "唯一性",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "医疗器械唯一标识应当与医疗器械识别要求相一致",
+  "article_id": 8,
+  "article_label": "第八条"
+ },
+ {
+  "id": 5,
+  "name": "稳定性",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "医疗器械唯一标识应当与产品基本特征相关，产品的基本特征未变化的，产品标识应当保持不变",
+  "article_id": 8,
+  "article_label": "第八条"
+ },
+ {
+  "id": 6,
+  "name": "可扩展性",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "医疗器械唯一标识应当与监管要求和实际应用不断发展相适应",
+  "article_id": 8,
+  "article_label": "第八条"
+ },
+ {
+  "id": 7,
+  "name": "自动识别和数据采集",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "不通过键盘直接将数据输入计算机系统或者其他微处理器控制的设备的技术",
+  "article_id": 17,
+  "article_label": "第十七条"
+ },
+ {
+  "id": 8,
+  "name": "人工识读",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "与机器识读媒介相对应的，可由人眼直接识别的编码信息",
+  "article_id": 17,
+  "article_label": "第十七条"
+ }
+]
