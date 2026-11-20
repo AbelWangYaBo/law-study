@@ -1,0 +1,132 @@
+:root {
+  --ink: #2f2b26;
+  --ink-2: #55504a;
+  --mute: #8c8579;
+  --line: #e6e0d6;
+  --paper: #fffdf9;
+  --bg: #f3f0ea;
+  --accent: #8a6d3b;
+  --ok: #2e7d32;
+  --bad: #c62828;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, "PingFang SC", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.serif {
+  font-family: "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", "STSong", "SimSun", Georgia, serif;
+}
+
+.layout { max-width: 980px; margin: 0 auto; padding: 20px 16px 60px; }
+
+.topbar {
+  display: flex; align-items: center; gap: 18px;
+  padding: 12px 4px; margin-bottom: 20px;
+  border-bottom: 1px solid var(--line);
+}
+.topbar .brand { font-weight: 700; letter-spacing: .1em; color: var(--ink); text-decoration: none; }
+.topbar nav { display: flex; gap: 6px; }
+.topbar nav a {
+  padding: 6px 14px; border-radius: 18px; text-decoration: none;
+  color: var(--ink-2); font-size: 14px;
+}
+.topbar nav a.router-link-active { background: var(--ink); color: var(--paper); }
+
+.card {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 22px 26px;
+  box-shadow: 0 1px 2px rgba(47,43,38,.05), 0 10px 30px rgba(47,43,38,.05);
+}
+
+button {
+  font: inherit; cursor: pointer;
+  border: 1px solid var(--line); background: var(--paper); color: var(--ink);
+  padding: 6px 16px; border-radius: 18px; font-size: 14px;
+  transition: all .15s;
+}
+button:hover { border-color: var(--accent); color: var(--accent); }
+button.primary { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+button.primary:hover { opacity: .88; }
+button:disabled { opacity: .45; cursor: not-allowed; }
+
+.tag {
+  display: inline-block; padding: 1px 10px; border-radius: 12px;
+  font-size: 12px; background: #f0ece4; color: var(--ink-2);
+}
+
+.muted { color: var(--mute); font-size: 13px; }
+
+/* 术语高亮 */
+.term-hit {
+  border-bottom: 2px solid #c9a86a;
+  cursor: help;
+  background: #faf5ea;
+  border-radius: 2px; padding: 0 1px;
+}
+
+/* 词块 */
+.block {
+  display: inline-flex; align-items: center;
+  padding: 6px 12px; margin: 4px; border-radius: 8px;
+  background: var(--paper); border: 1px solid var(--line);
+  font-size: 16px; cursor: pointer; user-select: none;
+  box-shadow: 0 1px 1px rgba(47,43,38,.06);
+}
+.block:hover { border-color: var(--accent); }
+.block .idx { font-size: 11px; color: var(--mute); margin-left: 6px; }
+.block.in-answer { background: #f7f3ea; }
+.block.ok { border-color: var(--ok); color: var(--ok); }
+.block.bad { border-color: var(--bad); color: var(--bad); background: #fdeeee; }
+.block.ghost { opacity: .35; }
+
+.drop-zone {
+  min-height: 58px; border: 1.5px dashed var(--line); border-radius: 10px;
+  padding: 6px 8px; line-height: 1.6;
+}
+.drop-zone.filled { border-style: solid; border-color: #d8d0c0; background: #fcfaf5; }
+
+/* 条款选择网格 */
+.art-grid { display: flex; flex-wrap: wrap; gap: 6px; }
+.art-chip {
+  width: 44px; height: 36px; display: inline-flex; align-items: center; justify-content: center;
+  border: 1px solid var(--line); border-radius: 8px; font-size: 13px;
+  cursor: pointer; color: var(--ink-2); background: var(--paper);
+}
+.art-chip:hover { border-color: var(--accent); }
+.art-chip.active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.art-chip.passed { border-color: var(--ok); color: var(--ok); }
+.art-chip.passed.active { background: var(--ok); color: #fff; }
+.art-chip.attempted { border-color: #c9a86a; color: #a8863d; }
+
+/* AI 解读面板 */
+.reading-panel {
+  margin-top: 12px; padding: 18px 22px;
+  background: #faf8f2; border: 1px solid var(--line); border-radius: 10px;
+  line-height: 1.85; font-size: 15px;
+}
+.reading-panel h1, .reading-panel h2, .reading-panel h3 { font-size: 16px; margin: 14px 0 6px; }
+.reading-panel table { border-collapse: collapse; margin: 8px 0; }
+.reading-panel th, .reading-panel td { border: 1px solid var(--line); padding: 5px 12px; font-size: 14px; }
+.reading-panel ul, .reading-panel ol { padding-left: 22px; }
+
+.spin {
+  display: inline-block; width: 14px; height: 14px;
+  border: 2px solid var(--line); border-top-color: var(--accent);
+  border-radius: 50%; animation: spin .8s linear infinite;
+  vertical-align: -2px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.error-box {
+  margin-top: 10px; padding: 10px 16px; border-radius: 8px;
+  background: #fdeeee; color: var(--bad); font-size: 14px;
+}
