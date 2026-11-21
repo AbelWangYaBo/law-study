@@ -86,6 +86,9 @@ export const api = {
     ? snapshotFetch(`law-${id}.json`).then(cacheDetail)
     : request(`/api/laws/${id}`),
   lawTerms: (id) => snapshotMode ? snapshotFetch(`law-${id}-terms.json`) : request(`/api/laws/${id}/terms`),
+  lawReadings: (id) => snapshotMode
+    ? snapshotFetch(`law-${id}-readings.json`).catch(() => [])
+    : request(`/api/laws/${id}/readings`),
   shuffle: (pid) => snapshotMode ? localShuffle(pid) : request(`/api/practice/paragraphs/${pid}/shuffle`),
   check: (payload) => snapshotMode ? localCheck(payload) : request('/api/practice/check', { method: 'POST', body: JSON.stringify(payload) }),
   progress: (lawId) => snapshotMode ? localProgress() : request(`/api/practice/progress?law_id=${lawId}`),

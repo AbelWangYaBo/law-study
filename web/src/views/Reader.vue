@@ -8,11 +8,18 @@ const snapshot = inject('snapshot', false)
 const detail = ref(null)
 const termsById = ref({})
 const readings = reactive({})   // key: `${articleId}:${kind}`
+const storedReadings = ref({})  // 快照/后端已有解读，key 同上（取最新一条）
 
 async function load() {
   detail.value = await api.lawDetail(currentLawId.value)
   const terms = await api.lawTerms(currentLawId.value)
   termsById.value = Object.fromEntries(terms.map(t => [t.id, t]))
+  try {
+    const rs = await api.lawReadings(currentLawId.value)
+    const map = {}
+    for (const r of rs) map[`${r.article_id}:${r.kind}`] = r   // 后写覆盖 = 最新
+    storedReadings.value = map
+  } catch { /* 老后端或快照缺失：无历史解读 */ }
 }
 load()
 
@@ -23,10 +30,18 @@ async function toggleReading(article, kind) {
   const state = readings[key] || (readings[key] = { open: false, loading: false, content: '', error: '' })
   state.open = true
   if (!state.content && !state.loading) {
+    if (snapshot) {
+      const s = storedReadings.value[key]
+      if (s) { state.content = s.content; state.model = s.model; state.date = s.created_at }
+      else state.error = '静态快照暂无此条解读：本地生成并重新发布快照后可见'
+      return
+    }
     state.loading = true
     try {
       const r = await api.reading({ article_id: article.id, kind })
       state.content = r.content
+      state.model = r.model
+      state.date = new Date().toLocaleString('zh-CN', { hour12: false })
     } catch (e) {
       state.error = String(e.message || e)
     } finally {
@@ -36,6 +51,7 @@ async function toggleReading(article, kind) {
 }
 
 async function regenerate(article, kind) {
+  if (snapshot) return   // 静态模式不可再生成
   const key = `${article.id}:${kind}`
   const state = readings[key]
   state.content = ''
@@ -75,8 +91,8 @@ const law = computed(() => detail.value)
       <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
         <h2 class="serif" style="margin:0; font-size:18px; letter-spacing:.1em;">{{ a.label }}</h2>
         <span style="flex:1"></span>
-        <button :disabled="snapshot" :title="snapshot ? '静态快照模式不可用' : ''" @click="toggleReading(a, 'interpret')">AI 解读</button>
-        <button :disabled="snapshot" :title="snapshot ? '静态快照模式不可用' : ''" @click="toggleReading(a, 'scenario')">场景分析</button>
+        <button :title="snapshot ? '展示快照中已生成的解读' : ''" @click="toggleReading(a, 'interpret')">AI 解读</button>
+        <button :title="snapshot ? '展示快照中已生成的场景分析' : ''" @click="toggleReading(a, 'scenario')">场景分析</button>
       </div>
 
       <p
@@ -94,8 +110,9 @@ const law = computed(() => detail.value)
           <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
             <b>{{ kindLabel[kind] }}</b>
             <span class="muted">{{ a.label }}</span>
+            <span v-if="readings[`${a.id}:${kind}`].model" class="muted" style="font-size:12px;">{{ readings[`${a.id}:${kind}`].model }}<template v-if="readings[`${a.id}:${kind}`].date"> · {{ readings[`${a.id}:${kind}`].date }}</template></span>
             <span style="flex:1"></span>
-            <button v-if="readings[`${a.id}:${kind}`].content" @click="regenerate(a, kind)" style="font-size:12px; padding:3px 12px;">重新生成</button>
+            <button v-if="!snapshot && readings[`${a.id}:${kind}`].content" @click="regenerate(a, kind)" style="font-size:12px; padding:3px 12px;">重新生成</button>
             <button @click="readings[`${a.id}:${kind}`].open = false" style="font-size:12px; padding:3px 12px;">收起</button>
           </div>
           <div v-if="readings[`${a.id}:${kind}`].loading" class="muted"><span class="spin"></span> 生成中，约需十几秒…</div>

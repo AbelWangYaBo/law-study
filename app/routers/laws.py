@@ -8,7 +8,7 @@ from sqlalchemy.orm import Session
 
 from ..database import get_db
 from ..importer.import_service import import_law
-from ..models import Article, Law, Paragraph, Term
+from ..models import Article, Law, Paragraph, Reading, Term
 
 router = APIRouter(prefix="/api/laws", tags=["laws"])
 
@@ -83,6 +83,28 @@ def law_terms(law_id: int, db: Session = Depends(get_db)):
             "article_id": t.article_id, "article_label": article_labels.get(t.article_id, ""),
         }
         for t in terms
+    ]
+
+
+@router.get("/{law_id}/readings")
+def law_readings(law_id: int, db: Session = Depends(get_db)):
+    """已生成的 AI 解读/场景分析（含历史，按条款排序）。"""
+    if not db.get(Law, law_id):
+        raise HTTPException(404, "法规不存在")
+    rows = (
+        db.query(Reading, Article)
+        .join(Article, Reading.article_id == Article.id)
+        .filter(Article.law_id == law_id)
+        .order_by(Article.order_no, Reading.id)
+        .all()
+    )
+    return [
+        {
+            "article_id": r.article_id, "article_label": a.label, "article_order": a.order_no,
+            "kind": r.kind, "model": r.model, "content": r.content,
+            "created_at": r.created_at.strftime("%Y-%m-%d %H:%M") if r.created_at else "",
+        }
+        for r, a in rows
     ]
 
 

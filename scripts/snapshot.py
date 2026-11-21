@@ -36,6 +36,7 @@ def main() -> None:
         law_id = law["id"]
         dump(f"law-{law_id}", client.get(f"/api/laws/{law_id}").json())
         dump(f"law-{law_id}-terms", client.get(f"/api/laws/{law_id}/terms").json())
+        dump(f"law-{law_id}-readings", client.get(f"/api/laws/{law_id}/readings").json())
         dump(f"graph-term-graph-{law_id}", client.get(f"/api/graph/term-graph?law_id={law_id}").json())
     dump("graph-law-tree", client.get("/api/graph/law-tree").json())
     dump("graph-relations", client.get("/api/graph/relations").json())
