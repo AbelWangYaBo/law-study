@@ -1,0 +1,65 @@
+[
+ {
+  "id": 12,
+  "name": "深度合成服务",
+  "term_type": "short_name",
+  "full_name": "",
+  "definition": "",
+  "article_id": 44,
+  "article_label": "第二条"
+ },
+ {
+  "id": 13,
+  "name": "深度合成技术",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "利用深度学习、虚拟现实等生成合成类算法制作文本、图像、音频、视频、虚拟场景等网络信息的技术，包括但不限于：",
+  "article_id": 65,
+  "article_label": "第二十三条"
+ },
+ {
+  "id": 14,
+  "name": "深度合成服务提供者",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "提供深度合成服务的组织、个人",
+  "article_id": 65,
+  "article_label": "第二十三条"
+ },
+ {
+  "id": 15,
+  "name": "深度合成服务技术支持者",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "为深度合成服务提供技术支持的组织、个人",
+  "article_id": 65,
+  "article_label": "第二十三条"
+ },
+ {
+  "id": 16,
+  "name": "深度合成服务使用者",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "使用深度合成服务制作、复制、发布、传播信息的组织、个人",
+  "article_id": 65,
+  "article_label": "第二十三条"
+ },
+ {
+  "id": 17,
+  "name": "训练数据",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "被用于训练机器学习模型的标注或者基准数据集",
+  "article_id": 65,
+  "article_label": "第二十三条"
+ },
+ {
+  "id": 18,
+  "name": "沉浸式拟真场景",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "应用深度合成技术生成或者编辑的、可供参与者体验或者互动的、具有高度真实感的虚拟场景",
+  "article_id": 65,
+  "article_label": "第二十三条"
+ }
+]

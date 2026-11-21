@@ -1,0 +1,8511 @@
+{
+ "id": 5,
+ "name": "中华人民共和国电子签名法",
+ "doc_number": "2019年修正",
+ "authority": "全国人大常委会",
+ "level": "法律",
+ "effective_date": "2019-04-23",
+ "articles": [
+  {
+   "id": 103,
+   "order_no": 1,
+   "label": "第一条",
+   "paragraphs": [
+    {
+     "id": 200,
+     "order_no": 1,
+     "text": "为了规范电子签名行为，确立电子签名的法律效力，维护有关各方的合法权益，制定本法。",
+     "tokens": [
+      {
+       "t": "为了",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "行为",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确立",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "法律效力",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "各方",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "合法权益",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "本法",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "order_no": 2,
+   "label": "第二条",
+   "paragraphs": [
+    {
+     "id": 201,
+     "order_no": 1,
+     "text": "本法所称电子签名，是指数据电文中以电子形式所含、所附用于识别签名人身份并表明签名人认可其中内容的数据。",
+     "tokens": [
+      {
+       "t": "本法所称电子签名",
+       "term_id": 21
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "中以",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "形式",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "含",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "附",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "签名",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "身份",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "表明",
+       "term_id": null
+      },
+      {
+       "t": "签名",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "认可",
+       "term_id": null
+      },
+      {
+       "t": "其中",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 202,
+     "order_no": 2,
+     "text": "本法所称数据电文，是指以电子、光学、磁或者类似手段生成、发送、接收或者储存的信息。",
+     "tokens": [
+      {
+       "t": "本法所称数据电文",
+       "term_id": 22
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指以",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "光学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "磁",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "类似",
+       "term_id": null
+      },
+      {
+       "t": "手段",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "order_no": 3,
+   "label": "第三条",
+   "paragraphs": [
+    {
+     "id": 203,
+     "order_no": 1,
+     "text": "民事活动中的合同或者其他文件、单证等文书，当事人可以约定使用或者不使用电子签名、数据电文。",
+     "tokens": [
+      {
+       "t": "民事",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "合同",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "单证",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "文书",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "当事人",
+       "term_id": null
+      },
+      {
+       "t": "可以",
+       "term_id": null
+      },
+      {
+       "t": "约定",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 204,
+     "order_no": 2,
+     "text": "当事人约定使用电子签名、数据电文的文书，不得仅因为其采用电子签名、数据电文的形式而否定其法律效力。",
+     "tokens": [
+      {
+       "t": "当事人",
+       "term_id": null
+      },
+      {
+       "t": "约定",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "文书",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "仅",
+       "term_id": null
+      },
+      {
+       "t": "因为",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "形式",
+       "term_id": null
+      },
+      {
+       "t": "而",
+       "term_id": null
+      },
+      {
+       "t": "否定",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "法律效力",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 205,
+     "order_no": 3,
+     "text": "前款规定不适用下列文书：",
+     "tokens": [
+      {
+       "t": "前款",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "适用",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "文书",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 206,
+     "order_no": 4,
+     "text": "（一）涉及婚姻、收养、继承等人身关系的；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "涉及",
+       "term_id": null
+      },
+      {
+       "t": "婚姻",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "收养",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "继承",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "人身",
+       "term_id": null
+      },
+      {
+       "t": "关系",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 207,
+     "order_no": 5,
+     "text": "（二）涉及停止供水、供热、供气等公用事业服务的；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "涉及",
+       "term_id": null
+      },
+      {
+       "t": "停止",
+       "term_id": null
+      },
+      {
+       "t": "供水",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "供热",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "供气",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "公用事业",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 208,
+     "order_no": 6,
+     "text": "（三）法律、行政法规规定的不适用电子文书的其他情形。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行政",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "适用",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "文书",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "情形",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "order_no": 4,
+   "label": "第四条",
+   "paragraphs": [
+    {
+     "id": 209,
+     "order_no": 1,
+     "text": "能够有形地表现所载内容，并可以随时调取查用的数据电文，视为符合法律、法规要求的书面形式。",
+     "tokens": [
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "有形",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "表现",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "载",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "可以",
+       "term_id": null
+      },
+      {
+       "t": "随时",
+       "term_id": null
+      },
+      {
+       "t": "调取",
+       "term_id": null
+      },
+      {
+       "t": "查用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "视为",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "书面形式",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "order_no": 5,
+   "label": "第五条",
+   "paragraphs": [
+    {
+     "id": 210,
+     "order_no": 1,
+     "text": "符合下列条 件的数据电文，视为满足法律、法规规定的原件形式要求：",
+     "tokens": [
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "条",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "视为",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原件",
+       "term_id": null
+      },
+      {
+       "t": "形式",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 211,
+     "order_no": 2,
+     "text": "（一）能够有效地表现所载内容并可供随时调取查用；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "表现",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "载",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "供",
+       "term_id": null
+      },
+      {
+       "t": "随时",
+       "term_id": null
+      },
+      {
+       "t": "调取",
+       "term_id": null
+      },
+      {
+       "t": "查用",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 212,
+     "order_no": 3,
+     "text": "（二）能够可靠地保证自最终形成时起，内容保持完整、未被更改。但是，在数据电文上增加背书以及数据交换、储存和显示过程中发生的形式变化不影响数据电文的完整性。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "可靠",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "自",
+       "term_id": null
+      },
+      {
+       "t": "最终",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "时起",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "未",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "更改",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "但是",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "增加",
+       "term_id": null
+      },
+      {
+       "t": "背书",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "数据交换",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "显示",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "发生",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "形式",
+       "term_id": null
+      },
+      {
+       "t": "变化",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "完整性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "order_no": 6,
+   "label": "第六条",
+   "paragraphs": [
+    {
+     "id": 213,
+     "order_no": 1,
+     "text": "符合下列条 件的数据电文，视为满足法律、法规规定的文件保存要求：",
+     "tokens": [
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "条",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "视为",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 214,
+     "order_no": 2,
+     "text": "（一）能够有效地表现所载内容并可供随时调取查用；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "表现",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "载",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "供",
+       "term_id": null
+      },
+      {
+       "t": "随时",
+       "term_id": null
+      },
+      {
+       "t": "调取",
+       "term_id": null
+      },
+      {
+       "t": "查用",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 215,
+     "order_no": 3,
+     "text": "（二）数据电文的格式与其生成、发送或者接收时的格式相同，或者格式不相同但是能够准确表现原来生成、发送或者接收的内容；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "格式",
+       "term_id": null
+      },
+      {
+       "t": "与其",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "格式",
+       "term_id": null
+      },
+      {
+       "t": "相同",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "格式",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "相同",
+       "term_id": null
+      },
+      {
+       "t": "但是",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "准确",
+       "term_id": null
+      },
+      {
+       "t": "表现",
+       "term_id": null
+      },
+      {
+       "t": "原来",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 216,
+     "order_no": 4,
+     "text": "（三）能够识别数据电文的发件人、收件人以及发送、接收的时间。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "发件人",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "收件人",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "order_no": 7,
+   "label": "第七条",
+   "paragraphs": [
+    {
+     "id": 217,
+     "order_no": 1,
+     "text": "数据电文不得仅因为其是以电子、光学、磁或者类似手段生成、发送、接收或者储存的而被拒绝作为证据使用。",
+     "tokens": [
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "仅",
+       "term_id": null
+      },
+      {
+       "t": "因为",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "光学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "磁",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "类似",
+       "term_id": null
+      },
+      {
+       "t": "手段",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "而",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "拒绝",
+       "term_id": null
+      },
+      {
+       "t": "作为",
+       "term_id": null
+      },
+      {
+       "t": "证据",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "order_no": 8,
+   "label": "第八条",
+   "paragraphs": [
+    {
+     "id": 218,
+     "order_no": 1,
+     "text": "审查数据电文作为证据的真实性，应当考虑以下因素：",
+     "tokens": [
+      {
+       "t": "审查",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "作为",
+       "term_id": null
+      },
+      {
+       "t": "证据",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "真实性",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "考虑",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "因素",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 219,
+     "order_no": 2,
+     "text": "（一）生成、储存或者传递数据电文方法的可靠性；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "传递数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "可靠性",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 220,
+     "order_no": 3,
+     "text": "（二）保持内容完整性方法的可靠性；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "完整性",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "可靠性",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 221,
+     "order_no": 4,
+     "text": "（三）用以鉴别发件人方法的可靠性；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "用以",
+       "term_id": null
+      },
+      {
+       "t": "鉴别",
+       "term_id": null
+      },
+      {
+       "t": "发件人",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "可靠性",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 222,
+     "order_no": 5,
+     "text": "（四）其他相关因素。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "因素",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "order_no": 9,
+   "label": "第九条",
+   "paragraphs": [
+    {
+     "id": 223,
+     "order_no": 1,
+     "text": "数据电文有下列情形之一的，视为发件人发送：",
+     "tokens": [
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "情形",
+       "term_id": null
+      },
+      {
+       "t": "之一",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "视为",
+       "term_id": null
+      },
+      {
+       "t": "发件人",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 224,
+     "order_no": 2,
+     "text": "（一）经发件人授权发送的；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "发件人",
+       "term_id": null
+      },
+      {
+       "t": "授权",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 225,
+     "order_no": 3,
+     "text": "（二）发件人的信息系统自动发送的；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "发件人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "信息系统",
+       "term_id": null
+      },
+      {
+       "t": "自动",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 226,
+     "order_no": 4,
+     "text": "（三）收件人按照发件人认可的方法对数据电文进行验证后结果相符的。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "收件人",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "发件人",
+       "term_id": null
+      },
+      {
+       "t": "认可",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "相符",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 227,
+     "order_no": 5,
+     "text": "当事人对前款规定的事项另有约定的，从其约定。",
+     "tokens": [
+      {
+       "t": "当事人",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "前款",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "事项",
+       "term_id": null
+      },
+      {
+       "t": "另有",
+       "term_id": null
+      },
+      {
+       "t": "约定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "从",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "约定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "order_no": 10,
+   "label": "第十条",
+   "paragraphs": [
+    {
+     "id": 228,
+     "order_no": 1,
+     "text": "法律、行政法规规定或者当事人约定数据电文需要确认收讫的，应当确认收讫。发件人收到收件人的收讫确认时，数据电文视为已经收到。",
+     "tokens": [
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行政",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "当事人",
+       "term_id": null
+      },
+      {
+       "t": "约定",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "收讫",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "收讫",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "发件人",
+       "term_id": null
+      },
+      {
+       "t": "收到",
+       "term_id": null
+      },
+      {
+       "t": "收件人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "收讫",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "视为",
+       "term_id": null
+      },
+      {
+       "t": "已经",
+       "term_id": null
+      },
+      {
+       "t": "收到",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "order_no": 11,
+   "label": "第十一条",
+   "paragraphs": [
+    {
+     "id": 229,
+     "order_no": 1,
+     "text": "数据电文进入发件人控制之外的某个信息系统的时间，视为该数据电文的发送时间。",
+     "tokens": [
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "发件人",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "之外",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "某个",
+       "term_id": null
+      },
+      {
+       "t": "信息系统",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "视为",
+       "term_id": null
+      },
+      {
+       "t": "该",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 230,
+     "order_no": 2,
+     "text": "收件人指定特定系统接收数据电文的，数据电文进入该特定系统的时间，视为该数据电文的接收时间；未指定特定系统的，数据电文进入收件人的任何系统的首次时间，视为该数据电文的接收时间。",
+     "tokens": [
+      {
+       "t": "收件人",
+       "term_id": null
+      },
+      {
+       "t": "指定",
+       "term_id": null
+      },
+      {
+       "t": "特定",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "接收数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "该",
+       "term_id": null
+      },
+      {
+       "t": "特定",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "视为",
+       "term_id": null
+      },
+      {
+       "t": "该",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "未指定",
+       "term_id": null
+      },
+      {
+       "t": "特定",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "收件人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "任何",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "首次",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "视为",
+       "term_id": null
+      },
+      {
+       "t": "该",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 231,
+     "order_no": 3,
+     "text": "当事人对数据电文的发送时间、接收时间另有约定的，从其约定。",
+     "tokens": [
+      {
+       "t": "当事人",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "另有",
+       "term_id": null
+      },
+      {
+       "t": "约定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "从",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "约定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "order_no": 12,
+   "label": "第十二条",
+   "paragraphs": [
+    {
+     "id": 232,
+     "order_no": 1,
+     "text": "发件人的主营业地为数据电文的发送地点，收件人的主营业地为数据电文的接收地点。没有主营业地的，其经常居住地为发送或者接收地点。",
+     "tokens": [
+      {
+       "t": "发件人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "主",
+       "term_id": null
+      },
+      {
+       "t": "营业",
+       "term_id": null
+      },
+      {
+       "t": "地为",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "地点",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "收件人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "主",
+       "term_id": null
+      },
+      {
+       "t": "营业",
+       "term_id": null
+      },
+      {
+       "t": "地为",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "地点",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "没有",
+       "term_id": null
+      },
+      {
+       "t": "主",
+       "term_id": null
+      },
+      {
+       "t": "营业",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "经常",
+       "term_id": null
+      },
+      {
+       "t": "居住地",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "地点",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 233,
+     "order_no": 2,
+     "text": "当事人对数据电文的发送地点、接收地点另有约定的，从其约定。",
+     "tokens": [
+      {
+       "t": "当事人",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "发送",
+       "term_id": null
+      },
+      {
+       "t": "地点",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "地点",
+       "term_id": null
+      },
+      {
+       "t": "另有",
+       "term_id": null
+      },
+      {
+       "t": "约定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "从",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "约定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "order_no": 13,
+   "label": "第十三条",
+   "paragraphs": [
+    {
+     "id": 234,
+     "order_no": 1,
+     "text": "电子签名同时符合下列条 件的，视为可靠的电子签名：",
+     "tokens": [
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "同时",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "条",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "视为",
+       "term_id": null
+      },
+      {
+       "t": "可靠",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 235,
+     "order_no": 2,
+     "text": "（一）电子签名制作数据用于电子签名时，属于电子签名人专有；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "电子签名制作数据",
+       "term_id": 26
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "属于",
+       "term_id": null
+      },
+      {
+       "t": "电子签名人",
+       "term_id": 23
+      },
+      {
+       "t": "专有",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 236,
+     "order_no": 3,
+     "text": "（二）签署时电子签名制作数据仅由电子签名人控制；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "签署",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "电子签名制作数据",
+       "term_id": 26
+      },
+      {
+       "t": "仅",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "电子签名人",
+       "term_id": 23
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 237,
+     "order_no": 4,
+     "text": "（三）签署后对电子签名的任何改动能够被发现；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "签署",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "任何",
+       "term_id": null
+      },
+      {
+       "t": "改动",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "发现",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 238,
+     "order_no": 5,
+     "text": "（四）签署后对数据电文内容和形式的任何改动能够被发现。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "签署",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "形式",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "任何",
+       "term_id": null
+      },
+      {
+       "t": "改动",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "发现",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 239,
+     "order_no": 6,
+     "text": "当事人也可以选择使用符合其约定的可靠条 件的电子签名。",
+     "tokens": [
+      {
+       "t": "当事人",
+       "term_id": null
+      },
+      {
+       "t": "也",
+       "term_id": null
+      },
+      {
+       "t": "可以",
+       "term_id": null
+      },
+      {
+       "t": "选择",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "约定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "可靠",
+       "term_id": null
+      },
+      {
+       "t": "条",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "order_no": 14,
+   "label": "第十四条",
+   "paragraphs": [
+    {
+     "id": 240,
+     "order_no": 1,
+     "text": "可靠的电子签名与手写签名或者盖章具有同等的法律效力。",
+     "tokens": [
+      {
+       "t": "可靠",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "手写",
+       "term_id": null
+      },
+      {
+       "t": "签名",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "盖章",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "同等",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "法律效力",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "order_no": 15,
+   "label": "第十五条",
+   "paragraphs": [
+    {
+     "id": 241,
+     "order_no": 1,
+     "text": "电子签名人应当妥善保管电子签名制作数据。电子签名人知悉电子签名制作数据已经失密或者可能已经失密时，应当及时告知有关各方，并终止使用该电子签名制作数据。",
+     "tokens": [
+      {
+       "t": "电子签名人",
+       "term_id": 23
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "妥善",
+       "term_id": null
+      },
+      {
+       "t": "保管",
+       "term_id": null
+      },
+      {
+       "t": "电子签名制作数据",
+       "term_id": 26
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "电子签名人",
+       "term_id": 23
+      },
+      {
+       "t": "知悉",
+       "term_id": null
+      },
+      {
+       "t": "电子签名制作数据",
+       "term_id": 26
+      },
+      {
+       "t": "已经",
+       "term_id": null
+      },
+      {
+       "t": "失密",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "已经",
+       "term_id": null
+      },
+      {
+       "t": "失密",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "及时",
+       "term_id": null
+      },
+      {
+       "t": "告知",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "各方",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "终止",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "该",
+       "term_id": null
+      },
+      {
+       "t": "电子签名制作数据",
+       "term_id": 26
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "order_no": 16,
+   "label": "第十六条",
+   "paragraphs": [
+    {
+     "id": 242,
+     "order_no": 1,
+     "text": "电子签名需要第三方认证的，由依法设立的电子认证服务提供者提供认证服务。",
+     "tokens": [
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "第三方",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "设立",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "order_no": 17,
+   "label": "第十七条",
+   "paragraphs": [
+    {
+     "id": 243,
+     "order_no": 1,
+     "text": "提供电子认证服务，应当具备下列条 件：",
+     "tokens": [
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "条",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "件",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 244,
+     "order_no": 2,
+     "text": "（一）取得企业法人资格；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "取得",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "法人资格",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 245,
+     "order_no": 3,
+     "text": "（二）具有与提供电子认证服务相适应的专业技术人员和管理人员；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "技术人员",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "管理人员",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 246,
+     "order_no": 4,
+     "text": "（三）具有与提供电子认证服务相适应的资金和经营场所；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "资金",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "经营场所",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 247,
+     "order_no": 5,
+     "text": "（四）具有符合国家安全标准的技术和设备；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "符合国家",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 248,
+     "order_no": 6,
+     "text": "（五）具有国家密码管理机构同意使用密码的证明文件；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "密码",
+       "term_id": null
+      },
+      {
+       "t": "管理机构",
+       "term_id": null
+      },
+      {
+       "t": "同意",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "密码",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "证明文件",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 249,
+     "order_no": 7,
+     "text": "（六）法律、行政法规规定的其他条 件。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "六",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行政",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "条",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "order_no": 18,
+   "label": "第十八条",
+   "paragraphs": [
+    {
+     "id": 250,
+     "order_no": 1,
+     "text": "从事电子认证服务，应当向国务院信息产业主管部门提出申请，并提交符合本法第十七条 规定条 件的相关材料。国务院信息产业主管部门接到申请后经依法审查，征求国务院商务主管部门等有关部门的意见后，自接到申请之日起四十五日内作出许可或者不予许可的决定。予以许可的，颁发电子认证许可证书；不予许可的，应当书面通知申请人并告知理由。",
+     "tokens": [
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "提出申请",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "提交",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "本法",
+       "term_id": null
+      },
+      {
+       "t": "第十七条",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "条",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "接到",
+       "term_id": null
+      },
+      {
+       "t": "申请",
+       "term_id": null
+      },
+      {
+       "t": "后经",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "审查",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "征求",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "商务",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "意见",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "自",
+       "term_id": null
+      },
+      {
+       "t": "接到",
+       "term_id": null
+      },
+      {
+       "t": "申请",
+       "term_id": null
+      },
+      {
+       "t": "之日起",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "十五日",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "作出",
+       "term_id": null
+      },
+      {
+       "t": "许可",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "不予",
+       "term_id": null
+      },
+      {
+       "t": "许可",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "决定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "予以",
+       "term_id": null
+      },
+      {
+       "t": "许可",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "颁发",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "许可证书",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "不予",
+       "term_id": null
+      },
+      {
+       "t": "许可",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "书面通知",
+       "term_id": null
+      },
+      {
+       "t": "申请人",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "告知",
+       "term_id": null
+      },
+      {
+       "t": "理由",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 251,
+     "order_no": 2,
+     "text": "取得认证资格的电子认证服务提供者，应当按照国务院信息产业主管部门的规定在互联网上公布其名称、许可证号等信息。",
+     "tokens": [
+      {
+       "t": "取得",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "资格",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "互联网",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "公布",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "名称",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "许可证",
+       "term_id": null
+      },
+      {
+       "t": "号",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "order_no": 19,
+   "label": "第十九条",
+   "paragraphs": [
+    {
+     "id": 252,
+     "order_no": 1,
+     "text": "电子认证服务提供者应当制定、公布符合国家有关规定的电子认证业务规则，并向国务院信息产业主管部门备案。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "公布",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "国家有关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "业务",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 253,
+     "order_no": 2,
+     "text": "电子认证业务规则应当包括责任范围、作业操作规范、信息安全保障措施等事项。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "业务",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "责任",
+       "term_id": null
+      },
+      {
+       "t": "范围",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "作业",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "信息安全",
+       "term_id": null
+      },
+      {
+       "t": "保障",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "事项",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "order_no": 20,
+   "label": "第二十条",
+   "paragraphs": [
+    {
+     "id": 254,
+     "order_no": 1,
+     "text": "电子签名人向电子认证服务提供者申请电子签名认证证书，应当提供真实、完整和准确的信息。",
+     "tokens": [
+      {
+       "t": "电子签名人",
+       "term_id": 23
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "申请",
+       "term_id": null
+      },
+      {
+       "t": "电子签名认证证书",
+       "term_id": 25
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "真实",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "准确",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 255,
+     "order_no": 2,
+     "text": "电子认证服务提供者收到电子签名认证证书申请后，应当对申请人的身份进行查验，并对有关材料进行审查。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "收到",
+       "term_id": null
+      },
+      {
+       "t": "电子签名认证证书",
+       "term_id": 25
+      },
+      {
+       "t": "申请",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "申请人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "身份",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "查验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "审查",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "order_no": 21,
+   "label": "第二十一条",
+   "paragraphs": [
+    {
+     "id": 256,
+     "order_no": 1,
+     "text": "电子认证服务提供者签发的电子签名认证证书应当准确无误，并应当载明下列内容：",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "签发",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子签名认证证书",
+       "term_id": 25
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "准确无误",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "载明",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 257,
+     "order_no": 2,
+     "text": "（一）电子认证服务提供者名称；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "名称",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 258,
+     "order_no": 3,
+     "text": "（二）证书持有人名称；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "证书",
+       "term_id": null
+      },
+      {
+       "t": "持有人",
+       "term_id": null
+      },
+      {
+       "t": "名称",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 259,
+     "order_no": 4,
+     "text": "（三）证书序列号；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "证书",
+       "term_id": null
+      },
+      {
+       "t": "序列号",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 260,
+     "order_no": 5,
+     "text": "（四）证书有效期；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "证书",
+       "term_id": null
+      },
+      {
+       "t": "有效期",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 261,
+     "order_no": 6,
+     "text": "（五）证书持有人的电子签名验证数据；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "证书",
+       "term_id": null
+      },
+      {
+       "t": "持有人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子签名验证数据",
+       "term_id": 27
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 262,
+     "order_no": 7,
+     "text": "（六）电子认证服务提供者的电子签名；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "六",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 263,
+     "order_no": 8,
+     "text": "（七）国务院信息产业主管部门规定的其他内容。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "七",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "order_no": 22,
+   "label": "第二十二条",
+   "paragraphs": [
+    {
+     "id": 264,
+     "order_no": 1,
+     "text": "电子认证服务提供者应当保证电子签名认证证书内容在有效期内完整、准确，并保证电子签名依赖方能够证实或者了解电子签名认证证书所载内容及其他有关事项。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "电子签名认证证书",
+       "term_id": 25
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "有效期",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "准确",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "电子签名依赖方",
+       "term_id": 24
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "证实",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "了解",
+       "term_id": null
+      },
+      {
+       "t": "电子签名认证证书",
+       "term_id": 25
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "载",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "他",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "事项",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "order_no": 23,
+   "label": "第二十三条",
+   "paragraphs": [
+    {
+     "id": 265,
+     "order_no": 1,
+     "text": "电子认证服务提供者拟暂停或者终止电子认证服务的，应当在暂停或者终止服务九十日前，就业务承接及其他有关事项通知有关各方。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "拟",
+       "term_id": null
+      },
+      {
+       "t": "暂停",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "终止",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "暂停",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "终止",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "九十",
+       "term_id": null
+      },
+      {
+       "t": "日前",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "就",
+       "term_id": null
+      },
+      {
+       "t": "业务",
+       "term_id": null
+      },
+      {
+       "t": "承接",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "他",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "事项",
+       "term_id": null
+      },
+      {
+       "t": "通知",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "各方",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 266,
+     "order_no": 2,
+     "text": "电子认证服务提供者拟暂停或者终止电子认证服务的，应当在暂停或者终止服务六十日前向国务院信息产业主管部门报告，并与其他电子认证服务提供者就业务承接进行协商，作出妥善安排。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "拟",
+       "term_id": null
+      },
+      {
+       "t": "暂停",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "终止",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "暂停",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "终止",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "六十",
+       "term_id": null
+      },
+      {
+       "t": "日前",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "就",
+       "term_id": null
+      },
+      {
+       "t": "业务",
+       "term_id": null
+      },
+      {
+       "t": "承接",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "协商",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "作出",
+       "term_id": null
+      },
+      {
+       "t": "妥善",
+       "term_id": null
+      },
+      {
+       "t": "安排",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 267,
+     "order_no": 3,
+     "text": "电子认证服务提供者未能就业务承接事项与其他电子认证服务提供者达成协议的，应当申请国务院信息产业主管部门安排其他电子认证服务提供者承接其业务。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "未能",
+       "term_id": null
+      },
+      {
+       "t": "就",
+       "term_id": null
+      },
+      {
+       "t": "业务",
+       "term_id": null
+      },
+      {
+       "t": "承接",
+       "term_id": null
+      },
+      {
+       "t": "事项",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "达成协议",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "申请",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "安排",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "承接",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "业务",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 268,
+     "order_no": 4,
+     "text": "电子认证服务提供者被依法吊销电子认证许可证书的，其业务承接事项的处理按照国务院信息产业主管部门的规定执行。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "吊销",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "许可证书",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "业务",
+       "term_id": null
+      },
+      {
+       "t": "承接",
+       "term_id": null
+      },
+      {
+       "t": "事项",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "order_no": 24,
+   "label": "第二十四条",
+   "paragraphs": [
+    {
+     "id": 269,
+     "order_no": 1,
+     "text": "电子认证服务提供者应当妥善保存与认证相关的信息，信息保存期限至少为电子签名认证证书失效后五年。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "妥善",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "期限",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "电子签名认证证书",
+       "term_id": 25
+      },
+      {
+       "t": "失效",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "五年",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "order_no": 25,
+   "label": "第二十五条",
+   "paragraphs": [
+    {
+     "id": 270,
+     "order_no": 1,
+     "text": "国务院信息产业主管部门依照本法制定电子认证服务业的具体管理办法，对电子认证服务提供者依法实施监督管理。",
+     "tokens": [
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "依照",
+       "term_id": null
+      },
+      {
+       "t": "本法",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务业",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "具体",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "办法",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "order_no": 26,
+   "label": "第二十六条",
+   "paragraphs": [
+    {
+     "id": 271,
+     "order_no": 1,
+     "text": "经国务院信息产业主管部门根据有关协议或者对等原则核准后，中华人民共和国境外的电子认证服务提供者在境外签发的电子签名认证证书与依照本法设立的电子认证服务提供者签发的电子签名认证证书具有同等的法律效力。",
+     "tokens": [
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "协议",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "核准",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "境外",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "境外",
+       "term_id": null
+      },
+      {
+       "t": "签发",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子签名认证证书",
+       "term_id": 25
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "依照",
+       "term_id": null
+      },
+      {
+       "t": "本法",
+       "term_id": null
+      },
+      {
+       "t": "设立",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "签发",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子签名认证证书",
+       "term_id": 25
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "同等",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "法律效力",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "order_no": 27,
+   "label": "第二十七条",
+   "paragraphs": [
+    {
+     "id": 272,
+     "order_no": 1,
+     "text": "电子签名人知悉电子签名制作数据已经失密或者可能已经失密未及时告知有关各方、并终止使用电子签名制作数据，未向电子认证服务提供者提供真实、完整和准确的信息，或者有其他过错，给电子签名依赖方、电子认证服务提供者造成损失的，承担赔偿责任。",
+     "tokens": [
+      {
+       "t": "电子签名人",
+       "term_id": 23
+      },
+      {
+       "t": "知悉",
+       "term_id": null
+      },
+      {
+       "t": "电子签名制作数据",
+       "term_id": 26
+      },
+      {
+       "t": "已经",
+       "term_id": null
+      },
+      {
+       "t": "失密",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "已经",
+       "term_id": null
+      },
+      {
+       "t": "失密",
+       "term_id": null
+      },
+      {
+       "t": "未",
+       "term_id": null
+      },
+      {
+       "t": "及时",
+       "term_id": null
+      },
+      {
+       "t": "告知",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "各方",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "终止",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "电子签名制作数据",
+       "term_id": 26
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "未向",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "真实",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "准确",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "过错",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "给",
+       "term_id": null
+      },
+      {
+       "t": "电子签名依赖方",
+       "term_id": 24
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "损失",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "承担",
+       "term_id": null
+      },
+      {
+       "t": "赔偿",
+       "term_id": null
+      },
+      {
+       "t": "责任",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "order_no": 28,
+   "label": "第二十八条",
+   "paragraphs": [
+    {
+     "id": 273,
+     "order_no": 1,
+     "text": "电子签名人或者电子签名依赖方因依据电子认证服务提供者提供的电子签名认证服务从事民事活动遭受损失，电子认证服务提供者不能证明自己无过错的，承担赔偿责任。",
+     "tokens": [
+      {
+       "t": "电子签名人",
+       "term_id": 23
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "电子签名依赖方",
+       "term_id": 24
+      },
+      {
+       "t": "因",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "民事",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "遭受",
+       "term_id": null
+      },
+      {
+       "t": "损失",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "不能",
+       "term_id": null
+      },
+      {
+       "t": "证明",
+       "term_id": null
+      },
+      {
+       "t": "自己",
+       "term_id": null
+      },
+      {
+       "t": "无过错",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "承担",
+       "term_id": null
+      },
+      {
+       "t": "赔偿",
+       "term_id": null
+      },
+      {
+       "t": "责任",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "order_no": 29,
+   "label": "第二十九条",
+   "paragraphs": [
+    {
+     "id": 274,
+     "order_no": 1,
+     "text": "未经许可提供电子认证服务的，由国务院信息产业主管部门责令停止违法行为；有违法所得的，没收违法所得；违法所得三十万元以上的，处违法所得一倍以上三倍以下的罚款；没有违法所得或者违法所得不足三十万元的，处十万元以上三十万元以下的罚款。",
+     "tokens": [
+      {
+       "t": "未经许可",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "责令",
+       "term_id": null
+      },
+      {
+       "t": "停止",
+       "term_id": null
+      },
+      {
+       "t": "违法行为",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "违法",
+       "term_id": null
+      },
+      {
+       "t": "所得",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "没收",
+       "term_id": null
+      },
+      {
+       "t": "违法",
+       "term_id": null
+      },
+      {
+       "t": "所得",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "违法",
+       "term_id": null
+      },
+      {
+       "t": "所得",
+       "term_id": null
+      },
+      {
+       "t": "三十万元",
+       "term_id": null
+      },
+      {
+       "t": "以上",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "处",
+       "term_id": null
+      },
+      {
+       "t": "违法",
+       "term_id": null
+      },
+      {
+       "t": "所得",
+       "term_id": null
+      },
+      {
+       "t": "一倍",
+       "term_id": null
+      },
+      {
+       "t": "以上",
+       "term_id": null
+      },
+      {
+       "t": "三倍",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "罚款",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "没有",
+       "term_id": null
+      },
+      {
+       "t": "违法",
+       "term_id": null
+      },
+      {
+       "t": "所得",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "违法",
+       "term_id": null
+      },
+      {
+       "t": "所得",
+       "term_id": null
+      },
+      {
+       "t": "不足",
+       "term_id": null
+      },
+      {
+       "t": "三十万元",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "处",
+       "term_id": null
+      },
+      {
+       "t": "十万元",
+       "term_id": null
+      },
+      {
+       "t": "以上",
+       "term_id": null
+      },
+      {
+       "t": "三十万元",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "罚款",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "order_no": 30,
+   "label": "第三十条",
+   "paragraphs": [
+    {
+     "id": 275,
+     "order_no": 1,
+     "text": "电子认证服务提供者暂停或者终止电子认证服务，未在暂停或者终止服务六十日前向国务院信息产业主管部门报告的，由国务院信息产业主管部门对其直接负责的主管人员处一万元以上五万元以下的罚款。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "暂停",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "终止",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "未",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "暂停",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "终止",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "六十",
+       "term_id": null
+      },
+      {
+       "t": "日前",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "主管人员",
+       "term_id": null
+      },
+      {
+       "t": "处",
+       "term_id": null
+      },
+      {
+       "t": "一万元",
+       "term_id": null
+      },
+      {
+       "t": "以上",
+       "term_id": null
+      },
+      {
+       "t": "五万元",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "罚款",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "order_no": 31,
+   "label": "第三十一条",
+   "paragraphs": [
+    {
+     "id": 276,
+     "order_no": 1,
+     "text": "电子认证服务提供者不遵守认证业务规则、未妥善保存与认证相关的信息，或者有其他违法行为的，由国务院信息产业主管部门责令限期改正；逾期未改正的，吊销电子认证许可证书，其直接负责的主管人员和其他直接责任人员十年内不得从事电子认证服务。吊销电子认证许可证书的，应当予以公告并通知工商行政管理部门。",
+     "tokens": [
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务提供者",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "遵守",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "业务",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "未",
+       "term_id": null
+      },
+      {
+       "t": "妥善",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "违法行为",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "信息产业",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "责令",
+       "term_id": null
+      },
+      {
+       "t": "限期",
+       "term_id": null
+      },
+      {
+       "t": "改正",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "逾期",
+       "term_id": null
+      },
+      {
+       "t": "未",
+       "term_id": null
+      },
+      {
+       "t": "改正",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "吊销",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "许可证书",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "主管人员",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "责任人员",
+       "term_id": null
+      },
+      {
+       "t": "十年",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "吊销",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "许可证书",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "予以",
+       "term_id": null
+      },
+      {
+       "t": "公告",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "通知",
+       "term_id": null
+      },
+      {
+       "t": "工商行政",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "order_no": 32,
+   "label": "第三十二条",
+   "paragraphs": [
+    {
+     "id": 277,
+     "order_no": 1,
+     "text": "伪造、冒用、盗用他人的电子签名，构成犯罪的，依法追究刑事责任；给他人造成损失的，依法承担民事责任。",
+     "tokens": [
+      {
+       "t": "伪造",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "冒用",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "盗用",
+       "term_id": null
+      },
+      {
+       "t": "他人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "构成犯罪",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依法追究",
+       "term_id": null
+      },
+      {
+       "t": "刑事责任",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "给",
+       "term_id": null
+      },
+      {
+       "t": "他人",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "损失",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "承担",
+       "term_id": null
+      },
+      {
+       "t": "民事责任",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "order_no": 33,
+   "label": "第三十三条",
+   "paragraphs": [
+    {
+     "id": 278,
+     "order_no": 1,
+     "text": "依照本法负责电子认证服务业监督管理工作的部门的工作人员，不依法履行行政许可、监督管理职责的，依法给予行政处分；构成犯罪的，依法追究刑事责任。",
+     "tokens": [
+      {
+       "t": "依照",
+       "term_id": null
+      },
+      {
+       "t": "本法",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "服务业",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工作人员",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "履行",
+       "term_id": null
+      },
+      {
+       "t": "行政许可",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "职责",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "给予",
+       "term_id": null
+      },
+      {
+       "t": "行政处分",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "构成犯罪",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依法追究",
+       "term_id": null
+      },
+      {
+       "t": "刑事责任",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "order_no": 34,
+   "label": "第三十四条",
+   "paragraphs": [
+    {
+     "id": 279,
+     "order_no": 1,
+     "text": "本法中下列用语的含义：",
+     "tokens": [
+      {
+       "t": "本法",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "用语",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "含义",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 280,
+     "order_no": 2,
+     "text": "（一）电子签名人，是指持有电子签名制作数据并以本人身份或者以其所代表的人的名义实施电子签名的人；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "电子签名人",
+       "term_id": 23
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "持有",
+       "term_id": null
+      },
+      {
+       "t": "电子签名制作数据",
+       "term_id": 26
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "本人",
+       "term_id": null
+      },
+      {
+       "t": "身份",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "以其",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "代表",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "名义",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 281,
+     "order_no": 3,
+     "text": "（二）电子签名依赖方，是指基于对电子签名认证证书或者电子签名的信赖从事有关活动的人；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "电子签名依赖方",
+       "term_id": 24
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "基于",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "电子签名认证证书",
+       "term_id": 25
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "信赖",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 282,
+     "order_no": 4,
+     "text": "（三）电子签名认证证书，是指可证实电子签名人与电子签名制作数据有联系的数据电文或者其他电子记录；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "电子签名认证证书",
+       "term_id": 25
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "可证实",
+       "term_id": null
+      },
+      {
+       "t": "电子签名人",
+       "term_id": 23
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "电子签名制作数据",
+       "term_id": 26
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "联系",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "电子",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 283,
+     "order_no": 5,
+     "text": "（四）电子签名制作数据，是指在电子签名过程中使用的，将电子签名与电子签名人可靠地联系起来的字符、编码等数据；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "电子签名制作数据",
+       "term_id": 26
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指在",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "将",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "电子签名人",
+       "term_id": 23
+      },
+      {
+       "t": "可靠",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "联系",
+       "term_id": null
+      },
+      {
+       "t": "起来",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "字符",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "编码",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 284,
+     "order_no": 6,
+     "text": "（五）电子签名验证数据，是指用于验证电子签名的数据，包括代码、口令、算法或者公钥等。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "电子签名验证数据",
+       "term_id": 27
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "代码",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "口令",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "算法",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "公钥",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "order_no": 35,
+   "label": "第三十五条",
+   "paragraphs": [
+    {
+     "id": 285,
+     "order_no": 1,
+     "text": "国务院或者国务院规定的部门可以依据本法制定政务活动和其他社会活动中使用电子签名、数据电文的具体办法。",
+     "tokens": [
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "可以",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "本法",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "政务",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "社会活动",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "电子签名",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "电文",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "具体办法",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "order_no": 36,
+   "label": "第三十六条",
+   "paragraphs": [
+    {
+     "id": 286,
+     "order_no": 1,
+     "text": "本法自2005年4月1日起施行。",
+     "tokens": [
+      {
+       "t": "本法",
+       "term_id": null
+      },
+      {
+       "t": "自",
+       "term_id": null
+      },
+      {
+       "t": "2005",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "4",
+       "term_id": null
+      },
+      {
+       "t": "月",
+       "term_id": null
+      },
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "日起",
+       "term_id": null
+      },
+      {
+       "t": "施行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

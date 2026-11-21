@@ -1,0 +1,29 @@
+[
+ {
+  "id": 9,
+  "name": "生成式人工智能技术",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "具有文本、图片、音频、视频等内容生成能力的模型及相关技术",
+  "article_id": 40,
+  "article_label": "第二十二条"
+ },
+ {
+  "id": 10,
+  "name": "生成式人工智能服务提供者",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "利用生成式人工智能技术提供生成式人工智能服务（包括通过提供可编程接口等方式提供生成式人工智能服务）的组织、个人",
+  "article_id": 40,
+  "article_label": "第二十二条"
+ },
+ {
+  "id": 11,
+  "name": "生成式人工智能服务使用者",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "使用生成式人工智能服务生成内容的组织、个人",
+  "article_id": 40,
+  "article_label": "第二十二条"
+ }
+]

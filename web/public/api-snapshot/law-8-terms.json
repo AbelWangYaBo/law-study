@@ -1,0 +1,20 @@
+[
+ {
+  "id": 34,
+  "name": "本法所称数据",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "任何以电子或者其他方式对信息的记录",
+  "article_id": 236,
+  "article_label": "第三条"
+ },
+ {
+  "id": 35,
+  "name": "数据安全",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "通过采取必要措施，确保数据处于有效保护和合法利用的状态，以及具备保障持续安全状态的能力",
+  "article_id": 236,
+  "article_label": "第三条"
+ }
+]

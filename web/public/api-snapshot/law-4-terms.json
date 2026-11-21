@@ -1,0 +1,20 @@
+[
+ {
+  "id": 19,
+  "name": "算法推荐服务",
+  "term_type": "short_name",
+  "full_name": "",
+  "definition": "",
+  "article_id": 69,
+  "article_label": "第二条"
+ },
+ {
+  "id": 20,
+  "name": "前款所称应用算法推荐技术",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "利用生成合成类、个性化推送类、排序精选类、检索过滤类、调度决策类等算法技术向用户提供信息",
+  "article_id": 69,
+  "article_label": "第二条"
+ }
+]

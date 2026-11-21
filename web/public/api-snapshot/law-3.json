@@ -1,0 +1,6978 @@
+{
+ "id": 3,
+ "name": "互联网信息服务深度合成管理规定",
+ "doc_number": "国家网信办、工信部令第12号",
+ "authority": "国家网信办、工信部",
+ "level": "部门规章",
+ "effective_date": "2023-01-10",
+ "articles": [
+  {
+   "id": 43,
+   "order_no": 1,
+   "label": "第一条",
+   "paragraphs": [
+    {
+     "id": 90,
+     "order_no": 1,
+     "text": "为了加强互联网信息服务深度合成管理，弘扬社会主义核心价值观，维护国家安全和社会公共利益，保护公民、法人和其他组织的合法权益，根据《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》、《互联网信息服务管理办法》等法律、行政法规，制定本规定。",
+     "tokens": [
+      {
+       "t": "为了",
+       "term_id": null
+      },
+      {
+       "t": "加强",
+       "term_id": null
+      },
+      {
+       "t": "互联网",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "深度",
+       "term_id": null
+      },
+      {
+       "t": "合成",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "弘扬",
+       "term_id": null
+      },
+      {
+       "t": "社会主义",
+       "term_id": null
+      },
+      {
+       "t": "核心",
+       "term_id": null
+      },
+      {
+       "t": "价值观",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "社会",
+       "term_id": null
+      },
+      {
+       "t": "公共利益",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保护",
+       "term_id": null
+      },
+      {
+       "t": "公民",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "法人",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "合法权益",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "法",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "安全法",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "个人信息",
+       "term_id": null
+      },
+      {
+       "t": "保护法",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "互联网",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "办法",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行政",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "order_no": 2,
+   "label": "第二条",
+   "paragraphs": [
+    {
+     "id": 91,
+     "order_no": 1,
+     "text": "在中华人民共和国境内应用深度合成技术提供互联网信息服务（以下简称深度合成服务），适用本规定。法律、行政法规另有规定的，依照其规定。",
+     "tokens": [
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "境内",
+       "term_id": null
+      },
+      {
+       "t": "应用",
+       "term_id": null
+      },
+      {
+       "t": "深度合成技术",
+       "term_id": 13
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "互联网",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "简称",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "适用",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行政",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "另有",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依照",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "order_no": 3,
+   "label": "第三条",
+   "paragraphs": [
+    {
+     "id": 92,
+     "order_no": 1,
+     "text": "国家网信部门负责统筹协调全国深度合成服务的治理和相关监督管理工作。国务院电信主管部门、公安部门依据各自职责负责深度合成服务的监督管理工作。",
+     "tokens": [
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "网信",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "统筹",
+       "term_id": null
+      },
+      {
+       "t": "协调",
+       "term_id": null
+      },
+      {
+       "t": "全国",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "治理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "电信",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "公安部门",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "各自",
+       "term_id": null
+      },
+      {
+       "t": "职责",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 93,
+     "order_no": 2,
+     "text": "地方网信部门负责统筹协调本行政区域内的深度合成服务的治理和相关监督管理工作。地方电信主管部门、公安部门依据各自职责负责本行政区域内的深度合成服务的监督管理工作。",
+     "tokens": [
+      {
+       "t": "地方",
+       "term_id": null
+      },
+      {
+       "t": "网信",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "统筹",
+       "term_id": null
+      },
+      {
+       "t": "协调",
+       "term_id": null
+      },
+      {
+       "t": "本行政区域",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "治理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "地方",
+       "term_id": null
+      },
+      {
+       "t": "电信",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "公安部门",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "各自",
+       "term_id": null
+      },
+      {
+       "t": "职责",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "本行政区域",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "order_no": 4,
+   "label": "第四条",
+   "paragraphs": [
+    {
+     "id": 94,
+     "order_no": 1,
+     "text": "提供深度合成服务，应当遵守法律法规，尊重社会公德和伦理道德，坚持正确政治方向、舆论导向、价值取向，促进深度合成服务向上向善。",
+     "tokens": [
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "遵守",
+       "term_id": null
+      },
+      {
+       "t": "法律法规",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "尊重",
+       "term_id": null
+      },
+      {
+       "t": "社会公德",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "伦理道德",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "坚持",
+       "term_id": null
+      },
+      {
+       "t": "正确",
+       "term_id": null
+      },
+      {
+       "t": "政治",
+       "term_id": null
+      },
+      {
+       "t": "方向",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "舆论导向",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "价值",
+       "term_id": null
+      },
+      {
+       "t": "取向",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "促进",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "向上",
+       "term_id": null
+      },
+      {
+       "t": "向善",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "order_no": 5,
+   "label": "第五条",
+   "paragraphs": [
+    {
+     "id": 95,
+     "order_no": 1,
+     "text": "鼓励相关行业组织加强行业自律，建立健全行业标准、行业准则和自律管理制度，督促指导深度合成服务提供者和技术支持者制定完善业务规范、依法开展业务和接受社会监督。",
+     "tokens": [
+      {
+       "t": "鼓励",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "行业",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "加强",
+       "term_id": null
+      },
+      {
+       "t": "行业",
+       "term_id": null
+      },
+      {
+       "t": "自律",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "建立健全",
+       "term_id": null
+      },
+      {
+       "t": "行业标准",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行业",
+       "term_id": null
+      },
+      {
+       "t": "准则",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "自律",
+       "term_id": null
+      },
+      {
+       "t": "管理制度",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "督促",
+       "term_id": null
+      },
+      {
+       "t": "指导",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "完善",
+       "term_id": null
+      },
+      {
+       "t": "业务",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "开展业务",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "接受",
+       "term_id": null
+      },
+      {
+       "t": "社会",
+       "term_id": null
+      },
+      {
+       "t": "监督",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 96,
+     "order_no": 2,
+     "text": "第二章 一般规定",
+     "tokens": [
+      {
+       "t": "第二章",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "一般",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "order_no": 6,
+   "label": "第六条",
+   "paragraphs": [
+    {
+     "id": 97,
+     "order_no": 1,
+     "text": "任何组织和个人不得利用深度合成服务制作、复制、发布、传播法律、行政法规禁止的信息，不得利用深度合成服务从事危害国家安全和利益、损害国家形象、侵害社会公共利益、扰乱经济和社会秩序、侵犯他人合法权益等法律、行政法规禁止的活动。",
+     "tokens": [
+      {
+       "t": "任何",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "个人",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "利用",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "制作",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "复制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "传播",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行政",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "禁止",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "利用",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "危害",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "利益",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "损害",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "形象",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "侵害",
+       "term_id": null
+      },
+      {
+       "t": "社会",
+       "term_id": null
+      },
+      {
+       "t": "公共利益",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "扰乱",
+       "term_id": null
+      },
+      {
+       "t": "经济",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "社会秩序",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "侵犯",
+       "term_id": null
+      },
+      {
+       "t": "他人",
+       "term_id": null
+      },
+      {
+       "t": "合法权益",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行政",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "禁止",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 98,
+     "order_no": 2,
+     "text": "深度合成服务提供者和使用者不得利用深度合成服务制作、复制、发布、传播虚假新闻信息。转载基于深度合成服务制作发布的新闻信息的，应当依法转载互联网新闻信息稿源单位发布的新闻信息。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "使用者",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "利用",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "制作",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "复制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "传播",
+       "term_id": null
+      },
+      {
+       "t": "虚假",
+       "term_id": null
+      },
+      {
+       "t": "新闻",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "转载",
+       "term_id": null
+      },
+      {
+       "t": "基于",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "制作",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "新闻",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "转载",
+       "term_id": null
+      },
+      {
+       "t": "互联网",
+       "term_id": null
+      },
+      {
+       "t": "新闻",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "稿源",
+       "term_id": null
+      },
+      {
+       "t": "单位",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "新闻",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "order_no": 7,
+   "label": "第七条",
+   "paragraphs": [
+    {
+     "id": 99,
+     "order_no": 1,
+     "text": "深度合成服务提供者应当落实信息安全主体责任，建立健全用户注册、算法机制机理审核、科技伦理审查、信息发布审核、数据安全、个人信息保护、反电信网络诈骗、应急处置等管理制度，具有安全可控的技术保障措施。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "落实",
+       "term_id": null
+      },
+      {
+       "t": "信息安全",
+       "term_id": null
+      },
+      {
+       "t": "主体",
+       "term_id": null
+      },
+      {
+       "t": "责任",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "建立健全",
+       "term_id": null
+      },
+      {
+       "t": "用户注册",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "算法",
+       "term_id": null
+      },
+      {
+       "t": "机制",
+       "term_id": null
+      },
+      {
+       "t": "机理",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "科技",
+       "term_id": null
+      },
+      {
+       "t": "伦理",
+       "term_id": null
+      },
+      {
+       "t": "审查",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "数据安全",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "个人信息",
+       "term_id": null
+      },
+      {
+       "t": "保护",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "反",
+       "term_id": null
+      },
+      {
+       "t": "电信",
+       "term_id": null
+      },
+      {
+       "t": "网络",
+       "term_id": null
+      },
+      {
+       "t": "诈骗",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "应急",
+       "term_id": null
+      },
+      {
+       "t": "处置",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "管理制度",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "可控",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "保障",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "order_no": 8,
+   "label": "第八条",
+   "paragraphs": [
+    {
+     "id": 100,
+     "order_no": 1,
+     "text": "深度合成服务提供者应当制定和公开管理规则、平台公约，完善服务协议，依法依约履行管理责任，以显著方式提示深度合成服务技术支持者和使用者承担信息安全义务。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "公开",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "平台",
+       "term_id": null
+      },
+      {
+       "t": "公约",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "完善",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "协议",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "依约",
+       "term_id": null
+      },
+      {
+       "t": "履行",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "责任",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "显著",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "提示",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务技术支持者",
+       "term_id": 15
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "使用者",
+       "term_id": null
+      },
+      {
+       "t": "承担",
+       "term_id": null
+      },
+      {
+       "t": "信息安全",
+       "term_id": null
+      },
+      {
+       "t": "义务",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "order_no": 9,
+   "label": "第九条",
+   "paragraphs": [
+    {
+     "id": 101,
+     "order_no": 1,
+     "text": "深度合成服务提供者应当基于移动电话号码、身份证件号码、统一社会信用代码或者国家网络身份认证公共服务等方式，依法对深度合成服务使用者进行真实身份信息认证，不得向未进行真实身份信息认证的深度合成服务使用者提供信息发布服务。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "基于",
+       "term_id": null
+      },
+      {
+       "t": "移动",
+       "term_id": null
+      },
+      {
+       "t": "电话号码",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "身份",
+       "term_id": null
+      },
+      {
+       "t": "证件号码",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "统一",
+       "term_id": null
+      },
+      {
+       "t": "社会",
+       "term_id": null
+      },
+      {
+       "t": "信用",
+       "term_id": null
+      },
+      {
+       "t": "代码",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "网络",
+       "term_id": null
+      },
+      {
+       "t": "身份",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "公共服务",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务使用者",
+       "term_id": 16
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "真实",
+       "term_id": null
+      },
+      {
+       "t": "身份",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "未",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "真实",
+       "term_id": null
+      },
+      {
+       "t": "身份",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "认证",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务使用者",
+       "term_id": 16
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "order_no": 10,
+   "label": "第十条",
+   "paragraphs": [
+    {
+     "id": 102,
+     "order_no": 1,
+     "text": "深度合成服务提供者应当加强深度合成内容管理，采取技术或者人工方式对深度合成服务使用者的输入数据和合成结果进行审核。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "加强",
+       "term_id": null
+      },
+      {
+       "t": "深度",
+       "term_id": null
+      },
+      {
+       "t": "合成",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "人工",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务使用者",
+       "term_id": 16
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "输入",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "合成",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 103,
+     "order_no": 2,
+     "text": "深度合成服务提供者应当建立健全用于识别违法和不良信息的特征库，完善入库标准、规则和程序，记录并留存相关网络日志。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立健全",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "违法",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "不良信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "特征",
+       "term_id": null
+      },
+      {
+       "t": "库",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "完善",
+       "term_id": null
+      },
+      {
+       "t": "入库",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "程序",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "留存",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "网络日志",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 104,
+     "order_no": 3,
+     "text": "深度合成服务提供者发现违法和不良信息的，应当依法采取处置措施，保存有关记录，及时向网信部门和有关主管部门报告；对相关深度合成服务使用者依法依约采取警示、限制功能、暂停服务、关闭账号等处置措施。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "发现",
+       "term_id": null
+      },
+      {
+       "t": "违法",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "不良信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "处置",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "及时",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "网信",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务使用者",
+       "term_id": 16
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "依约",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "警示",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "限制",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "暂停",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "关闭",
+       "term_id": null
+      },
+      {
+       "t": "账号",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "处置",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "order_no": 11,
+   "label": "第十一条",
+   "paragraphs": [
+    {
+     "id": 105,
+     "order_no": 1,
+     "text": "深度合成服务提供者应当建立健全辟谣机制，发现利用深度合成服务制作、复制、发布、传播虚假信息的，应当及时采取辟谣措施，保存有关记录，并向网信部门和有关主管部门报告。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立健全",
+       "term_id": null
+      },
+      {
+       "t": "辟谣",
+       "term_id": null
+      },
+      {
+       "t": "机制",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "发现",
+       "term_id": null
+      },
+      {
+       "t": "利用",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "制作",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "复制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "传播",
+       "term_id": null
+      },
+      {
+       "t": "虚假",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "及时",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "辟谣",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "网信",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "order_no": 12,
+   "label": "第十二条",
+   "paragraphs": [
+    {
+     "id": 106,
+     "order_no": 1,
+     "text": "深度合成服务提供者应当设置便捷的用户申诉和公众投诉、举报入口，公布处理流程和反馈时限，及时受理、处理和反馈处理结果。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "便捷",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "申诉",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "公众",
+       "term_id": null
+      },
+      {
+       "t": "投诉",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "举报",
+       "term_id": null
+      },
+      {
+       "t": "入口",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "公布",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "流程",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "反馈",
+       "term_id": null
+      },
+      {
+       "t": "时限",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "及时",
+       "term_id": null
+      },
+      {
+       "t": "受理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "反馈",
+       "term_id": null
+      },
+      {
+       "t": "处理结果",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "order_no": 13,
+   "label": "第十三条",
+   "paragraphs": [
+    {
+     "id": 107,
+     "order_no": 1,
+     "text": "互联网应用商店等应用程序分发平台应当落实上架审核、日常管理、应急处置等安全管理责任，核验深度合成类应用程序的安全评估、备案等情况；对违反国家有关规定的，应当及时采取不予上架、警示、暂停服务或者下架等处置措施。",
+     "tokens": [
+      {
+       "t": "互联网",
+       "term_id": null
+      },
+      {
+       "t": "应用",
+       "term_id": null
+      },
+      {
+       "t": "商店",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "应用程序",
+       "term_id": null
+      },
+      {
+       "t": "分发",
+       "term_id": null
+      },
+      {
+       "t": "平台",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "落实",
+       "term_id": null
+      },
+      {
+       "t": "上架",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "日常",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "应急",
+       "term_id": null
+      },
+      {
+       "t": "处置",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "责任",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "核验",
+       "term_id": null
+      },
+      {
+       "t": "深度",
+       "term_id": null
+      },
+      {
+       "t": "合成",
+       "term_id": null
+      },
+      {
+       "t": "类",
+       "term_id": null
+      },
+      {
+       "t": "应用程序",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "违反",
+       "term_id": null
+      },
+      {
+       "t": "国家有关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "及时",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "不予",
+       "term_id": null
+      },
+      {
+       "t": "上架",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "警示",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "暂停",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "下架",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "处置",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 108,
+     "order_no": 2,
+     "text": "第三章 数据和技术管理规范",
+     "tokens": [
+      {
+       "t": "第三章",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "order_no": 14,
+   "label": "第十四条",
+   "paragraphs": [
+    {
+     "id": 109,
+     "order_no": 1,
+     "text": "深度合成服务提供者和技术支持者应当加强训练数据管理，采取必要措施保障训练数据安全；训练数据包含个人信息的，应当遵守个人信息保护的有关规定。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "加强",
+       "term_id": null
+      },
+      {
+       "t": "训练数据",
+       "term_id": 17
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "必要措施",
+       "term_id": null
+      },
+      {
+       "t": "保障",
+       "term_id": null
+      },
+      {
+       "t": "训练数据",
+       "term_id": 17
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "训练数据",
+       "term_id": 17
+      },
+      {
+       "t": "包含",
+       "term_id": null
+      },
+      {
+       "t": "个人信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "遵守",
+       "term_id": null
+      },
+      {
+       "t": "个人信息",
+       "term_id": null
+      },
+      {
+       "t": "保护",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 110,
+     "order_no": 2,
+     "text": "深度合成服务提供者和技术支持者提供人脸、人声等生物识别信息编辑功能的，应当提示深度合成服务使用者依法告知被编辑的个人，并取得其单独同意。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "人脸",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "人声",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生物",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "提示",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务使用者",
+       "term_id": 16
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "告知",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "个人",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "取得",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "单独",
+       "term_id": null
+      },
+      {
+       "t": "同意",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "order_no": 15,
+   "label": "第十五条",
+   "paragraphs": [
+    {
+     "id": 111,
+     "order_no": 1,
+     "text": "深度合成服务提供者和技术支持者应当加强技术管理，定期审核、评估、验证生成合成类算法机制机理。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "加强",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "合成",
+       "term_id": null
+      },
+      {
+       "t": "类",
+       "term_id": null
+      },
+      {
+       "t": "算法",
+       "term_id": null
+      },
+      {
+       "t": "机制",
+       "term_id": null
+      },
+      {
+       "t": "机理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 112,
+     "order_no": 2,
+     "text": "深度合成服务提供者和技术支持者提供具有以下功能的模型、模板等工具的，应当依法自行或者委托专业机构开展安全评估：",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "模型",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "模板",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "工具",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "自行",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "委托",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "机构",
+       "term_id": null
+      },
+      {
+       "t": "开展",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 113,
+     "order_no": 3,
+     "text": "（一）生成或者编辑人脸、人声等生物识别信息的；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "人脸",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "人声",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生物",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 114,
+     "order_no": 4,
+     "text": "（二）生成或者编辑可能涉及国家安全、国家形象、国家利益和社会公共利益的特殊物体、场景等非生物识别信息的。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "涉及",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "形象",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "利益",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "社会",
+       "term_id": null
+      },
+      {
+       "t": "公共利益",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "特殊",
+       "term_id": null
+      },
+      {
+       "t": "物体",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "场景",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "非生物",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "order_no": 16,
+   "label": "第十六条",
+   "paragraphs": [
+    {
+     "id": 115,
+     "order_no": 1,
+     "text": "深度合成服务提供者对使用其服务生成或者编辑的信息内容，应当采取技术措施添加不影响用户使用的标识，并依照法律、行政法规和国家有关规定保存日志信息。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "信息内容",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "添加",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "依照",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行政",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "国家有关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "日志",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "order_no": 17,
+   "label": "第十七条",
+   "paragraphs": [
+    {
+     "id": 116,
+     "order_no": 1,
+     "text": "深度合成服务提供者提供以下深度合成服务，可能导致公众混淆或者误认的，应当在生成或者编辑的信息内容的合理位置、区域进行显著标识，向公众提示深度合成情况：",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "导致",
+       "term_id": null
+      },
+      {
+       "t": "公众",
+       "term_id": null
+      },
+      {
+       "t": "混淆",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "误认",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "信息内容",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "合理",
+       "term_id": null
+      },
+      {
+       "t": "位置",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "显著",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "公众",
+       "term_id": null
+      },
+      {
+       "t": "提示",
+       "term_id": null
+      },
+      {
+       "t": "深度",
+       "term_id": null
+      },
+      {
+       "t": "合成",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 117,
+     "order_no": 2,
+     "text": "（一）智能对话、智能写作等模拟自然人进行文本的生成或者编辑服务；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "智能",
+       "term_id": null
+      },
+      {
+       "t": "对话",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "智能",
+       "term_id": null
+      },
+      {
+       "t": "写作",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "模拟",
+       "term_id": null
+      },
+      {
+       "t": "自然人",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "文本",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 118,
+     "order_no": 3,
+     "text": "（二）合成人声、仿声等语音生成或者显著改变个人身份特征的编辑服务；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "合成",
+       "term_id": null
+      },
+      {
+       "t": "人声",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "仿声",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "语音",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "显著",
+       "term_id": null
+      },
+      {
+       "t": "改变",
+       "term_id": null
+      },
+      {
+       "t": "个人身份",
+       "term_id": null
+      },
+      {
+       "t": "特征",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 119,
+     "order_no": 4,
+     "text": "（三）人脸生成、人脸替换、人脸操控、姿态操控等人物图像、视频生成或者显著改变个人身份特征的编辑服务；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "人脸",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "人脸",
+       "term_id": null
+      },
+      {
+       "t": "替换",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "人脸",
+       "term_id": null
+      },
+      {
+       "t": "操控",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "姿态",
+       "term_id": null
+      },
+      {
+       "t": "操控",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "人物",
+       "term_id": null
+      },
+      {
+       "t": "图像",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "视频",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "显著",
+       "term_id": null
+      },
+      {
+       "t": "改变",
+       "term_id": null
+      },
+      {
+       "t": "个人身份",
+       "term_id": null
+      },
+      {
+       "t": "特征",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 120,
+     "order_no": 5,
+     "text": "（四）沉浸式拟真场景等生成或者编辑服务；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "沉浸式拟真场景",
+       "term_id": 18
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 121,
+     "order_no": 6,
+     "text": "（五）其他具有生成或者显著改变信息内容功能的服务。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "显著",
+       "term_id": null
+      },
+      {
+       "t": "改变",
+       "term_id": null
+      },
+      {
+       "t": "信息内容",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 122,
+     "order_no": 7,
+     "text": "深度合成服务提供者提供前款规定之外的深度合成服务的，应当提供显著标识功能，并提示深度合成服务使用者可以进行显著标识。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "前款",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "之外",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "显著",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "提示",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务使用者",
+       "term_id": 16
+      },
+      {
+       "t": "可以",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "显著",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "order_no": 18,
+   "label": "第十八条",
+   "paragraphs": [
+    {
+     "id": 123,
+     "order_no": 1,
+     "text": "任何组织和个人不得采用技术手段删除、篡改、隐匿本规定第十六条和第十七条规定的深度合成标识。",
+     "tokens": [
+      {
+       "t": "任何",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "个人",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "技术手段",
+       "term_id": null
+      },
+      {
+       "t": "删除",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "篡改",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "隐匿",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "第十六条",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "第十七条",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "深度",
+       "term_id": null
+      },
+      {
+       "t": "合成",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 124,
+     "order_no": 2,
+     "text": "第四章 监督检查与法律责任",
+     "tokens": [
+      {
+       "t": "第四章",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "监督",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "法律责任",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "order_no": 19,
+   "label": "第十九条",
+   "paragraphs": [
+    {
+     "id": 125,
+     "order_no": 1,
+     "text": "具有舆论属性或者社会动员能力的深度合成服务提供者，应当按照《互联网信息服务算法推荐管理规定》履行备案和变更、注销备案手续。",
+     "tokens": [
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "舆论",
+       "term_id": null
+      },
+      {
+       "t": "属性",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "社会",
+       "term_id": null
+      },
+      {
+       "t": "动员",
+       "term_id": null
+      },
+      {
+       "t": "能力",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "互联网",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "算法",
+       "term_id": null
+      },
+      {
+       "t": "推荐",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "履行",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "变更",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "注销",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "手续",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 126,
+     "order_no": 2,
+     "text": "深度合成服务技术支持者应当参照前款规定履行备案和变更、注销备案手续。",
+     "tokens": [
+      {
+       "t": "深度合成服务技术支持者",
+       "term_id": 15
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "参照",
+       "term_id": null
+      },
+      {
+       "t": "前款",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "履行",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "变更",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "注销",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "手续",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 127,
+     "order_no": 3,
+     "text": "完成备案的深度合成服务提供者和技术支持者应当在其对外提供服务的网站、应用程序等的显著位置标明其备案编号并提供公示信息链接。",
+     "tokens": [
+      {
+       "t": "完成",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "对外",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "网站",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "应用程序",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "显著",
+       "term_id": null
+      },
+      {
+       "t": "位置",
+       "term_id": null
+      },
+      {
+       "t": "标明",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "编号",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "公示",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "链接",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "order_no": 20,
+   "label": "第二十条",
+   "paragraphs": [
+    {
+     "id": 128,
+     "order_no": 1,
+     "text": "深度合成服务提供者开发上线具有舆论属性或者社会动员能力的新产品、新应用、新功能的，应当按照国家有关规定开展安全评估。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "开发",
+       "term_id": null
+      },
+      {
+       "t": "上线",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "舆论",
+       "term_id": null
+      },
+      {
+       "t": "属性",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "社会",
+       "term_id": null
+      },
+      {
+       "t": "动员",
+       "term_id": null
+      },
+      {
+       "t": "能力",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "新",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "新",
+       "term_id": null
+      },
+      {
+       "t": "应用",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "新",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "国家有关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "开展",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "order_no": 21,
+   "label": "第二十一条",
+   "paragraphs": [
+    {
+     "id": 129,
+     "order_no": 1,
+     "text": "网信部门和电信主管部门、公安部门依据职责对深度合成服务开展监督检查。深度合成服务提供者和技术支持者应当依法予以配合，并提供必要的技术、数据等支持和协助。",
+     "tokens": [
+      {
+       "t": "网信",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "电信",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "公安部门",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "职责",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "开展",
+       "term_id": null
+      },
+      {
+       "t": "监督",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "予以",
+       "term_id": null
+      },
+      {
+       "t": "配合",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "支持",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "协助",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 130,
+     "order_no": 2,
+     "text": "网信部门和有关主管部门发现深度合成服务存在较大信息安全风险的，可以按照职责依法要求深度合成服务提供者和技术支持者采取暂停信息更新、用户账号注册或者其他相关服务等措施。深度合成服务提供者和技术支持者应当按照要求采取措施，进行整改，消除隐患。",
+     "tokens": [
+      {
+       "t": "网信",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "发现",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "存在",
+       "term_id": null
+      },
+      {
+       "t": "较大",
+       "term_id": null
+      },
+      {
+       "t": "信息安全",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "可以",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "职责",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "暂停",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "账号",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "采取措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "整改",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "消除隐患",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "order_no": 22,
+   "label": "第二十二条",
+   "paragraphs": [
+    {
+     "id": 131,
+     "order_no": 1,
+     "text": "深度合成服务提供者和技术支持者违反本规定的，依照有关法律、行政法规的规定处罚；造成严重后果的，依法从重处罚。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "违反",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依照",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行政",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "处罚",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "严重后果",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "从重",
+       "term_id": null
+      },
+      {
+       "t": "处罚",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 132,
+     "order_no": 2,
+     "text": "构成违反治安管理行为的，由公安机关依法给予治安管理处罚；构成犯罪的，依法追究刑事责任。",
+     "tokens": [
+      {
+       "t": "构成",
+       "term_id": null
+      },
+      {
+       "t": "违反",
+       "term_id": null
+      },
+      {
+       "t": "治安管理",
+       "term_id": null
+      },
+      {
+       "t": "行为",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "公安机关",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "给予",
+       "term_id": null
+      },
+      {
+       "t": "治安管理",
+       "term_id": null
+      },
+      {
+       "t": "处罚",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "构成犯罪",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依法追究",
+       "term_id": null
+      },
+      {
+       "t": "刑事责任",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 133,
+     "order_no": 3,
+     "text": "第五章 附则",
+     "tokens": [
+      {
+       "t": "第五章",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "附则",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "order_no": 23,
+   "label": "第二十三条",
+   "paragraphs": [
+    {
+     "id": 134,
+     "order_no": 1,
+     "text": "本规定中下列用语的含义：",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "用语",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "含义",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 135,
+     "order_no": 2,
+     "text": "深度合成技术，是指利用深度学习、虚拟现实等生成合成类算法制作文本、图像、音频、视频、虚拟场景等网络信息的技术，包括但不限于：",
+     "tokens": [
+      {
+       "t": "深度合成技术",
+       "term_id": 13
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "利用",
+       "term_id": null
+      },
+      {
+       "t": "深度",
+       "term_id": null
+      },
+      {
+       "t": "学习",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "虚拟现实",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "合成",
+       "term_id": null
+      },
+      {
+       "t": "类",
+       "term_id": null
+      },
+      {
+       "t": "算法",
+       "term_id": null
+      },
+      {
+       "t": "制作",
+       "term_id": null
+      },
+      {
+       "t": "文本",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "图像",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "音频",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "视频",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "虚拟",
+       "term_id": null
+      },
+      {
+       "t": "场景",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "网络",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "但",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "限于",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 136,
+     "order_no": 3,
+     "text": "（一）篇章生成、文本风格转换、问答对话等生成或者编辑文本内容的技术；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "篇章",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "文本",
+       "term_id": null
+      },
+      {
+       "t": "风格",
+       "term_id": null
+      },
+      {
+       "t": "转换",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "问答",
+       "term_id": null
+      },
+      {
+       "t": "对话",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "文本",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 137,
+     "order_no": 4,
+     "text": "（二）文本转语音、语音转换、语音属性编辑等生成或者编辑语音内容的技术；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "文本",
+       "term_id": null
+      },
+      {
+       "t": "转",
+       "term_id": null
+      },
+      {
+       "t": "语音",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "语音",
+       "term_id": null
+      },
+      {
+       "t": "转换",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "语音",
+       "term_id": null
+      },
+      {
+       "t": "属性",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "语音",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 138,
+     "order_no": 5,
+     "text": "（三）音乐生成、场景声编辑等生成或者编辑非语音内容的技术；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "音乐",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "场景",
+       "term_id": null
+      },
+      {
+       "t": "声",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "非",
+       "term_id": null
+      },
+      {
+       "t": "语音",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 139,
+     "order_no": 6,
+     "text": "（四）人脸生成、人脸替换、人物属性编辑、人脸操控、姿态操控等生成或者编辑图像、视频内容中生物特征的技术；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "人脸",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "人脸",
+       "term_id": null
+      },
+      {
+       "t": "替换",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "人物属性",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "人脸",
+       "term_id": null
+      },
+      {
+       "t": "操控",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "姿态",
+       "term_id": null
+      },
+      {
+       "t": "操控",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "图像",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "视频",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "生物",
+       "term_id": null
+      },
+      {
+       "t": "特征",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 140,
+     "order_no": 7,
+     "text": "（五）图像生成、图像增强、图像修复等生成或者编辑图像、视频内容中非生物特征的技术；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "图像",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "图像增强",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "图像",
+       "term_id": null
+      },
+      {
+       "t": "修复",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "图像",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "视频",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "中非",
+       "term_id": null
+      },
+      {
+       "t": "生物",
+       "term_id": null
+      },
+      {
+       "t": "特征",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 141,
+     "order_no": 8,
+     "text": "（六）三维重建、数字仿真等生成或者编辑数字人物、虚拟场景的技术。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "六",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "三维重建",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "数字",
+       "term_id": null
+      },
+      {
+       "t": "仿真",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "数字",
+       "term_id": null
+      },
+      {
+       "t": "人物",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "虚拟",
+       "term_id": null
+      },
+      {
+       "t": "场景",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 142,
+     "order_no": 9,
+     "text": "深度合成服务提供者，是指提供深度合成服务的组织、个人。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "个人",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 143,
+     "order_no": 10,
+     "text": "深度合成服务技术支持者，是指为深度合成服务提供技术支持的组织、个人。",
+     "tokens": [
+      {
+       "t": "深度合成服务技术支持者",
+       "term_id": 15
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "技术支持",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "个人",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 144,
+     "order_no": 11,
+     "text": "深度合成服务使用者，是指使用深度合成服务制作、复制、发布、传播信息的组织、个人。",
+     "tokens": [
+      {
+       "t": "深度合成服务使用者",
+       "term_id": 16
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "深度合成服务",
+       "term_id": 12
+      },
+      {
+       "t": "制作",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "复制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "传播",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "个人",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 145,
+     "order_no": 12,
+     "text": "训练数据，是指被用于训练机器学习模型的标注或者基准数据集。",
+     "tokens": [
+      {
+       "t": "训练数据",
+       "term_id": 17
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "训练",
+       "term_id": null
+      },
+      {
+       "t": "机器",
+       "term_id": null
+      },
+      {
+       "t": "学习",
+       "term_id": null
+      },
+      {
+       "t": "模型",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "标注",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "基准",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "集",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 146,
+     "order_no": 13,
+     "text": "沉浸式拟真场景，是指应用深度合成技术生成或者编辑的、可供参与者体验或者互动的、具有高度真实感的虚拟场景。",
+     "tokens": [
+      {
+       "t": "沉浸式拟真场景",
+       "term_id": 18
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "应用",
+       "term_id": null
+      },
+      {
+       "t": "深度合成技术",
+       "term_id": 13
+      },
+      {
+       "t": "生成",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "编辑",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "供",
+       "term_id": null
+      },
+      {
+       "t": "参与者",
+       "term_id": null
+      },
+      {
+       "t": "体验",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "互动",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "高度",
+       "term_id": null
+      },
+      {
+       "t": "真实感",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "虚拟",
+       "term_id": null
+      },
+      {
+       "t": "场景",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "order_no": 24,
+   "label": "第二十四条",
+   "paragraphs": [
+    {
+     "id": 147,
+     "order_no": 1,
+     "text": "深度合成服务提供者和技术支持者从事网络出版服务、网络文化活动和网络视听节目服务的，应当同时符合新闻出版、文化和旅游、广播电视主管部门的规定。",
+     "tokens": [
+      {
+       "t": "深度合成服务提供者",
+       "term_id": 14
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "支持者",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "网络",
+       "term_id": null
+      },
+      {
+       "t": "出版",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络",
+       "term_id": null
+      },
+      {
+       "t": "文化",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "网络",
+       "term_id": null
+      },
+      {
+       "t": "视听",
+       "term_id": null
+      },
+      {
+       "t": "节目",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "同时",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "新闻出版",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "文化",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "旅游",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "广播电视",
+       "term_id": null
+      },
+      {
+       "t": "主管部门",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "order_no": 25,
+   "label": "第二十五条",
+   "paragraphs": [
+    {
+     "id": 148,
+     "order_no": 1,
+     "text": "本规定自2023年1月10日起施行。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "自",
+       "term_id": null
+      },
+      {
+       "t": "2023",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "月",
+       "term_id": null
+      },
+      {
+       "t": "10",
+       "term_id": null
+      },
+      {
+       "t": "日起",
+       "term_id": null
+      },
+      {
+       "t": "施行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

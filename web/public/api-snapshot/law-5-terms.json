@@ -1,0 +1,65 @@
+[
+ {
+  "id": 21,
+  "name": "本法所称电子签名",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "数据电文中以电子形式所含、所附用于识别签名人身份并表明签名人认可其中内容的数据",
+  "article_id": 104,
+  "article_label": "第二条"
+ },
+ {
+  "id": 22,
+  "name": "本法所称数据电文",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "以电子、光学、磁或者类似手段生成、发送、接收或者储存的信息",
+  "article_id": 104,
+  "article_label": "第二条"
+ },
+ {
+  "id": 23,
+  "name": "电子签名人",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "持有电子签名制作数据并以本人身份或者以其所代表的人的名义实施电子签名的人",
+  "article_id": 136,
+  "article_label": "第三十四条"
+ },
+ {
+  "id": 24,
+  "name": "电子签名依赖方",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "基于对电子签名认证证书或者电子签名的信赖从事有关活动的人",
+  "article_id": 136,
+  "article_label": "第三十四条"
+ },
+ {
+  "id": 25,
+  "name": "电子签名认证证书",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "可证实电子签名人与电子签名制作数据有联系的数据电文或者其他电子记录",
+  "article_id": 136,
+  "article_label": "第三十四条"
+ },
+ {
+  "id": 26,
+  "name": "电子签名制作数据",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "在电子签名过程中使用的，将电子签名与电子签名人可靠地联系起来的字符、编码等数据",
+  "article_id": 136,
+  "article_label": "第三十四条"
+ },
+ {
+  "id": 27,
+  "name": "电子签名验证数据",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "用于验证电子签名的数据，包括代码、口令、算法或者公钥等",
+  "article_id": 136,
+  "article_label": "第三十四条"
+ }
+]

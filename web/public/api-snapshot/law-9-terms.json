@@ -1,0 +1,38 @@
+[
+ {
+  "id": 36,
+  "name": "个人信息处理者",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "在个人信息处理活动中自主决定处理目的、处理方式的组织、个人",
+  "article_id": 361,
+  "article_label": "第七十三条"
+ },
+ {
+  "id": 37,
+  "name": "自动化决策",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "通过计算机程序自动分析、评估个人的行为习惯、兴趣爱好或者经济、健康、信用状况等，并进行决策的活动",
+  "article_id": 361,
+  "article_label": "第七十三条"
+ },
+ {
+  "id": 38,
+  "name": "去标识化",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "个人信息经过处理，使其在不借助额外信息的情况下无法识别特定自然人的过程",
+  "article_id": 361,
+  "article_label": "第七十三条"
+ },
+ {
+  "id": 39,
+  "name": "匿名化",
+  "term_type": "definition",
+  "full_name": "",
+  "definition": "个人信息经过处理无法识别特定自然人且不能复原的过程",
+  "article_id": 361,
+  "article_label": "第七十三条"
+ }
+]
