@@ -47,7 +47,7 @@ cd web && npm run dev   # http://localhost:5174
 ## 测试
 
 ```bash
-uv run pytest    # 15 例：解析器/抽取器/分词器/API 端到端/一字不差校验
+uv run pytest    # 18 例：解析器/抽取器/分词器/API 端到端/一字不差校验/解读草稿导入
 ```
 
 ## 静态快照只读模式（GitHub Pages）
@@ -60,4 +60,6 @@ uv run python scripts/snapshot.py    # 数据库变更后重新导出，随 vite
 ```
 
 AI 解读发布工作流：本地配置 .env 后在阅读页点「AI 解读 / 场景分析」生成（缓存进 readings 表）→ 重跑 snapshot.py（导出 law-N-readings.json）→ push，Pages 即只读展示这些历史解读；本地仍可随时「重新生成」拿新版本。
+
+也可不调模型接口，直接导入写好的解读草稿：一个文件一份，放在 `data/readings-drafts/law-N/a{条款ID}-{interpret|scenario}.md`（正文 markdown），运行 `uv run python scripts/import_readings.py` 入库（同条款同类型已有的跳过）。
 
