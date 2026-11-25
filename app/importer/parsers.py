@@ -63,17 +63,22 @@ def _next_line(lines: list[str], i: int) -> str:
     return next((x.strip().lstrip("*") for x in lines[i + 1:] if x.strip()), "")
 
 
+def _chapter_label(heading: str) -> str:
+    """章标题 → 条款名：「第一章  范  围」「**第一章 总 则**」→「第一章 范围」。"""
+    m = re.match(r"^(第[零一二三四五六七八九十百千]+[章部分])[ 　]*(.*)$", heading.strip().strip("*").strip())
+    title = re.sub(r"\s+", "", m.group(2))
+    return m.group(1) + (f" {title}" if title else "")
+
+
 def chapter_ranges(md_text: str) -> list[dict]:
     """「章标题 → 该章的条号列表」。标题规范成「第三章 机构与人员」（去掉排版空格），没有条目的章不输出。"""
     ranges: list[dict] = []
     articles: list[int] = []
     for raw in md_text.splitlines():
         s = raw.strip().strip("*").strip()
-        m = re.match(r"^(第[零一二三四五六七八九十百千]+章)[ 　]*(.*)$", s)
-        if m and not re.search(r"[。；，：？！]", s):
+        if re.match(r"^第[零一二三四五六七八九十百千]+章", s) and not re.search(r"[。；，：？！]", s):
             articles = []
-            title = re.sub(r"\s+", "", m.group(2))
-            ranges.append({"title": m.group(1) + (f" {title}" if title else ""), "articles": articles})
+            ranges.append({"title": _chapter_label(s), "articles": articles})
             continue
         a = _MD_ARTICLE_RE.match(s)
         if a and ranges:
@@ -82,7 +87,10 @@ def chapter_ranges(md_text: str) -> list[dict]:
 
 
 def parse_md(md_text: str) -> dict:
-    """解析法规总表 md：YAML 元数据 + 「第X条」切条（没有「第X条」的按数字编号切条），空行分段。"""
+    """解析法规总表 md：YAML 元数据 + 「第X条」切条（没有的按数字编号或按章切分），空行分段。
+
+    第一条之前、章标题之后的无条号内容按章各成一条，条号为负数，排在正式条文之前。
+    """
     meta = {}
     body = md_text
     if md_text.startswith("---"):
@@ -101,15 +109,21 @@ def parse_md(md_text: str) -> dict:
     effective_date = str(meta.get("施行日期", "") or "").strip()
 
     lines = body.splitlines()
+    stripped_lines = [line.strip() for line in lines]
+    n_articles = sum(bool(_MD_ARTICLE_RE.match(s)) for s in stripped_lines)
+    n_clauses = sum(bool(_MD_SUBCLAUSE_RE.match(s) or _MD_CLAUSE_RE.match(s)) for s in stripped_lines)
     # 没有「第X条」的文件按数字编号切条
-    clause_mode = not any(_MD_ARTICLE_RE.match(line.strip()) for line in lines)
+    clause_mode = n_articles == 0 and n_clauses > 0
 
     articles: list[tuple[int, str, list[str]]] = []
     current: tuple[int, str, list[str]] | None = None
-    for i, line in enumerate(lines):
-        stripped = line.strip()
+    started = False            # 是否已出现「第X条」
+    preamble = 0               # 第一条之前、章标题之后的无条号内容按章成条，共有几条
+    pending_chapter = ""       # 第一条之前最近见到的章标题
+    for i, stripped in enumerate(stripped_lines):
         if not stripped:
             continue
+        m = None
         if clause_mode:
             m = _MD_SUBCLAUSE_RE.match(stripped)
             if not m:
@@ -117,7 +131,7 @@ def parse_md(md_text: str) -> dict:
                 # 二级编号：后面紧跟同组的三级编号时只是小节标题（如「2.1 人员」）
                 if m and _next_line(lines, i).startswith(m.group(1) + "."):
                     continue
-        else:
+        elif not clause_mode:
             m = _MD_ARTICLE_RE.match(stripped)
         if m:
             if current:
@@ -129,13 +143,29 @@ def parse_md(md_text: str) -> dict:
                 label = f"第{m.group(1)}条"
                 first_para = stripped[m.end():].strip()
                 current = (cn_num_to_int(m.group(1)), label, [first_para] if first_para else [])
+                started = True
             continue
-        if _MD_HEADING_RE.match(stripped) or stripped.startswith(("#", ">", "**目录")):
-            continue  # 章/节/部分标题、标题、引用块不入条款
-        elif current:
+        if _MD_HEADING_RE.match(stripped):
+            # 第一条之前、章标题之后的无条号内容按这一章成条（如原料药附录前三章、取样附录）
+            if not started and re.match(r"^(?:\*\*|__|\*|_)?第[零一二三四五六七八九十百千]+[章部分]", stripped):
+                if current:
+                    articles.append(current)
+                    current = None
+                pending_chapter = _chapter_label(stripped)
+            continue  # 章/节/部分标题不入条款
+        if stripped.startswith(("#", ">", "**目录")):
+            continue  # 标题、引用块不入条款
+        if current:
             current[2].append(stripped)
+        elif pending_chapter:
+            current = (0, pending_chapter, [stripped])
+            preamble += 1
     if current:
         articles.append(current)
+    # 按章成条的无条号内容排在第一条之前：条号用负数，不与正式条号冲突
+    for k in range(preamble):
+        _, label, paras = articles[k]
+        articles[k] = (k - preamble, label, paras)
 
     if not name:
         h1 = re.search(r"^#\s+(.+)$", body, re.MULTILINE)
