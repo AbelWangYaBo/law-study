@@ -1,5 +1,5 @@
 <script setup>
-import { provide, ref, watch } from 'vue'
+import { computed, provide, ref, watch } from 'vue'
 import { api, detectBackend, isSnapshot } from './api'
 
 const laws = ref([])
@@ -17,6 +17,22 @@ async function load() {
 load()
 
 watch(currentLawId, v => v && localStorage.setItem('lawId', v))
+
+// 法规多了以后按三类分组显示；分组由法规名推导，不新增字段
+const groups = computed(() => {
+  const g = { law: [], gmp: [], history: [] }
+  for (const l of laws.value) {
+    if (l.name.includes('已被替代')) g.history.push(l)
+    else if (l.name.includes('质量管理规范')) g.gmp.push(l)
+    else g.law.push(l)
+  }
+  return [
+    { label: '法律法规', list: g.law },
+    { label: '质量管理规范', list: g.gmp },
+    { label: '历史版本（备查）', list: g.history },
+  ].filter(x => x.list.length)
+})
+
 provide('laws', laws)
 provide('currentLawId', currentLawId)
 provide('snapshot', snapshot)
@@ -37,7 +53,9 @@ provide('snapshot', snapshot)
         v-model="currentLawId"
         style="margin-left:auto; border:1px solid var(--line); border-radius:16px; padding:4px 10px; background:var(--paper);"
       >
-        <option v-for="l in laws" :key="l.id" :value="l.id">{{ l.name }}</option>
+        <optgroup v-for="g in groups" :key="g.label" :label="g.label">
+          <option v-for="l in g.list" :key="l.id" :value="l.id">{{ l.name }}</option>
+        </optgroup>
       </select>
     </header>
 
