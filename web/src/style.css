@@ -27,12 +27,12 @@ body {
 .layout { max-width: 980px; margin: 0 auto; padding: 20px 16px 60px; }
 
 .topbar {
-  display: flex; align-items: center; gap: 18px;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 18px;
   padding: 12px 4px; margin-bottom: 20px;
   border-bottom: 1px solid var(--line);
 }
 .topbar .brand { font-weight: 700; letter-spacing: .1em; color: var(--ink); text-decoration: none; }
-.topbar nav { display: flex; gap: 6px; }
+.topbar nav { display: flex; flex-wrap: wrap; gap: 6px; }
 .topbar nav a {
   padding: 6px 14px; border-radius: 18px; text-decoration: none;
   color: var(--ink-2); font-size: 14px;
@@ -147,3 +147,24 @@ button:disabled { opacity: .45; cursor: not-allowed; }
   color: #7a6335; background: #f6efdd; border: 1px solid #e3d5b3;
 }
 .link-chip:hover { background: #efe3c6; }
+
+/* 检查指导原则 / 标准地图 */
+.filters { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 12px; }
+.filters select, .filters input {
+  font: inherit; font-size: 14px; padding: 6px 10px;
+  border: 1px solid var(--line); border-radius: 8px; background: var(--paper); color: var(--ink);
+}
+.filters .check { font-size: 14px; color: var(--ink-2); }
+.data-table.card { padding: 0; }
+.data-table { width: 100%; border-collapse: collapse; }
+.data-table th, .data-table td {
+  border-bottom: 1px solid var(--line); padding: 8px 10px;
+  font-size: 14px; text-align: left; vertical-align: top;
+}
+.data-table th { background: #faf8f2; color: var(--ink-2); font-weight: 600; white-space: nowrap; }
+.data-table td.nowrap { white-space: nowrap; }
+.data-table a.ref { display: block; color: var(--accent); text-decoration: none; font-size: 13px; }
+.level-badge { display: inline-block; padding: 1px 8px; border-radius: 10px; font-size: 12px; }
+.level-badge.high { background: #fdeeee; color: var(--bad); }
+.level-badge.mid { background: #f6efdd; color: #7a6335; }
+.level-badge.low { background: #eaf3ea; color: var(--ok); }

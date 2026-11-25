@@ -5,7 +5,7 @@
 // 用法:
 //   node scripts/cdp.mjs html <url> [--wait 毫秒]              渲染后的 HTML
 //   node scripts/cdp.mjs text <url> [--wait 毫秒]              可见文本
-//   node scripts/cdp.mjs shot <url> <输出.png> [--wait 毫秒] [--width 1300] [--height 2200]
+//   node scripts/cdp.mjs shot <url> <输出.png> [--wait 毫秒] [--width 1300] [--height 2200] [--fold 只截可视区域]
 //   node scripts/cdp.mjs eval <url> '<js 表达式>' [--wait 毫秒]   输出 { url, value }；表达式可以返回 Promise
 //
 // 首次运行会用独立的用户数据目录（data/chrome-profile）启动本机 Chrome 并开启调试端口（默认 9333），
@@ -24,6 +24,7 @@ function parseArgs(argv) {
   const opts = { wait: 2500, width: 1300, height: 2200, port: 9333 }
   const positional = []
   for (let i = 0; i < rest.length; i++) {
+    if (rest[i] === '--fold') { opts.fold = true; continue }
     if (rest[i].startsWith('--')) opts[rest[i].slice(2)] = Number(rest[++i])
     else positional.push(rest[i])
   }
@@ -102,7 +103,7 @@ async function main() {
       return result.value
     }
     if (mode === 'shot') {
-      const { data } = await cdp.send('Page.captureScreenshot', { format: 'png', captureBeyondViewport: true })
+      const { data } = await cdp.send('Page.captureScreenshot', { format: 'png', captureBeyondViewport: !opts.fold })
       writeFileSync(arg2, Buffer.from(data, 'base64'))
       console.log(`截图 → ${arg2}`)
     } else if (mode === 'eval') {

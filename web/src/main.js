@@ -5,6 +5,7 @@ import Reader from './views/Reader.vue'
 import Recite from './views/Recite.vue'
 import Dictionary from './views/Dictionary.vue'
 import GraphView from './views/GraphView.vue'
+import InspectView from './views/InspectView.vue'
 import './style.css'
 
 const router = createRouter({
@@ -14,6 +15,7 @@ const router = createRouter({
     { path: '/recite', name: 'recite', component: Recite },
     { path: '/dictionary', name: 'dictionary', component: Dictionary },
     { path: '/graph', name: 'graph', component: GraphView },
+    { path: '/inspect', name: 'inspect', component: InspectView },
   ],
 })
 

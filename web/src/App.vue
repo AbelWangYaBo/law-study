@@ -47,6 +47,7 @@ provide('snapshot', snapshot)
         <router-link to="/recite">拼句背诵</router-link>
         <router-link to="/dictionary">术语字典</router-link>
         <router-link to="/graph">知识图谱</router-link>
+        <router-link to="/inspect">检查指导原则</router-link>
       </nav>
       <select
         v-if="laws.length > 1"
