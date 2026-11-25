@@ -5,7 +5,7 @@ from pathlib import Path
 
 import pytest
 
-from app.importer.parsers import cn_num_to_int, parse_article_label, parse_html, parse_md
+from app.importer.parsers import chapter_ranges, cn_num_to_int, parse_article_label, parse_html, parse_md
 
 UDI_HTML = Path(__file__).resolve().parent / "fixtures" / "医疗器械唯一标识系统规则.html"
 
@@ -222,3 +222,34 @@ def test_parse_md_clause_numbered():
         ("4.1", ["本附录自2026年1月1日起施行。"]),
     ]
     assert [a[0] for a in parsed["articles"]] == [1, 2, 3, 4, 5]
+
+
+def test_chapter_ranges():
+    """章标题 → 该章的条号；标题去掉排版空格，没有条目的章（如目录）不输出。"""
+    md = """---
+名称: 测试法
+---
+
+**第一章 总 则**
+
+第一条 为了测试。
+第二条 测试条款。
+
+**第二章　机构与人员**
+
+第三条 企业应当。
+
+**第三章 附 则**
+
+第四条 另一条。
+
+第三章
+
+第五条 无标题的章。
+"""
+    assert chapter_ranges(md) == [
+        {"title": "第一章 总则", "articles": [1, 2]},
+        {"title": "第二章 机构与人员", "articles": [3]},
+        {"title": "第三章 附则", "articles": [4]},
+        {"title": "第三章", "articles": [5]},
+    ]

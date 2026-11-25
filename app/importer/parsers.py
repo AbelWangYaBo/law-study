@@ -63,6 +63,24 @@ def _next_line(lines: list[str], i: int) -> str:
     return next((x.strip().lstrip("*") for x in lines[i + 1:] if x.strip()), "")
 
 
+def chapter_ranges(md_text: str) -> list[dict]:
+    """「章标题 → 该章的条号列表」。标题规范成「第三章 机构与人员」（去掉排版空格），没有条目的章不输出。"""
+    ranges: list[dict] = []
+    articles: list[int] = []
+    for raw in md_text.splitlines():
+        s = raw.strip().strip("*").strip()
+        m = re.match(r"^(第[零一二三四五六七八九十百千]+章)[ 　]*(.*)$", s)
+        if m and not re.search(r"[。；，：？！]", s):
+            articles = []
+            title = re.sub(r"\s+", "", m.group(2))
+            ranges.append({"title": m.group(1) + (f" {title}" if title else ""), "articles": articles})
+            continue
+        a = _MD_ARTICLE_RE.match(s)
+        if a and ranges:
+            articles.append(cn_num_to_int(a.group(1)))
+    return [r for r in ranges if r["articles"]]
+
+
 def parse_md(md_text: str) -> dict:
     """解析法规总表 md：YAML 元数据 + 「第X条」切条（没有「第X条」的按数字编号切条），空行分段。"""
     meta = {}

@@ -5,7 +5,7 @@ __pycache__/
 .pytest_cache/
 
 # 运行数据
-data/
+/data/
 
 # 环境配置
 .env

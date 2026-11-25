@@ -967,15 +967,18 @@ Expected: Pages 部署 success。核对线上 `law-<ID>-readings.json` 条数与
 from scripts.build_inspection import GMP, parse_inspection_md, parse_refs
 
 APPENDIX = "医疗器械生产质量管理规范附录 无菌医疗器械"
+IMPLANT = "医疗器械生产质量管理规范附录 植入性医疗器械"
 
 
 def test_parse_refs_merges_by_law_and_inherits_prefix():
-    """按法规合并；不带前缀的编号沿用同格内最近的法规；条号区间展开。"""
-    refs, unparsed = parse_refs("《规范》第十条至第十二条；《无菌附录》2.2.2、2.2.10<br>2.3.1", {"无菌附录": APPENDIX})
+    """按法规合并；不带前缀的编号沿用同格内最近的法规；条号区间展开；前缀后可以换行。"""
+    cell = "《规范》第十条至第十二条；《无菌附录》2.2.2、2.2.10<br>2.3.1；《植入附录》<br>2.7.5"
+    refs, unparsed = parse_refs(cell, {"无菌附录": APPENDIX, "植入附录": IMPLANT})
     assert unparsed == []
     assert refs == [
         {"law": GMP, "articles": [10, 11, 12], "clauses": []},
         {"law": APPENDIX, "articles": [], "clauses": ["2.2.2", "2.2.10", "2.3.1"]},
+        {"law": IMPLANT, "articles": [], "clauses": ["2.7.5"]},
     ]
 
 
@@ -1014,7 +1017,8 @@ def test_parse_inspection_md():
     assert (first["chapter"], first["level"], first["refs"]) == ("第一章 总则", "关键", [{"law": GMP, "articles": [3], "clauses": []}])
     assert second["chapter"] == "第一章 总则"
     assert second["refs"] == [{"law": GMP, "articles": [4], "clauses": []}, {"law": APPENDIX, "articles": [], "clauses": ["2.1.1"]}]
-    assert third["chapter"] == "第二章 质量保证" and third["level"] == "主要"
+    assert second["level"] == "主要"
+    assert third["chapter"] == "第二章 质量保证" and third["level"] == "一般"
     assert fourth["chapter"] == "第五章 设备"
 ```
 
@@ -1077,7 +1081,7 @@ LEVELS = {"***": "关键", "**": "主要", "*": "一般"}
 
 _SEP = re.compile(r"(?:<br\s*/?>|[\s;；,，、])+")
 _REF_TOKEN = re.compile(
-    r"(?:《(?P<law>[^《》]+)》)?\s*(?"                                   # 可带「《规范》」「《无菌附录》」前缀
+    r"(?:《(?P<law>[^《》]+)》)?(?:\s|<br\s*/?>)*(?:"                     # 可带「《规范》」「《无菌附录》」前缀，前缀后可能换行
     r"第(?P<a1>[零一二三四五六七八九十百零]+)条(?:至第(?P<a2>[零一二三四五六七八九十百零]+)条)?"   # 条号，可写区间
     r"|(?P<clause>\d+(?:\.\d+)+))"                                       # 附录的数字编号
 )
@@ -1131,6 +1135,7 @@ def parse_inspection_md(md_text: str, doc_id: str, name: str, scope: str, target
         if len(cells) != len(rows[0]) or not cells[1].isdigit():
             continue
         chapter = re.sub(r"\s+", " ", re.sub(r"<br\s*/?>", " ", cells[0] or chapter)).strip()
+        chapter = re.sub(r"^(第[一二三四五六七八九十]+章)(?=\S)", r"\1 ", chapter)   # 「第二章质量保证」→「第二章 质量保证」
         m = re.match(r"^(第[一二三四五六七八九十]+章)$", chapter)   # 只写了章号、没写标题的，用规范的章标题补全
         if m:
             chapter = chapter_titles.get(m.group(1), chapter)
