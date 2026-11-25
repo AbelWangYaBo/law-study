@@ -48,6 +48,21 @@ def test_import_readings_idempotent(db_session, tmp_path):
     assert db_session.query(Reading).count() == 2
 
 
+def test_import_readings_update(db_session, tmp_path):
+    """update=True 时，草稿内容改过的已有解读被覆盖，没改的不动。"""
+    law = import_law(db_session, UDI_HTML)
+    article_id = law.articles[0].id
+    _write_drafts(tmp_path, (f"a{article_id:04d}-interpret.md", "v1"), (f"a{article_id:04d}-scenario.md", "场景"))
+    import_readings(db_session, tmp_path)
+    scenario_row = db_session.query(Reading).filter_by(kind="scenario").one()
+
+    _write_drafts(tmp_path, (f"a{article_id:04d}-interpret.md", "v2"))
+    assert import_readings(db_session, tmp_path, update=True) == 1
+    rows = {r.kind: r for r in db_session.query(Reading)}
+    assert rows["interpret"].content == "v2"
+    assert rows["scenario"] is scenario_row
+
+
 def test_import_readings_unknown_article(db_session, tmp_path):
     """草稿对应的条款不存在（法规已重新导入）时整批拒绝。"""
     import_law(db_session, UDI_HTML)
