@@ -1383,7 +1383,7 @@ git push origin main
 - Generate: `web/public/data/standards.json`
 - Input（不入库）: `data/gmp-drafts/standards-device-mgmt.json`、`standards-device-prod.json`、`standards-pharma.json`
 
-- [ ] **Step 1: 合并**
+- [x] **Step 1: 合并**
 
 Run:
 
@@ -1429,12 +1429,12 @@ EOF
 
 Expected: 「N 项标准；0 个问题」。有问题就回到对应调研结果里补字段。
 
-- [ ] **Step 2: 刷新「章 → 条款范围」**（Task C2 的脚本写好后执行）
+- [x] **Step 2: 刷新「章 → 条款范围」**（Task C2 的脚本写好后执行）
 
 Run: `uv run python scripts/build_standards_doc.py --refresh-chapters`
 Expected: `chapters` 里出现器械 GMP 的 15 章和药品 GMP 的 14 章，每章带条号范围。
 
-- [ ] **Step 3: 核对法规名与章标题**
+- [x] **Step 3: 核对法规名与章标题**
 
 Run:
 
@@ -1819,6 +1819,8 @@ git push origin main
 
 ### Task C4: 更新法规总表的标准卡，放入标准地图文档
 
+> 实际执行：脚本为 `data/gmp-drafts/_update_cards.py`（先预览再 `--apply`）。与下面 Step 2 的差别：状态比较按语义归一（「现行有效」与「现行」不算差异），只有真过时的才改；同时更正施行日期；文件名对整个「标准号 名称」做斜杠替换；年份取标准号里的公布年份。实际结果：新建 143 张（GB25–GB38、S32–S118、YY01–YY40、Z10–Z11），更正状态 2 张、施行日期 4 张，总表 CSV 追加 143 行。
+
 **背景：** 法规总表里已有 62 张标准卡，调研发现有的状态过时；还有一批 GMP 强相关的标准没有卡。卡片由 `standards.json` 生成，已有的卡只改状态；法规总表不受 git 管理，改动前备份。总表 CSV（`/Volumes/APFS_3/法规总表.csv`，20 列）同步追加新卡的行。
 
 **Files**（均在仓库外）:
@@ -1827,11 +1829,11 @@ git push origin main
 - Modify: `/Volumes/APFS_3/法规总表.csv`、`/Volumes/APFS_3/法规总表/00_管理/国标缺口清单.md`
 - Backup to: `data/source-backup-20261125-gmp/`
 
-- [ ] **Step 1: 备份会被改到的文件**
+- [x] **Step 1: 备份会被改到的文件**
 
 Run: `mkdir -p data/source-backup-20261125-gmp/14_标准_国标行标 && cp -p /Volumes/APFS_3/法规总表/14_标准_国标行标/*.md data/source-backup-20261125-gmp/14_标准_国标行标/ && cp -p /Volumes/APFS_3/法规总表.csv /Volumes/APFS_3/法规总表/00_管理/国标缺口清单.md data/source-backup-20261125-gmp/`
 
-- [ ] **Step 2: 由 `standards.json` 生成缺失的卡、更正过时的状态**
+- [x] **Step 2: 由 `standards.json` 生成缺失的卡、更正过时的状态**
 
 ```bash
 uv run python - <<'EOF'
@@ -1966,11 +1968,11 @@ EOF
 
 Expected: 「新建标准卡 N 张；更正状态 M 张」并逐张列出；用 Read 工具抽查 2 张新卡的格式与现有卡一致。`发布机关`、`公布日期` 两项生成卡里是空的，在汇报里说明，由用户决定是否补。
 
-- [ ] **Step 3: 在管理记录里登记**
+- [x] **Step 3: 在管理记录里登记**
 
 在 `/Volumes/APFS_3/法规总表/00_管理/国标缺口清单.md` 末尾追加一节「## 落地记录（GMP 标准地图，2026-11-25）」，列出新卡的编号与标准号、更正状态的卡（原状态 → 新状态）、标准地图文档的路径。
 
-- [ ] **Step 4: 提交**（仓库内无改动，不产生提交）
+- [x] **Step 4: 提交**（仓库内无改动，不产生提交）
 
 ### Task C5: 收尾——README、完整验证、推送
 
