@@ -814,7 +814,7 @@ data = json.loads(Path("web/public/data/inspection.json").read_text(encoding="ut
 by = defaultdict(list)
 for d in data["docs"]:
     for it in d["items"]:
-        for r in it.refs:
+        for r in it["refs"]:
             for n in r["articles"]:
                 by[(r["law"], n)].append(it)
             for c in r["clauses"]:
@@ -1568,8 +1568,11 @@ def _row(values: list) -> str:
 
 
 def _range(articles: list) -> str:
-    first, last = f"第{articles[0]}条", f"第{articles[-1]}条"
-    return first if len(articles) == 1 else f"{first}–{last}"
+    if len(articles) == 1:
+        return f"第{articles[0]}条"
+    if articles[-1] - articles[0] == len(articles) - 1:      # 连续条号：第10–11条
+        return f"第{articles[0]}–{articles[-1]}条"
+    return f"第{articles[0]}条–第{articles[-1]}条"
 
 
 def render_doc(data: dict) -> str:
