@@ -420,13 +420,15 @@ git commit -m "解析器：从法规全文计算「章 → 条款范围」"
 
 ### Task A3: 清理独立软件附录文件尾部的网页残留
 
+> 实际执行：阶段 0 的器械 GMP 调研代理已清理该文件（连同 2025 年版正文第 132 条之后的同类残留），原件备份在 `data/source-backup-20261125-gmp/`；主控复核解析结果为 37 条、末条 4.2 只有施行日期一段。下面的 Step 1 脚本未执行（执行会覆盖调研代理留的原件备份）。
+
 **背景：** 该文件在最后一条 `4.2` 之后混进了网页页脚（「相关链接」「附件:」「国家药品监督管理局直属单位」…）和一小节「来源与核验」。Task A1 之后这些行会被并进最后一条，入库前必须清掉。来源信息并入 YAML 的「来源说明」。
 
 **Files:**
 - Modify（仓库外）: `/Volumes/APFS_3/法规总表/13_规范性文件/医疗器械生产质量管理规范附录 独立软件.md`
 - Backup to: `data/source-backup-20261125-gmp/13_规范性文件/`
 
-- [ ] **Step 1: 备份并截掉最后一条之后的内容**
+- [x] **Step 1: 备份并截掉最后一条之后的内容**
 
 Run（项目根目录）:
 
@@ -455,12 +457,12 @@ EOF
 
 Expected: 输出「已清理，文件现为 102 行」。
 
-- [ ] **Step 2: 确认能切出条款**
+- [x] **Step 2: 确认能切出条款**
 
 Run: `uv run python -c "from app.importer.parsers import parse_file; p = parse_file('/Volumes/APFS_3/法规总表/13_规范性文件/医疗器械生产质量管理规范附录 独立软件.md'); print(len(p['articles']), [a[0] for a in p['articles']])"`
 Expected: `37 ['1.1', '1.2', '2.1.1', … '2.8.2', '3.1', '4.1', '4.2']`；最后一个条款 `4.2` 只有「本附录自2020年7月1日起施行。」一段。
 
-- [ ] **Step 3: 提交**（仓库内无改动，本任务只动仓库外的数据，不产生提交）
+- [x] **Step 3: 提交**（仓库内无改动，本任务只动仓库外的数据，不产生提交）
 
 ### Task A4: 导入 GMP 法规并核对
 
@@ -540,7 +542,7 @@ git commit -m "文档：GMP 版本清单（器械 2025 版、药品 2010 修订�
 **Files:**
 - Modify: `web/src/App.vue`
 
-- [ ] **Step 1: 实现**
+- [x] **Step 1: 实现**
 
 `<script setup>` 第一行的 import 改为 `import { computed, provide, ref, watch } from 'vue'`，并在 `watch(currentLawId, …)` 之后、三个 `provide` 之前加入:
 
@@ -569,12 +571,12 @@ const groups = computed(() => {
         </optgroup>
 ```
 
-- [ ] **Step 2: 构建并确认**
+- [x] **Step 2: 构建并确认**
 
 Run: `npm --prefix web run build 2>&1 | tail -3`
 Expected: `✓ built in …`，无报错。
 
-- [ ] **Step 3: 提交**
+- [x] **Step 3: 提交**
 
 ```bash
 git add web/src/App.vue
@@ -590,7 +592,7 @@ git commit -m "前端：法规选择器按法律法规 / 质量管理规范 / �
 - Modify: `web/src/views/Reader.vue`
 - Modify: `web/src/style.css`
 
-- [ ] **Step 1: 新建 `web/src/data.js`**（读取函数，加上两个新页面共用的辅助函数：法规简称、条号转中文、跳转到阅读页）
+- [x] **Step 1: 新建 `web/src/data.js`**（读取函数，加上两个新页面共用的辅助函数：法规简称、条号转中文、跳转到阅读页）
 
 ```js
 // 静态数据（检查指导原则、标准地图）：本地与 Pages 读同一份 JSON，路径相对于页面，与 api-snapshot 一致
@@ -641,7 +643,7 @@ export function useOpenLaw() {
 }
 ```
 
-- [ ] **Step 2: 改写 `Reader.vue` 的 `<script setup>`**（`toggleReading`、`regenerate`、`renderMd`、`kindLabel` 四个定义原样保留，放在 `scrollToTarget` 之后）
+- [x] **Step 2: 改写 `Reader.vue` 的 `<script setup>`**（`toggleReading`、`regenerate`、`renderMd`、`kindLabel` 四个定义原样保留，放在 `scrollToTarget` 之后）
 
 ```vue
 <script setup>
@@ -720,7 +722,7 @@ function scrollToTarget() {
 }
 ```
 
-- [ ] **Step 3: 改 `Reader.vue` 模板里条款卡片的开头**
+- [x] **Step 3: 改 `Reader.vue` 模板里条款卡片的开头**
 
 把 `<div v-for="a in law.articles" :key="a.id" class="card" style="margin-bottom:14px;">` 及其后 `<h2>` 到两个 `<button>` 的那段，替换为:
 
@@ -740,7 +742,7 @@ function scrollToTarget() {
 
 两个标签现在指向还不存在的路由 `/inspect`、`/standards`；数据文件不存在时数量为 0、标签不显示，所以本任务可以先提交。
 
-- [ ] **Step 4: 加样式**（追加到 `web/src/style.css` 末尾）
+- [x] **Step 4: 加样式**（追加到 `web/src/style.css` 末尾）
 
 ```css
 /* 条款标题旁的关联标签（检查项 / 相关标准） */
@@ -751,7 +753,7 @@ function scrollToTarget() {
 .link-chip:hover { background: #efe3c6; }
 ```
 
-- [ ] **Step 5: 构建、起预览、无头浏览器实测**
+- [x] **Step 5: 构建、起预览、无头浏览器实测**
 
 Run:
 
@@ -764,7 +766,7 @@ node scripts/cdp.mjs shot "http://localhost:4173/#/" /tmp/reader.png --width 120
 
 Expected: 构建成功；`anchors` 等于当前法规的条款数（锚点都渲染了）；`chips` 是 0（还没有数据）；`groups` 是 2 或 3（分组生效）。用 Read 工具看 `/tmp/reader.png`，页面没有错位。
 
-- [ ] **Step 6: 提交**
+- [x] **Step 6: 提交**
 
 ```bash
 git add web/src/data.js web/src/views/Reader.vue web/src/style.css
@@ -959,7 +961,7 @@ Expected: Pages 部署 success。核对线上 `law-<ID>-readings.json` 条数与
 - Test: `tests/test_build_inspection.py`
 - Generate: `web/public/data/inspection.json`
 
-- [ ] **Step 1: 写失败的测试** `tests/test_build_inspection.py`
+- [x] **Step 1: 写失败的测试** `tests/test_build_inspection.py`
 
 ```python
 """检查指导原则表格解析：条款引用、章节补全、风险等级。"""
@@ -1022,12 +1024,12 @@ def test_parse_inspection_md():
     assert fourth["chapter"] == "第五章 设备"
 ```
 
-- [ ] **Step 2: 确认测试失败**
+- [x] **Step 2: 确认测试失败**
 
 Run: `uv run pytest tests/test_build_inspection.py -q`
 Expected: ERROR，`ModuleNotFoundError: No module named 'scripts.build_inspection'`。
 
-- [ ] **Step 3: 新建 `scripts/build_inspection.py`**
+- [x] **Step 3: 新建 `scripts/build_inspection.py`**
 
 ```python
 """把法规总表里的医疗器械 GMP 检查指导原则（md 表格）转成前端用的静态数据。
@@ -1179,12 +1181,12 @@ if __name__ == "__main__":
     main()
 ```
 
-- [ ] **Step 4: 确认测试通过**
+- [x] **Step 4: 确认测试通过**
 
 Run: `uv run pytest -q`
 Expected: 32 passed。
 
-- [ ] **Step 5: 生成数据并处理解析不了的引用**
+- [x] **Step 5: 生成数据并处理解析不了的引用**
 
 Run: `uv run python scripts/build_inspection.py`
 Expected: 「导出 6 份检查指导原则、1241 个检查项」（200 + 216 + 220 + 212 + 190 + 203），带条款引用的接近全部。若列出「解析不了」的条目且退出码为 1：逐条看原文，按实际写法扩充 `_REF_TOKEN` 或 `parse_refs`（先在测试里加对应样例），直到脚本以 0 退出。
@@ -1202,7 +1204,7 @@ for x in d['docs']:
 
 Expected: 6 行；专项版各自引用《规范》和自己的附录；法规名与版本清单里的入库命名完全一致。
 
-- [ ] **Step 6: 提交**
+- [x] **Step 6: 提交**
 
 ```bash
 git add scripts/build_inspection.py tests/test_build_inspection.py web/public/data/inspection.json
