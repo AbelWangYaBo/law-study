@@ -51,6 +51,8 @@ def parse_html(html: str) -> dict:
 
 
 _MD_ARTICLE_RE = re.compile(r"^第([零一二三四五六七八九十百千]+)条")
+# PDF 转换残留的私有区字符、零宽字符不是原文：一律去掉（出现在条文标题行首时还会让条文漏切）
+_MD_JUNK_RE = re.compile(r"[\ue000-\uf8ff\u200b-\u200f]")
 # 章/节/部分标题：可带 markdown 强调符（**…** / *…*），标题里没有句读，长度有限
 _MD_HEADING_RE = re.compile(r"^(?:\*\*|__|\*|_)?第[零一二三四五六七八九十百千]+[章节部分][^。；，：？！]{0,40}?(?:\*\*|__|\*|_)?$")
 # 没有「第X条」的文件（如器械 GMP 附录）按数字编号切条：二级编号 1.1，三级编号 2.1.1
@@ -75,7 +77,7 @@ def chapter_ranges(md_text: str) -> list[dict]:
     ranges: list[dict] = []
     articles: list[int] = []
     for raw in md_text.splitlines():
-        s = raw.strip().strip("*").strip()
+        s = _MD_JUNK_RE.sub("", raw).strip().strip("*").strip()
         if re.match(r"^第[零一二三四五六七八九十百千]+章", s) and not re.search(r"[。；，：？！]", s):
             articles = []
             ranges.append({"title": _chapter_label(s), "articles": articles})
@@ -108,7 +110,7 @@ def parse_md(md_text: str) -> dict:
     level = str(meta.get("效力层级", "") or "").strip()
     effective_date = str(meta.get("施行日期", "") or "").strip()
 
-    lines = body.splitlines()
+    lines = [_MD_JUNK_RE.sub("", line) for line in body.splitlines()]
     stripped_lines = [line.strip() for line in lines]
     n_articles = sum(bool(_MD_ARTICLE_RE.match(s)) for s in stripped_lines)
     n_clauses = sum(bool(_MD_SUBCLAUSE_RE.match(s) or _MD_CLAUSE_RE.match(s)) for s in stripped_lines)

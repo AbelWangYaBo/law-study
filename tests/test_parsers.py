@@ -310,3 +310,11 @@ def test_parse_md_keeps_unnumbered_text_under_chapter_headings_before_first_arti
         (11, "第十一条", ["进厂物料应当有正确标识。"]),
         (12, "第十二条", ["采用非专用槽车运送的大宗物料，应当采取措施。"]),
     ]
+
+
+def test_parse_md_ignores_pdf_junk_chars():
+    """PDF 转换残留的私有区字符不是原文：条文标题行首有它时仍切成新条，正文里的去掉。"""
+    md = MD_SAMPLE + "\ue004  第十二条  残留字符\ue003不算正文。\n（一）列举项。\n"
+    law = parse_md(md)
+    assert [a[1] for a in law["articles"]] == ["第一条", "第二条", "第十一条", "第十二条"]
+    assert law["articles"][-1][2] == ["残留字符不算正文。", "（一）列举项。"]
