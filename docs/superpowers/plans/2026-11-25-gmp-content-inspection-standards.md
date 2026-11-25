@@ -472,20 +472,20 @@ Expected: `37 ['1.1', '1.2', '2.1.1', … '2.8.2', '3.1', '4.1', '4.2']`；最�
 **Files:**
 - Create: `docs/gmp-versions.md`
 
-- [ ] **Step 1: 写版本清单文档**
+- [x] **Step 1: 写版本清单文档**
 
 把 `data/gmp-drafts/device-gmp-version-map.md` 和 `pharma-gmp-version-map.md` 合并成 `docs/gmp-versions.md`：开头两三句说明（版本以何日核实、现行与旧版的处理方式），然后两张表（器械、药品），列同上。没有取到全文的文件也要列，并写明原因。
 
-- [ ] **Step 2: 备份数据库**
+- [x] **Step 2: 备份数据库**
 
 Run: `cp -p data/law_study.db data/law_study.db.bak-$(date +%Y%m%d-%H%M)`
 
-- [ ] **Step 3: 备份数据库后逐个导入**（对清单里的每个文件；旧版也导入，用于备查）
+- [x] **Step 3: 备份数据库后逐个导入**（对清单里的每个文件；旧版也导入，用于备查）
 
 Run: `uv run python scripts/import_law.py "/Volumes/APFS_3/法规总表/<相对路径>"`
 Expected: 每个文件输出「导入完成: <名称>」和条款、段落、术语数量。按清单顺序导入：器械 GMP 正文 → 器械附录 → 药品 GMP 正文 → 药品附录 → 旧版。
 
-- [ ] **Step 4: 核对不变量**
+- [x] **Step 4: 核对不变量**
 
 Run:
 
@@ -529,7 +529,7 @@ EOF
 
 Expected: 每一行都是 `[OK]`，最后一行「结论: 全部通过」。任何「失败」都要先查明原因再继续。
 
-- [ ] **Step 5: 提交**
+- [x] **Step 5: 提交**
 
 ```bash
 git add docs/gmp-versions.md
@@ -782,7 +782,7 @@ git commit -m "前端：阅读页条款锚点与关联数量标签，历史版�
 - Create: `data/gmp-drafts/brief-device-gmp.md`、`data/gmp-drafts/brief-pharma-gmp.md`（调研代理产出）
 - Create: `data/gmp-drafts/inspection-by-article.md`（脚本产出，Task B1 生成 `inspection.json` 之后才有；B1 提前到本任务之前执行）
 
-- [ ] **Step 1: 启动「器械 GMP 调研简报」代理**
+- [x] **Step 1: 启动「器械 GMP 调研简报」代理**
 
 产出 `data/gmp-drafts/brief-device-gmp.md`，须覆盖：
 1. 2025 年版的官方解读要点（药监局政策解读、培训材料）：为什么修订、主要变化、实施过渡安排。
@@ -792,7 +792,7 @@ git commit -m "前端：阅读页条款锚点与关联数量标签，历史版�
 5. 与 GB/T 42061（ISO 13485）、GB/T 42062 的关系。
 6. 撰写提示：容易写错的点。
 
-- [ ] **Step 2: 启动「药品 GMP 调研简报」代理**
+- [x] **Step 2: 启动「药品 GMP 调研简报」代理**
 
 产出 `data/gmp-drafts/brief-pharma-gmp.md`，须覆盖：
 1. 正文与全部附录的章节结构、各自定位；2025—2026 年附录更新的要点。
@@ -801,7 +801,7 @@ git commit -m "前端：阅读页条款锚点与关联数量标签，历史版�
 4. 药品 GMP 检查中的典型缺陷与案例（真实、可溯源，当事人用泛称）。
 5. 撰写提示：容易写错的点、器械企业对照学习时该看什么。
 
-- [ ] **Step 3: 生成「每条条款对应的检查项」**
+- [x] **Step 3: 生成「每条条款对应的检查项」**
 
 Run（Task B1 完成后）:
 
@@ -1218,12 +1218,12 @@ git commit -m "脚本：医疗器械 GMP 检查指导原则导出为静态数据
 - Modify: `web/src/main.js`、`web/src/App.vue`、`web/src/style.css`
 - Create: `web/src/views/InspectView.vue`
 
-- [ ] **Step 1: 路由与导航**
+- [x] **Step 1: 路由与导航**
 
 `web/src/main.js`：加 `import InspectView from './views/InspectView.vue'`，在 `routes` 的知识图谱一行后面加 `{ path: '/inspect', name: 'inspect', component: InspectView },`。
 `web/src/App.vue`：导航里知识图谱的 `<router-link>` 之后加 `<router-link to="/inspect">检查指导原则</router-link>`。
 
-- [ ] **Step 2: 新建 `web/src/views/InspectView.vue`**
+- [x] **Step 2: 新建 `web/src/views/InspectView.vue`**
 
 ```vue
 <script setup>
@@ -1315,7 +1315,7 @@ const items = computed(() => docs.value
 </template>
 ```
 
-- [ ] **Step 3: 样式**（追加到 `web/src/style.css` 末尾；并给 `.topbar` 加 `flex-wrap: wrap;`、`.topbar nav` 加 `flex-wrap: wrap;`，导航项多了会换行）
+- [x] **Step 3: 样式**（追加到 `web/src/style.css` 末尾；并给 `.topbar` 加 `flex-wrap: wrap;`、`.topbar nav` 加 `flex-wrap: wrap;`，导航项多了会换行）
 
 ```css
 /* 检查指导原则 / 标准地图 */
@@ -1340,7 +1340,7 @@ const items = computed(() => docs.value
 .level-badge.low { background: #eaf3ea; color: var(--ok); }
 ```
 
-- [ ] **Step 4: 构建并实测互链**
+- [x] **Step 4: 构建并实测互链**
 
 Run:
 
@@ -1355,13 +1355,13 @@ node scripts/cdp.mjs shot "http://localhost:4173/#/inspect" /tmp/inspect.png --w
 
 Expected: 第一个数是一千多（全部检查项的条款链接）；第二个数明显变小，`note` 是「只看《医疗器械生产质量管理规范》第三条 的检查项，查看全部」；第三个数大于 0（阅读页 GMP 条款标题旁有「检查项 N」标签）。静态服务若已停，先按 Task A6 Step 5 的命令重新启动。用 Read 工具看 `/tmp/inspect.png`，排版正常。
 
-- [ ] **Step 4b: 实测点击跳转**
+- [x] **Step 4b: 实测点击跳转**
 
 Run: `node scripts/cdp.mjs eval "http://localhost:4173/#/inspect?law=$GMP_ID&article=3" "new Promise(r => { document.querySelector('a.ref').click(); setTimeout(() => r({ hash: location.hash, scrollY: Math.round(scrollY), active: document.querySelector('#art-3 h2')?.textContent.trim() }), 2500) })"`
 
 Expected: `hash` 是 `#/`（阅读页），`active` 是「第三条」，`scrollY` 大于 0（滚动到了该条）。
 
-- [ ] **Step 5: 提交并推送**
+- [x] **Step 5: 提交并推送**
 
 ```bash
 git add web/src/main.js web/src/App.vue web/src/style.css web/src/views/InspectView.vue
@@ -1470,7 +1470,7 @@ Expected: 「对不上的映射 0 处」。有就对回 `standards.json` 改法�
 - Test: `tests/test_build_standards_doc.py`
 - Generate: `docs/gmp-standards-map.md`
 
-- [ ] **Step 1: 写失败的测试** `tests/test_build_standards_doc.py`
+- [x] **Step 1: 写失败的测试** `tests/test_build_standards_doc.py`
 
 ```python
 """标准地图文档渲染：按章归并、按条款归并、未归入章节的部分。"""
@@ -1518,12 +1518,12 @@ def test_render_doc():
     assert "GB/T 3-2020" in tail and "GB/T 1-2020" not in tail
 ```
 
-- [ ] **Step 2: 确认测试失败**
+- [x] **Step 2: 确认测试失败**
 
 Run: `uv run pytest tests/test_build_standards_doc.py -q`
 Expected: ERROR，`ModuleNotFoundError: No module named 'scripts.build_standards_doc'`。
 
-- [ ] **Step 3: 新建 `scripts/build_standards_doc.py`**
+- [x] **Step 3: 新建 `scripts/build_standards_doc.py`**
 
 ```python
 """由标准地图数据渲染文档，并从 GMP 源文件刷新「章 → 条款范围」。
@@ -1635,12 +1635,12 @@ if __name__ == "__main__":
     main()
 ```
 
-- [ ] **Step 4: 确认测试通过并生成文档**
+- [x] **Step 4: 确认测试通过并生成文档**
 
 Run: `uv run pytest -q && uv run python scripts/build_standards_doc.py --refresh-chapters`
 Expected: 34 passed；输出「标准地图文档 → …/docs/gmp-standards-map.md（N 项标准，29 章）」（器械 15 章 + 药品 14 章）。打开文档抽查两章，表格列对齐、没有断行。
 
-- [ ] **Step 5: 提交**
+- [x] **Step 5: 提交**
 
 ```bash
 git add scripts/build_standards_doc.py tests/test_build_standards_doc.py web/public/data/standards.json docs/gmp-standards-map.md
@@ -1653,12 +1653,12 @@ git commit -m "数据：GMP 相关标准地图（页面与文档同源）及文�
 - Modify: `web/src/main.js`、`web/src/App.vue`、`web/src/style.css`
 - Create: `web/src/views/StandardsView.vue`
 
-- [ ] **Step 1: 路由与导航**
+- [x] **Step 1: 路由与导航**
 
 `web/src/main.js`：加 `import StandardsView from './views/StandardsView.vue'`，在 `/inspect` 一行后面加 `{ path: '/standards', name: 'standards', component: StandardsView },`。
 `web/src/App.vue`：导航里检查指导原则的 `<router-link>` 之后加 `<router-link to="/standards">标准地图</router-link>`。
 
-- [ ] **Step 2: 新建 `web/src/views/StandardsView.vue`**
+- [x] **Step 2: 新建 `web/src/views/StandardsView.vue`**
 
 ```vue
 <script setup>
@@ -1786,14 +1786,14 @@ function openChapter(law, title) {
 </template>
 ```
 
-- [ ] **Step 3: 样式**（追加到 `web/src/style.css` 末尾）
+- [x] **Step 3: 样式**（追加到 `web/src/style.css` 末尾）
 
 ```css
 .std-no { font-weight: 600; color: var(--ink); text-decoration: none; }
 .data-table a.std-no:hover { color: var(--accent); }
 ```
 
-- [ ] **Step 4: 构建并实测**
+- [x] **Step 4: 构建并实测**
 
 Run:
 
@@ -1809,7 +1809,7 @@ node scripts/cdp.mjs shot "http://localhost:4173/#/standards" /tmp/standards.png
 
 Expected: 全部页面有若干节、行数等于标准数；按第三条（示例用第 7 条）筛选后 `note` 是「只看《医疗器械生产质量管理规范》第七条 相关的标准，查看全部」且行数变少；阅读页第七条标题旁的标签里有「相关标准 N」；点击条款链接后回到阅读页 `#/`、`active` 是「第七条」。用 Read 工具看 `/tmp/standards.png`。
 
-- [ ] **Step 5: 提交并推送**
+- [x] **Step 5: 提交并推送**
 
 ```bash
 git add web/src/main.js web/src/App.vue web/src/style.css web/src/views/StandardsView.vue
