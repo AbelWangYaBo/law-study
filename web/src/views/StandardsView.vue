@@ -36,6 +36,8 @@ const scopeLaw = computed(() => lawName.value || lawFilter.value)
 const rangeText = articles => (articles.length > 1 ? `第${articles[0]}–${articles[articles.length - 1]}条` : `第${articles[0]}条`)
 // 分节：指定了法规就按它的章排列，没指定就合成一节
 const sections = computed(() => {
+  // 带着某一条进来：不按章分组，免得映射到多章的同一标准重复出现
+  if (lawName.value) return [{ title: '相关标准', note: '', standards: matched.value }]
   if (!scopeLaw.value) return [{ title: '全部标准', note: '', standards: matched.value }]
   const used = new Set()
   const out = chapters.value.filter(c => c.law === scopeLaw.value).map(ch => {

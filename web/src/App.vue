@@ -1,15 +1,18 @@
 <script setup>
 import { computed, provide, ref, watch } from 'vue'
+import { useRoute } from 'vue-router'
 import { api, detectBackend, isSnapshot } from './api'
 
 const laws = ref([])
 const currentLawId = ref(Number(localStorage.getItem('lawId')) || null)
 const snapshot = ref(false)
+const route = useRoute()
 
 async function load() {
   await detectBackend()
   snapshot.value = isSnapshot()
   laws.value = await api.listLaws()
+  applyLawFromQuery()
   if (laws.value.length && !laws.value.some(l => l.id === currentLawId.value)) {
     currentLawId.value = laws.value[0].id
   }
@@ -17,6 +20,13 @@ async function load() {
 load()
 
 watch(currentLawId, v => v && localStorage.setItem('lawId', v))
+
+// 链接里带 ?law=<法规ID> 时切到该法规（粘贴链接、书签进入阅读页）
+function applyLawFromQuery() {
+  const id = Number(route.query.law)
+  if (laws.value.some(l => l.id === id)) currentLawId.value = id
+}
+watch(() => route.query.law, applyLawFromQuery)
 
 // 法规多了以后按三类分组显示；分组由法规名推导，不新增字段
 const groups = computed(() => {

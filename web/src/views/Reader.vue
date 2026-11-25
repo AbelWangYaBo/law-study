@@ -1,5 +1,5 @@
 <script setup>
-import { computed, inject, nextTick, reactive, ref } from 'vue'
+import { computed, inject, nextTick, reactive, ref, watch } from 'vue'
 import { useRoute } from 'vue-router'
 import { marked } from 'marked'
 import { api } from '../api'
@@ -72,6 +72,8 @@ function scrollToTarget() {
   const target = Number(route.query.article) || law.value.articles.find(a => a.label === clause)?.order_no
   if (target) document.getElementById(`art-${target}`)?.scrollIntoView({ block: 'start' })
 }
+// 同一法规下链接里的条号变了（如从别的页面再次跳过来），重新滚动
+watch(() => [route.query.article, route.query.clause], () => nextTick(scrollToTarget))
 
 async function toggleReading(article, kind) {
   const key = `${article.id}:${kind}`
