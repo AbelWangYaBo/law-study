@@ -842,7 +842,7 @@ Expected: 输出条数大于 150；文件里每个条号下列出条款号、风
 - Create: `data/readings-drafts/law-<ID>-articles.md`（每部新法规一份）
 - Create: `data/gmp-drafts/_validate_gmp.py`（校验脚本）
 
-- [ ] **Step 1: 导出条文素材**
+- [x] **Step 1: 导出条文素材**
 
 Run:
 
@@ -873,7 +873,7 @@ EOF
 
 Expected: 列出所有法规；已有的 9 部不会重复导出。
 
-- [ ] **Step 2: 写校验脚本 `data/gmp-drafts/_validate_gmp.py`**
+- [x] **Step 2: 写校验脚本 `data/gmp-drafts/_validate_gmp.py`**
 
 以 `data/readings-drafts/_validate.py` 为底，把 `REQUIRED` 改成按法规族区分（通过命令行参数指定族：`device` 或 `pharma`）：
 
@@ -892,7 +892,7 @@ REQUIRED = {
 
 `BANNED` 增加真实公司名；其余检查（缺失、标题顺序、HTML、占位、引用超出条数）不变。用法：`uv run python data/gmp-drafts/_validate_gmp.py device 10 11`。
 
-- [ ] **Step 3: 试点批次**
+- [x] **Step 3: 试点批次**
 
 按附录「撰写规则」启动 1 个撰写代理，范围是器械 GMP 第十条至第二十九条（约 20 条，覆盖质量保证、机构与人员）。完成后：
 1. 跑校验脚本，要求 0 问题。
@@ -900,6 +900,8 @@ REQUIRED = {
 3. 不合格就改撰写规则并重跑试点；合格才进入 Task A9。
 
 ### Task A9: 批量生成解读
+
+> 实际执行：规则放在 `data/gmp-drafts/WRITING-RULES.md`（试点反馈已并入：篇幅按正文计、专项版检查项取舍、参考的触发条件、新旧对照与宣贯口径冲突的处理、开工前先看目录），提示词只给范围；检查项改用 `_inspection_for.py <起始条款ID> <结束条款ID>` 查；分批方案在 `data/gmp-drafts/_batches.tsv`（每批 9–32 条）。试点（器械 GMP 第十至二十九条）抽检结论：新旧对照 20 条全部与简报一致，检查项引用 39 处、标准号 62 处均可在数据里找到，校验 0 问题。
 
 **规则：** 每个撰写代理 15–20 条；同时运行的代理不超过 4 个；只对清单里标「现行」的文件生成，旧版不生成；每批完成即跑校验脚本。
 
