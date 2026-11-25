@@ -68,7 +68,7 @@
 **Files:**
 - Create: `scripts/cdp.mjs`
 
-- [ ] **Step 1: 新建 `scripts/cdp.mjs`**
+- [x] **Step 1: 新建 `scripts/cdp.mjs`**
 
 ```js
 // 用本机 Chrome 的 CDP（DevTools 协议）打开网页：取渲染后的 HTML、可见文本、截图，或在页面里执行脚本。
@@ -193,7 +193,7 @@ async function main() {
 main().catch(e => { console.error(e.message); process.exit(1) })
 ```
 
-- [ ] **Step 2: 验证**
+- [x] **Step 2: 验证**
 
 Run:
 
@@ -206,7 +206,7 @@ node scripts/cdp.mjs shot "http://localhost:4173/#/" /tmp/reader.png --width 120
 
 Expected: `webdriver` 为 false，`ua` 里没有 `Headless`、`Testing` 字样，`law` 是当前法规名；截图用 Read 工具能看到阅读页。不要用 `vite preview` 做静态模式测试——它把 `/api/*` 也回退成 index.html，前端会误以为后端在线。
 
-- [ ] **Step 3: 提交**
+- [x] **Step 3: 提交**
 
 ```bash
 git add scripts/cdp.mjs
@@ -221,7 +221,7 @@ git commit -m "工具：用 CDP 打开网页（渲染后 HTML、可见文本、�
 - Modify: `app/importer/parsers.py`
 - Test: `tests/test_parsers.py`
 
-- [ ] **Step 1: 写失败的测试**（追加到 `tests/test_parsers.py` 末尾）
+- [x] **Step 1: 写失败的测试**（追加到 `tests/test_parsers.py` 末尾）
 
 ```python
 def test_parse_md_clause_numbered():
@@ -264,12 +264,12 @@ def test_parse_md_clause_numbered():
     assert [a[0] for a in parsed["articles"]] == [1, 2, 3, 4, 5]
 ```
 
-- [ ] **Step 2: 确认测试失败**
+- [x] **Step 2: 确认测试失败**
 
 Run: `uv run pytest tests/test_parsers.py::test_parse_md_clause_numbered -q`
 Expected: FAIL，断言里 `parsed["articles"]` 为空列表（当前解析器只认「第X条」）。
 
-- [ ] **Step 3: 实现**
+- [x] **Step 3: 实现**
 
 在 `app/importer/parsers.py` 里把标题正则的 `[章节]` 扩成 `[章节部分]`，并在其后加三个正则和一个辅助函数：
 
@@ -326,12 +326,12 @@ def _next_line(lines: list[str], i: int) -> str:
         articles.append(current)
 ```
 
-- [ ] **Step 4: 确认测试通过**
+- [x] **Step 4: 确认测试通过**
 
 Run: `uv run pytest -q`
 Expected: 28 passed（原 27 例加本例；`test_parse_md_sample` 等原有用例不受影响）。
 
-- [ ] **Step 5: 提交**
+- [x] **Step 5: 提交**
 
 ```bash
 git add app/importer/parsers.py tests/test_parsers.py
@@ -346,7 +346,7 @@ git commit -m "解析器：没有「第X条」的文件按「部分 + 数字编�
 - Modify: `app/importer/parsers.py`
 - Test: `tests/test_parsers.py`
 
-- [ ] **Step 1: 写失败的测试**（追加到 `tests/test_parsers.py` 末尾，并把顶部 import 改为 `from app.importer.parsers import chapter_ranges, cn_num_to_int, parse_article_label, parse_html, parse_md`）
+- [x] **Step 1: 写失败的测试**（追加到 `tests/test_parsers.py` 末尾，并把顶部 import 改为 `from app.importer.parsers import chapter_ranges, cn_num_to_int, parse_article_label, parse_html, parse_md`）
 
 ```python
 def test_chapter_ranges():
@@ -380,12 +380,12 @@ def test_chapter_ranges():
     ]
 ```
 
-- [ ] **Step 2: 确认测试失败**
+- [x] **Step 2: 确认测试失败**
 
 Run: `uv run pytest tests/test_parsers.py::test_chapter_ranges -q`
 Expected: FAIL，`ImportError: cannot import name 'chapter_ranges'`。
 
-- [ ] **Step 3: 实现**（加在 `parse_md` 之前）
+- [x] **Step 3: 实现**（加在 `parse_md` 之前）
 
 ```python
 def chapter_ranges(md_text: str) -> list[dict]:
@@ -406,12 +406,12 @@ def chapter_ranges(md_text: str) -> list[dict]:
     return [r for r in ranges if r["articles"]]
 ```
 
-- [ ] **Step 4: 确认测试通过**
+- [x] **Step 4: 确认测试通过**
 
 Run: `uv run pytest -q`
 Expected: 29 passed。
 
-- [ ] **Step 5: 提交**
+- [x] **Step 5: 提交**
 
 ```bash
 git add app/importer/parsers.py tests/test_parsers.py
