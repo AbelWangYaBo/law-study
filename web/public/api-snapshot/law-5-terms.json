@@ -1,6 +1,6 @@
 [
  {
-  "id": 21,
+  "id": 52,
   "name": "本法所称电子签名",
   "term_type": "definition",
   "full_name": "",
@@ -9,7 +9,7 @@
   "article_label": "第二条"
  },
  {
-  "id": 22,
+  "id": 53,
   "name": "本法所称数据电文",
   "term_type": "definition",
   "full_name": "",
@@ -18,7 +18,7 @@
   "article_label": "第二条"
  },
  {
-  "id": 23,
+  "id": 54,
   "name": "电子签名人",
   "term_type": "definition",
   "full_name": "",
@@ -27,7 +27,7 @@
   "article_label": "第三十四条"
  },
  {
-  "id": 24,
+  "id": 55,
   "name": "电子签名依赖方",
   "term_type": "definition",
   "full_name": "",
@@ -36,7 +36,7 @@
   "article_label": "第三十四条"
  },
  {
-  "id": 25,
+  "id": 56,
   "name": "电子签名认证证书",
   "term_type": "definition",
   "full_name": "",
@@ -45,7 +45,7 @@
   "article_label": "第三十四条"
  },
  {
-  "id": 26,
+  "id": 57,
   "name": "电子签名制作数据",
   "term_type": "definition",
   "full_name": "",
@@ -54,7 +54,7 @@
   "article_label": "第三十四条"
  },
  {
-  "id": 27,
+  "id": 58,
   "name": "电子签名验证数据",
   "term_type": "definition",
   "full_name": "",

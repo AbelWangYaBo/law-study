@@ -1,6 +1,6 @@
 [
  {
-  "id": 12,
+  "id": 43,
   "name": "深度合成服务",
   "term_type": "short_name",
   "full_name": "",
@@ -9,7 +9,7 @@
   "article_label": "第二条"
  },
  {
-  "id": 13,
+  "id": 44,
   "name": "深度合成技术",
   "term_type": "definition",
   "full_name": "",
@@ -18,7 +18,7 @@
   "article_label": "第二十三条"
  },
  {
-  "id": 14,
+  "id": 45,
   "name": "深度合成服务提供者",
   "term_type": "definition",
   "full_name": "",
@@ -27,7 +27,7 @@
   "article_label": "第二十三条"
  },
  {
-  "id": 15,
+  "id": 46,
   "name": "深度合成服务技术支持者",
   "term_type": "definition",
   "full_name": "",
@@ -36,7 +36,7 @@
   "article_label": "第二十三条"
  },
  {
-  "id": 16,
+  "id": 47,
   "name": "深度合成服务使用者",
   "term_type": "definition",
   "full_name": "",
@@ -45,7 +45,7 @@
   "article_label": "第二十三条"
  },
  {
-  "id": 17,
+  "id": 48,
   "name": "训练数据",
   "term_type": "definition",
   "full_name": "",
@@ -54,7 +54,7 @@
   "article_label": "第二十三条"
  },
  {
-  "id": 18,
+  "id": 49,
   "name": "沉浸式拟真场景",
   "term_type": "definition",
   "full_name": "",
