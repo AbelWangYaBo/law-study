@@ -58,8 +58,8 @@ function connect(wsUrl) {
         waiting.set(id, { res, rej })
         ws.send(JSON.stringify({ id, method, params }))
       }),
-      waitFor: method => new Promise((res, rej) => {
-        const timer = setTimeout(() => { ws.removeEventListener('message', onMessage); rej(new Error(`等待 ${method} 超时`)) }, 30000)
+      waitFor: (method, timeout = 30000) => new Promise((res, rej) => {
+        const timer = setTimeout(() => { ws.removeEventListener('message', onMessage); rej(new Error(`等待 ${method} 超时`)) }, timeout)
         const onMessage = e => {
           if (JSON.parse(e.data).method === method) { clearTimeout(timer); ws.removeEventListener('message', onMessage); res() }
         }
@@ -92,7 +92,8 @@ async function main() {
     await cdp.send('Page.enable')
     await cdp.send('Runtime.enable')
     await cdp.send('Emulation.setDeviceMetricsOverride', { width: opts.width, height: opts.height, deviceScaleFactor: 1, mobile: false })
-    const loaded = cdp.waitFor('Page.loadEventFired')
+    // 有的页面迟迟不触发加载事件（长连接、持续请求），等不到就继续，后面的等待时间通常够用
+    const loaded = cdp.waitFor('Page.loadEventFired', 15000).catch(() => {})
     await cdp.send('Page.navigate', { url })
     await loaded
     await new Promise(r => setTimeout(r, opts.wait))   // 等前端把数据取回来、渲染完
