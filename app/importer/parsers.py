@@ -51,12 +51,20 @@ def parse_html(html: str) -> dict:
 
 
 _MD_ARTICLE_RE = re.compile(r"^第([零一二三四五六七八九十百千]+)条")
-# 章/节标题：可带 markdown 强调符（**…** / *…*），标题里没有句读，长度有限
-_MD_HEADING_RE = re.compile(r"^(?:\*\*|__|\*|_)?第[零一二三四五六七八九十百千]+[章节][^。；，：？！]{0,40}?(?:\*\*|__|\*|_)?$")
+# 章/节/部分标题：可带 markdown 强调符（**…** / *…*），标题里没有句读，长度有限
+_MD_HEADING_RE = re.compile(r"^(?:\*\*|__|\*|_)?第[零一二三四五六七八九十百千]+[章节部分][^。；，：？！]{0,40}?(?:\*\*|__|\*|_)?$")
+# 没有「第X条」的文件（如器械 GMP 附录）按数字编号切条：二级编号 1.1，三级编号 2.1.1
+_MD_CLAUSE_RE = re.compile(r"^(\d+\.\d+)(?![\d.])\s*(.*)$")
+_MD_SUBCLAUSE_RE = re.compile(r"^(\d+\.\d+\.\d+)(?![\d.])\s*(.*)$")
+
+
+def _next_line(lines: list[str], i: int) -> str:
+    """第 i 行之后第一个非空行（去掉 markdown 强调符）。"""
+    return next((x.strip().lstrip("*") for x in lines[i + 1:] if x.strip()), "")
 
 
 def parse_md(md_text: str) -> dict:
-    """解析法规总表 md：YAML 元数据 + 「第X条」切条，空行分段。"""
+    """解析法规总表 md：YAML 元数据 + 「第X条」切条（没有「第X条」的按数字编号切条），空行分段。"""
     meta = {}
     body = md_text
     if md_text.startswith("---"):
@@ -74,21 +82,38 @@ def parse_md(md_text: str) -> dict:
     level = str(meta.get("效力层级", "") or "").strip()
     effective_date = str(meta.get("施行日期", "") or "").strip()
 
+    lines = body.splitlines()
+    # 没有「第X条」的文件按数字编号切条
+    clause_mode = not any(_MD_ARTICLE_RE.match(line.strip()) for line in lines)
+
     articles: list[tuple[int, str, list[str]]] = []
     current: tuple[int, str, list[str]] | None = None
-    for line in body.splitlines():
+    for i, line in enumerate(lines):
         stripped = line.strip()
         if not stripped:
             continue
-        m = _MD_ARTICLE_RE.match(stripped)
+        if clause_mode:
+            m = _MD_SUBCLAUSE_RE.match(stripped)
+            if not m:
+                m = _MD_CLAUSE_RE.match(stripped)
+                # 二级编号：后面紧跟同组的三级编号时只是小节标题（如「2.1 人员」）
+                if m and _next_line(lines, i).startswith(m.group(1) + "."):
+                    continue
+        else:
+            m = _MD_ARTICLE_RE.match(stripped)
         if m:
             if current:
                 articles.append(current)
-            label = f"第{m.group(1)}条"
-            first_para = stripped[m.end():].strip()
-            current = (cn_num_to_int(m.group(1)), label, [first_para] if first_para else [])
-        elif _MD_HEADING_RE.match(stripped) or stripped.startswith(("#", ">", "**目录")):
-            continue  # 章/节标题、标题、引用块不入条款
+            if clause_mode:
+                rest = m.group(2).strip()
+                current = (len(articles) + 1, m.group(1), [rest] if rest else [])
+            else:
+                label = f"第{m.group(1)}条"
+                first_para = stripped[m.end():].strip()
+                current = (cn_num_to_int(m.group(1)), label, [first_para] if first_para else [])
+            continue
+        if _MD_HEADING_RE.match(stripped) or stripped.startswith(("#", ">", "**目录")):
+            continue  # 章/节/部分标题、标题、引用块不入条款
         elif current:
             current[2].append(stripped)
     if current:
