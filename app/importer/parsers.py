@@ -51,7 +51,8 @@ def parse_html(html: str) -> dict:
 
 
 _MD_ARTICLE_RE = re.compile(r"^第([零一二三四五六七八九十百千]+)条")
-_MD_CHAPTER_RE = re.compile(r"^\*\*第.+章.+\*\*$")
+# 章/节标题：可带 markdown 强调符（**…** / *…*），标题里没有句读，长度有限
+_MD_HEADING_RE = re.compile(r"^(?:\*\*|__|\*|_)?第[零一二三四五六七八九十百千]+[章节][^。；，：？！]{0,40}?(?:\*\*|__|\*|_)?$")
 
 
 def parse_md(md_text: str) -> dict:
@@ -86,8 +87,8 @@ def parse_md(md_text: str) -> dict:
             label = f"第{m.group(1)}条"
             first_para = stripped[m.end():].strip()
             current = (cn_num_to_int(m.group(1)), label, [first_para] if first_para else [])
-        elif _MD_CHAPTER_RE.match(stripped) or stripped.startswith(("#", ">", "**目录")):
-            continue  # 章标题/标题/引用块不入条款
+        elif _MD_HEADING_RE.match(stripped) or stripped.startswith(("#", ">", "**目录")):
+            continue  # 章/节标题、标题、引用块不入条款
         elif current:
             current[2].append(stripped)
     if current:
