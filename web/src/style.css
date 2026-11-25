@@ -168,3 +168,7 @@ button:disabled { opacity: .45; cursor: not-allowed; }
 .level-badge.high { background: #fdeeee; color: var(--bad); }
 .level-badge.mid { background: #f6efdd; color: #7a6335; }
 .level-badge.low { background: #eaf3ea; color: var(--ok); }
+.std-no { font-weight: 600; color: var(--ink); text-decoration: none; }
+.data-table a.std-no:hover { color: var(--accent); }
+/* 宽表格：卡片内横向滚动，不撑破页面 */
+.table-wrap { overflow-x: auto; }

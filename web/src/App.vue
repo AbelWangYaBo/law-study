@@ -48,6 +48,7 @@ provide('snapshot', snapshot)
         <router-link to="/dictionary">术语字典</router-link>
         <router-link to="/graph">知识图谱</router-link>
         <router-link to="/inspect">检查指导原则</router-link>
+        <router-link to="/standards">标准地图</router-link>
       </nav>
       <select
         v-if="laws.length > 1"
