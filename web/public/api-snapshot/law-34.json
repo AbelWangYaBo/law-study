@@ -1,0 +1,7892 @@
+{
+ "id": 34,
+ "name": "药品生产质量管理规范附录：血液制品（2020年版，已被替代）",
+ "doc_number": "国家药监局公告2020年第77号",
+ "authority": "国家药品监督管理局",
+ "level": "历史版本",
+ "effective_date": "2020-10-01",
+ "articles": [
+  {
+   "id": 1949,
+   "order_no": 1,
+   "label": "第一条",
+   "paragraphs": [
+    {
+     "id": 3983,
+     "order_no": 1,
+     "text": "本附录所称血液制品，特指人血浆蛋白类制品。本附录适用于人血液制品的生产管理、质量控制、贮存、发放、运输和处理。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "称",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "特指",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "蛋白",
+       "term_id": null
+      },
+      {
+       "t": "类",
+       "term_id": null
+      },
+      {
+       "t": "制品",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "适用",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "发放",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1950,
+   "order_no": 2,
+   "label": "第二条",
+   "paragraphs": [
+    {
+     "id": 3984,
+     "order_no": 1,
+     "text": "本附录中的血液制品生产包括从原料血浆接收、入库贮存、复检、血浆组分分离、血液制品制备、检定到成品入库的全过程。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "从",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "入库",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "复检",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "组分",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "制备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "检定",
+       "term_id": null
+      },
+      {
+       "t": "到",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "入库",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1951,
+   "order_no": 3,
+   "label": "第三条",
+   "paragraphs": [
+    {
+     "id": 3985,
+     "order_no": 1,
+     "text": "生产血液制品用原料血浆的采集、检验、贮存和运输应当符合《中华人民共和国药典》中“血液制品生产用人血浆”的规定和《单采血浆站质量管理规范》的规定。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "药典",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "“",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "用人",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "”",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "单采",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "站",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1952,
+   "order_no": 4,
+   "label": "第四条",
+   "paragraphs": [
+    {
+     "id": 3986,
+     "order_no": 1,
+     "text": "血液制品的管理还应当符合本规范及其他适用附录和国家相关规定。",
+     "tokens": [
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "还",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "他",
+       "term_id": null
+      },
+      {
+       "t": "适用",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1953,
+   "order_no": 5,
+   "label": "第五条",
+   "paragraphs": [
+    {
+     "id": 3987,
+     "order_no": 1,
+     "text": "原料血浆可能含有经血液传播疾病的病原体，为确保产品的安全性，必须确保原料血浆的质量和来源的合法性，必须对生产过程进行严格控制，特别是病毒的去除和/或灭活工序，必须对原辅料及产品进行严格的质量控制。",
+     "tokens": [
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "含有",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "血液",
+       "term_id": null
+      },
+      {
+       "t": "传播",
+       "term_id": null
+      },
+      {
+       "t": "疾病",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "病原体",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "安全性",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "来源",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "合法性",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "严格控制",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "特别",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "工序",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "原辅料",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "严格",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1954,
+   "order_no": 6,
+   "label": "第六条",
+   "paragraphs": [
+    {
+     "id": 3988,
+     "order_no": 1,
+     "text": "企业负责人应当具有血液制品专业知识，并经过相关法律知识的培训。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "负责人",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "专业知识",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "法律",
+       "term_id": null
+      },
+      {
+       "t": "知识",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1955,
+   "order_no": 7,
+   "label": "第七条",
+   "paragraphs": [
+    {
+     "id": 3989,
+     "order_no": 1,
+     "text": "生产管理负责人应当至少具有药学或相关专业（如微生物学、生物学、免疫学、生物化学等）本科学历（或中级专业技术职称或执业药师资格），至少具有5年从事血液制品生产和质量管理的实践经验。其中，至少具有3年从事血液制品生产的实践经验。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "负责人",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "药学",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "微生物学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生物学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "免疫学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生物化学",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "本科学历",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "中级",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "技术职称",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "执业",
+       "term_id": null
+      },
+      {
+       "t": "药师",
+       "term_id": null
+      },
+      {
+       "t": "资格",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "5",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实践经验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "其中",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "3",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实践经验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1956,
+   "order_no": 8,
+   "label": "第八条",
+   "paragraphs": [
+    {
+     "id": 3990,
+     "order_no": 1,
+     "text": "质量管理负责人和质量受权人应当至少具有药学或相关专业（如微生物学、生物学、免疫学、生物化学等）本科学历（或中级专业技术职称或执业药师资格），至少具有5年从事血液制品生产和质量管理的实践经验。其中，至少具有3年从事血液制品质量保证、质量控制的实践经验。",
+     "tokens": [
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "负责人",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "受权",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "药学",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "微生物学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生物学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "免疫学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生物化学",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "本科学历",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "中级",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "技术职称",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "执业",
+       "term_id": null
+      },
+      {
+       "t": "药师",
+       "term_id": null
+      },
+      {
+       "t": "资格",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "5",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实践经验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "其中",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "3",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "质量保证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实践经验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1957,
+   "order_no": 9,
+   "label": "第九条",
+   "paragraphs": [
+    {
+     "id": 3991,
+     "order_no": 1,
+     "text": "从事血液制品生产、质量保证、质量控制及其他相关人员（包括清洁、维修人员）应当经过生物安全防护的培训，尤其是经过预防经血液传播疾病方面的知识培训。",
+     "tokens": [
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量保证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "他",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "维修",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "生物",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "尤其",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "预防",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "血液",
+       "term_id": null
+      },
+      {
+       "t": "传播",
+       "term_id": null
+      },
+      {
+       "t": "疾病",
+       "term_id": null
+      },
+      {
+       "t": "方面",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "知识",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1958,
+   "order_no": 10,
+   "label": "第十条",
+   "paragraphs": [
+    {
+     "id": 3992,
+     "order_no": 1,
+     "text": "境内从事血液制品生产、质量保证、质量控制及其他相关人员应当接种预防经血液传播疾病的疫苗。",
+     "tokens": [
+      {
+       "t": "境内",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量保证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "他",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "接种",
+       "term_id": null
+      },
+      {
+       "t": "预防",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "血液",
+       "term_id": null
+      },
+      {
+       "t": "传播",
+       "term_id": null
+      },
+      {
+       "t": "疾病",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "疫苗",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1959,
+   "order_no": 11,
+   "label": "第十一条",
+   "paragraphs": [
+    {
+     "id": 3993,
+     "order_no": 1,
+     "text": "血液制品的生产厂房应当为独立建筑物，不得与其它药品共用，并使用专用的生产设施和设备。",
+     "tokens": [
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "独立",
+       "term_id": null
+      },
+      {
+       "t": "建筑物",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "其它",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "共用",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1960,
+   "order_no": 12,
+   "label": "第十二条",
+   "paragraphs": [
+    {
+     "id": 3994,
+     "order_no": 1,
+     "text": "原料血浆、血液制品检验实验室应当符合国务院《病原微生物实验室生物安全管理条例》、国家标准《实验室生物安全通用要求》的有关规定，并具备与企业生产和质量要求相适应的检验能力。企业应定期开展实验室能力评估，确保实验结果准确、可靠和检验过程信息记录的真实、准确、完整和可追溯。",
+     "tokens": [
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "实验室",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "国务院",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "病原",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "实验室",
+       "term_id": null
+      },
+      {
+       "t": "生物",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "管理条例",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "国家标准",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "实验室",
+       "term_id": null
+      },
+      {
+       "t": "生物",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "通用",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检验能力",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "开展",
+       "term_id": null
+      },
+      {
+       "t": "实验室",
+       "term_id": null
+      },
+      {
+       "t": "能力",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "实验",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "准确",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可靠",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "真实",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "准确",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1961,
+   "order_no": 13,
+   "label": "第十三条",
+   "paragraphs": [
+    {
+     "id": 3995,
+     "order_no": 1,
+     "text": "原料血浆和生产用合并血浆检验实验室应当独立设置，使用专用检验设备，并应当有原位灭活或消毒的设备。如有空调系统，应当独立设置。",
+     "tokens": [
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "实验室",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "独立设置",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "原位",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "空调",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "独立设置",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1962,
+   "order_no": 14,
+   "label": "第十四条",
+   "paragraphs": [
+    {
+     "id": 3996,
+     "order_no": 1,
+     "text": "原料血浆破袋、合并、分离、提取、分装前的巴氏灭活等工序至少在D级洁净区内进行。",
+     "tokens": [
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "破袋",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "提取",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分装",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "巴氏",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "工序",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "D",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "区内",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1963,
+   "order_no": 15,
+   "label": "第十五条",
+   "paragraphs": [
+    {
+     "id": 3997,
+     "order_no": 1,
+     "text": "血浆融浆区域、组分分离区域以及病毒灭活后生产区域应当彼此分开，生产设备应当专用，各区域应当有独立的空气净化系统。",
+     "tokens": [
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "融浆",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组分",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "彼此",
+       "term_id": null
+      },
+      {
+       "t": "分开",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "各",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "独立",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "空气净化",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1964,
+   "order_no": 16,
+   "label": "第十六条",
+   "paragraphs": [
+    {
+     "id": 3998,
+     "order_no": 1,
+     "text": "血液制品生产中，应当采取措施防止病毒去除和/或灭活前、后制品的交叉污染。病毒去除和/或灭活后的制品应当使用隔离的专用生产区域与设备，并使用独立的空气净化系统。",
+     "tokens": [
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "采取措施",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "或灭",
+       "term_id": null
+      },
+      {
+       "t": "活前",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "制品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "或灭",
+       "term_id": null
+      },
+      {
+       "t": "活后",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "制品",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "隔离",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "独立",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "空气净化",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1965,
+   "order_no": 17,
+   "label": "第十七条",
+   "paragraphs": [
+    {
+     "id": 3999,
+     "order_no": 1,
+     "text": "企业对每批接收的原料血浆，应当检查以下各项内容：",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "每批",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "各项",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4000,
+     "order_no": 2,
+     "text": "（一）原料血浆采集单位与法定部门批准的单采血浆站一致；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "单位",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "法定",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "单采",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "站",
+       "term_id": null
+      },
+      {
+       "t": "一致",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4001,
+     "order_no": 3,
+     "text": "（二）运输过程中的温度监控记录完整，温度符合要求，运输过程中出现的温度偏差，按照偏差处理规程进行处理，并有相关记录；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "符合要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "出现",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "偏差",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "偏差",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "规程",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4002,
+     "order_no": 4,
+     "text": "（三）血浆袋的包装完整无破损；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "袋",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "无",
+       "term_id": null
+      },
+      {
+       "t": "破损",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4003,
+     "order_no": 5,
+     "text": "（四）血浆袋上的标签内容完整，至少含有献血浆者姓名（或识别号）、卡号、血型、血浆编号、采血浆日期、血浆重量及单采血浆站名称等信息；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "袋",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "含有",
+       "term_id": null
+      },
+      {
+       "t": "献",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "者",
+       "term_id": null
+      },
+      {
+       "t": "姓名",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "号",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "卡号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "血型",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "编号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "采",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "日期",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "重量",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "单采",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "站",
+       "term_id": null
+      },
+      {
+       "t": "名称",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4004,
+     "order_no": 6,
+     "text": "（五）血浆的检测符合要求，并附检测报告。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "符合要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "附",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1966,
+   "order_no": 18,
+   "label": "第十八条",
+   "paragraphs": [
+    {
+     "id": 4005,
+     "order_no": 1,
+     "text": "原料血浆接收后，企业应当对每一人份血浆进行复检，并有复检记录。原料血浆的质量应当符合《中华人民共和国药典》相关要求。企业对复检不符合质量标准的原料血浆应当按照规定销毁，不得用于投料生产，销毁情况应写入年度质量回顾分析报告中。用于检测的血浆样本及血浆样本留样不得用于生产。",
+     "tokens": [
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "每",
+       "term_id": null
+      },
+      {
+       "t": "一人份",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "复检",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "复检",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "药典",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "复检",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "质量标准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "销毁",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "销毁",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "写入",
+       "term_id": null
+      },
+      {
+       "t": "年度",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "回顾",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "样本",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "样本",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4006,
+     "order_no": 2,
+     "text": "企业应当对所有投料生产用原料血浆留样，至血浆投料生产所有产品有效期届满后1年。原料血浆留样量应当满足规定病毒的核酸、病毒标志物检测及复测等的用量要求，原料血浆留样使用的容器应当满足留样期间样品保存、信息标识等的需要。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "所有",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "至",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "所有",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "有效期",
+       "term_id": null
+      },
+      {
+       "t": "届满",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "留样量",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "核酸",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "标志物",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "复测",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "用量",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "期间",
+       "term_id": null
+      },
+      {
+       "t": "样品",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1967,
+   "order_no": 19,
+   "label": "第十九条",
+   "paragraphs": [
+    {
+     "id": 4007,
+     "order_no": 1,
+     "text": "原料血浆检疫期应当符合相关规定。",
+     "tokens": [
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "检疫",
+       "term_id": null
+      },
+      {
+       "t": "期",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1968,
+   "order_no": 20,
+   "label": "第二十条",
+   "paragraphs": [
+    {
+     "id": 4008,
+     "order_no": 1,
+     "text": "投产使用前，企业应当对每批放行的原料血浆进行质量评价，内容应当包括：",
+     "tokens": [
+      {
+       "t": "投产",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "每批",
+       "term_id": null
+      },
+      {
+       "t": "放行",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "评价",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4009,
+     "order_no": 2,
+     "text": "原料血浆采集单位与法定部门批准的单采血浆站一致；",
+     "tokens": [
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "单位",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "法定",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "单采",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "站",
+       "term_id": null
+      },
+      {
+       "t": "一致",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4010,
+     "order_no": 3,
+     "text": "贮存过程中的温度监控记录完整，温度符合要求，贮存过程中出现的温度偏差，按照偏差处理规程进行处理，并有相关记录；",
+     "tokens": [
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "符合要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "出现",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "偏差",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "偏差",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "规程",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4011,
+     "order_no": 4,
+     "text": "采用经批准的体外诊断试剂对每袋血浆进行复检并符合要求；",
+     "tokens": [
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "体外",
+       "term_id": null
+      },
+      {
+       "t": "诊断",
+       "term_id": null
+      },
+      {
+       "t": "试剂",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "每袋",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "复检",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "符合要求",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4012,
+     "order_no": 5,
+     "text": "已达到检疫期管理的要求；",
+     "tokens": [
+      {
+       "t": "已",
+       "term_id": null
+      },
+      {
+       "t": "达到",
+       "term_id": null
+      },
+      {
+       "t": "检疫",
+       "term_id": null
+      },
+      {
+       "t": "期",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4013,
+     "order_no": 6,
+     "text": "血浆袋破损或复检不合格的血浆已剔除并按规定处理。",
+     "tokens": [
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "袋",
+       "term_id": null
+      },
+      {
+       "t": "破损",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "复检",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "已",
+       "term_id": null
+      },
+      {
+       "t": "剔除",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "按规定",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1969,
+   "order_no": 21,
+   "label": "第二十一条",
+   "paragraphs": [
+    {
+     "id": 4014,
+     "order_no": 1,
+     "text": "企业应当建立原料血浆的追溯系统，确保每份血浆可追溯至献血浆者，并可向前追溯到献血浆者最后一次采集的血浆之前至少60天内所采集的血浆。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "追溯",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "每份",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "至献",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "者",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "向前",
+       "term_id": null
+      },
+      {
+       "t": "追溯到",
+       "term_id": null
+      },
+      {
+       "t": "献",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "者",
+       "term_id": null
+      },
+      {
+       "t": "最后",
+       "term_id": null
+      },
+      {
+       "t": "一次",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "之前",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "60",
+       "term_id": null
+      },
+      {
+       "t": "天内",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1970,
+   "order_no": 22,
+   "label": "第二十二条",
+   "paragraphs": [
+    {
+     "id": 4015,
+     "order_no": 1,
+     "text": "企业应当与单采血浆站建立信息交换系统，出现下列情况应当及时交换信息：",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "单采",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "站",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "交换",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "出现",
+       "term_id": null
+      },
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "及时",
+       "term_id": null
+      },
+      {
+       "t": "交换",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4016,
+     "order_no": 2,
+     "text": "发现献血浆者不符合相关的健康标准；",
+     "tokens": [
+      {
+       "t": "发现",
+       "term_id": null
+      },
+      {
+       "t": "献",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "者",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "健康",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4017,
+     "order_no": 3,
+     "text": "以前病原体标记为阴性的献血浆者，在随后采集到的原料血浆中发现任何一种病原体标记为阳性；",
+     "tokens": [
+      {
+       "t": "以前",
+       "term_id": null
+      },
+      {
+       "t": "病原体",
+       "term_id": null
+      },
+      {
+       "t": "标记",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "阴性",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "献",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "者",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "随后",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "到",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "发现",
+       "term_id": null
+      },
+      {
+       "t": "任何",
+       "term_id": null
+      },
+      {
+       "t": "一种",
+       "term_id": null
+      },
+      {
+       "t": "病原体",
+       "term_id": null
+      },
+      {
+       "t": "标记",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "阳性",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4018,
+     "order_no": 4,
+     "text": "原料血浆复检结果不符合要求；",
+     "tokens": [
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "复检",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "符合要求",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4019,
+     "order_no": 5,
+     "text": "发现未按规程要求对原料血浆进行病原体检测；",
+     "tokens": [
+      {
+       "t": "发现",
+       "term_id": null
+      },
+      {
+       "t": "未",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "规程",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "病原体",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 4020,
+     "order_no": 6,
+     "text": "献血浆者患有可经由血浆传播病原体（如HAV、HBV、HCV和其他血源性传播肝炎病毒、HIV及目前所知的其它病原体）的疾病以及克-雅病或变异型新克-雅病（CJD或vCJD）。",
+     "tokens": [
+      {
+       "t": "献",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "者",
+       "term_id": null
+      },
+      {
+       "t": "患有",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "经由",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "传播",
+       "term_id": null
+      },
+      {
+       "t": "病原体",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "HAV",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "HBV",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "HCV",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "血源性",
+       "term_id": null
+      },
+      {
+       "t": "传播",
+       "term_id": null
+      },
+      {
+       "t": "肝炎",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "HIV",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "目前",
+       "term_id": null
+      },
+      {
+       "t": "所知",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "其它",
+       "term_id": null
+      },
+      {
+       "t": "病原体",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "疾病",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "克",
+       "term_id": null
+      },
+      {
+       "t": "-",
+       "term_id": null
+      },
+      {
+       "t": "雅病",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "变异型",
+       "term_id": null
+      },
+      {
+       "t": "新克",
+       "term_id": null
+      },
+      {
+       "t": "-",
+       "term_id": null
+      },
+      {
+       "t": "雅病",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "CJD",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "vCJD",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1971,
+   "order_no": 23,
+   "label": "第二十三条",
+   "paragraphs": [
+    {
+     "id": 4021,
+     "order_no": 1,
+     "text": "企业应当制定规程，明确规定出现第二十二条中的任何一种情况的应对措施。应当根据涉及的病原体、投料量、检疫期、制品特性和生产工艺，对使用相关原料血浆生产的血液制品的质量风险进行再评估，并重新审核批记录。必要时应当召回已发放的成品。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "规程",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "明确规定",
+       "term_id": null
+      },
+      {
+       "t": "出现",
+       "term_id": null
+      },
+      {
+       "t": "第二十二条",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "任何",
+       "term_id": null
+      },
+      {
+       "t": "一种",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "涉及",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "病原体",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "量",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "检疫",
+       "term_id": null
+      },
+      {
+       "t": "期",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "制品",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "生产工艺",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "再",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "重新",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "召回",
+       "term_id": null
+      },
+      {
+       "t": "已",
+       "term_id": null
+      },
+      {
+       "t": "发放",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1972,
+   "order_no": 24,
+   "label": "第二十四条",
+   "paragraphs": [
+    {
+     "id": 4022,
+     "order_no": 1,
+     "text": "发现已投料血浆中混有感染HIV、HBV、HCV血浆的，应当立即停止全部产品的生产，封存用相应投料血浆所生产的组分、中间产品、待包装产品及成品，并向所在地省级药品监督管理部门报告。企业应及时启动原因调查，进行风险评估，并采取相应的风险控制措施。风险控制措施关闭且调查结束后，用相应投料血浆所生产的组分、中间产品、待包装产品及成品应均予销毁。",
+     "tokens": [
+      {
+       "t": "发现",
+       "term_id": null
+      },
+      {
+       "t": "已",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "混",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "感染",
+       "term_id": null
+      },
+      {
+       "t": "HIV",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "HBV",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "HCV",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "立即",
+       "term_id": null
+      },
+      {
+       "t": "停止",
+       "term_id": null
+      },
+      {
+       "t": "全部",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "封存",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "组分",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "待",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "所在地",
+       "term_id": null
+      },
+      {
+       "t": "省级",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "及时",
+       "term_id": null
+      },
+      {
+       "t": "启动",
+       "term_id": null
+      },
+      {
+       "t": "原因",
+       "term_id": null
+      },
+      {
+       "t": "调查",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "采取相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "控制措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "控制措施",
+       "term_id": null
+      },
+      {
+       "t": "关闭",
+       "term_id": null
+      },
+      {
+       "t": "且",
+       "term_id": null
+      },
+      {
+       "t": "调查",
+       "term_id": null
+      },
+      {
+       "t": "结束",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "组分",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "待",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "应均予",
+       "term_id": null
+      },
+      {
+       "t": "销毁",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1973,
+   "order_no": 25,
+   "label": "第二十五条",
+   "paragraphs": [
+    {
+     "id": 4023,
+     "order_no": 1,
+     "text": "企业应当加强对单采血浆站的质量审核，督促单采血浆站严格执行国家有关法律法规及规范性文件对原料血浆采集、供应的相关规定。企业应当定期对单采血浆站进行现场质量审核，至少每半年一次，并有质量审核书面报告。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "加强",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "单采",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "站",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "督促",
+       "term_id": null
+      },
+      {
+       "t": "单采",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "站",
+       "term_id": null
+      },
+      {
+       "t": "严格执行",
+       "term_id": null
+      },
+      {
+       "t": "国家有关",
+       "term_id": null
+      },
+      {
+       "t": "法律法规",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "规范性",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "供应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "单采",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "站",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "现场",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "每半年",
+       "term_id": null
+      },
+      {
+       "t": "一次",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "书面报告",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1974,
+   "order_no": 26,
+   "label": "第二十六条",
+   "paragraphs": [
+    {
+     "id": 4024,
+     "order_no": 1,
+     "text": "企业应当对原料血浆、血浆蛋白组分、中间产品、成品的贮存、运输温度及条件进行验证。应当对贮存、运输温度及条件进行监控，并有记录。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "蛋白",
+       "term_id": null
+      },
+      {
+       "t": "组分",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1975,
+   "order_no": 27,
+   "label": "第二十七条",
+   "paragraphs": [
+    {
+     "id": 4025,
+     "order_no": 1,
+     "text": "用于血浆中特定病原体（HIV、HBV、HCV及梅毒螺旋体）标记检查的体外诊断试剂，应当获得药品监督管理部门批准。体外诊断试剂验收入库、贮存、发放和使用等应当与原辅料管理相同。",
+     "tokens": [
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "特定",
+       "term_id": null
+      },
+      {
+       "t": "病原体",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "HIV",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "HBV",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "HCV",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "梅毒",
+       "term_id": null
+      },
+      {
+       "t": "螺旋体",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "标记",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "体外",
+       "term_id": null
+      },
+      {
+       "t": "诊断",
+       "term_id": null
+      },
+      {
+       "t": "试剂",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "获得",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "体外",
+       "term_id": null
+      },
+      {
+       "t": "诊断",
+       "term_id": null
+      },
+      {
+       "t": "试剂",
+       "term_id": null
+      },
+      {
+       "t": "验收",
+       "term_id": null
+      },
+      {
+       "t": "入库",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "发放",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "原辅料",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "相同",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1976,
+   "order_no": 28,
+   "label": "第二十八条",
+   "paragraphs": [
+    {
+     "id": 4026,
+     "order_no": 1,
+     "text": "单份血浆按照生产规模混合后进行血液制品各组分的提取前，企业应当根据产品工艺特点逐一对所有合并容器中的合并血浆（或者分离冷沉淀后的合并血浆）留取有代表性样品，并将样品保存至血浆投料生产所有产品有效期届满后1年。合并血浆留样量应当满足规定病毒的核酸、病毒标志物检测及复测等的用量要求。合并血浆留样使用的容器应当满足留样期间样品保存、信息标识等的需要。企业应当按《中华人民共和国药典》规定对合并血浆进行取样、检验，并均符合要求。合并血浆检验结果不符合要求的，不得继续用于生产，企业应当按照规定销毁，销毁情况应写入年度质量回顾分析报告中。用于检测的合并血浆样本及合并血浆样本留样不得用于生产。",
+     "tokens": [
+      {
+       "t": "单份",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "规模",
+       "term_id": null
+      },
+      {
+       "t": "混合",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "各",
+       "term_id": null
+      },
+      {
+       "t": "组分",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "提取",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "特点",
+       "term_id": null
+      },
+      {
+       "t": "逐一",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "所有",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "冷",
+       "term_id": null
+      },
+      {
+       "t": "沉淀",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "留取",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "代表性",
+       "term_id": null
+      },
+      {
+       "t": "样品",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "将",
+       "term_id": null
+      },
+      {
+       "t": "样品",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "至",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "所有",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "有效期",
+       "term_id": null
+      },
+      {
+       "t": "届满",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "留样量",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "核酸",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "标志物",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "复测",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "用量",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "期间",
+       "term_id": null
+      },
+      {
+       "t": "样品",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "药典",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "取样",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "符合要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "符合要求",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "继续",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "销毁",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "销毁",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "写入",
+       "term_id": null
+      },
+      {
+       "t": "年度",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "回顾",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "样本",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "样本",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1977,
+   "order_no": 29,
+   "label": "第二十九条",
+   "paragraphs": [
+    {
+     "id": 4027,
+     "order_no": 1,
+     "text": "原料血浆解冻、破袋、化浆的操作人员应当穿戴适当的防护服、面罩和手套。",
+     "tokens": [
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "解冻",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "破袋",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "化浆",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "穿戴",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "防护服",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "面罩",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "手套",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1978,
+   "order_no": 30,
+   "label": "第三十条",
+   "paragraphs": [
+    {
+     "id": 4028,
+     "order_no": 1,
+     "text": "企业应当制定操作规程，定期对破袋、融浆的生产过程进行环境监测，并逐一对所有合并容器中的合并血浆进行微生物限度检查，尽可能降低操作过程中的微生物污染。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "操作规程",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "对破袋",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "融浆",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "环境监测",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "逐一",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "所有",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "合并",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "限度",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "尽可能",
+       "term_id": null
+      },
+      {
+       "t": "降低",
+       "term_id": null
+      },
+      {
+       "t": "操作过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1979,
+   "order_no": 31,
+   "label": "第三十一条",
+   "paragraphs": [
+    {
+     "id": 4029,
+     "order_no": 1,
+     "text": "已经过病毒去除和/或灭活处理的产品与尚未处理的产品应当有明显区分和标识，并应当采用适当的方法避免不同产品的混淆、交叉污染，避免生产或质量控制操作发生遗漏或差错。",
+     "tokens": [
+      {
+       "t": "已经",
+       "term_id": null
+      },
+      {
+       "t": "过",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "尚未",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "明显",
+       "term_id": null
+      },
+      {
+       "t": "区分",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "混淆",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "发生",
+       "term_id": null
+      },
+      {
+       "t": "遗漏",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "差错",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1980,
+   "order_no": 32,
+   "label": "第三十二条",
+   "paragraphs": [
+    {
+     "id": 4030,
+     "order_no": 1,
+     "text": "不得用生产设施和设备进行病毒去除或灭活方法的验证。",
+     "tokens": [
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1981,
+   "order_no": 33,
+   "label": "第三十三条",
+   "paragraphs": [
+    {
+     "id": 4031,
+     "order_no": 1,
+     "text": "企业应当对成品开展有关病毒污染和安全风险评估。经评估无法有效排除风险的，企业应当对成品开展有关病毒标志物检测，以确保质量安全。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "开展",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "无法",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "排除",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "开展",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "标志物",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1982,
+   "order_no": 34,
+   "label": "第三十四条",
+   "paragraphs": [
+    {
+     "id": 4032,
+     "order_no": 1,
+     "text": "企业对血液制品的放行应当符合《生物制品批签发管理办法》的要求。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "血液制品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "放行",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "生物制品",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "签发",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "办法",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1983,
+   "order_no": 35,
+   "label": "第三十五条",
+   "paragraphs": [
+    {
+     "id": 4033,
+     "order_no": 1,
+     "text": "企业应当建立安全和有效地处理不合格原料血浆、中间产品、成品的操作规程，处理应当有记录。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "血浆",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "操作规程",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9936 @@
+{
+ "id": 26,
+ "name": "药品生产质量管理规范附录：生化药品",
+ "doc_number": "国家食品药品监督管理总局公告2017年第29号",
+ "authority": "国家食品药品监督管理总局",
+ "level": "规范性文件（79号令配套附录）",
+ "effective_date": "2017-09-01",
+ "articles": [
+  {
+   "id": 1460,
+   "order_no": 1,
+   "label": "第一条",
+   "paragraphs": [
+    {
+     "id": 2984,
+     "order_no": 1,
+     "text": "本附录所指生化药品是指从动物的器官、组织、体液、分泌物中经前处理、提取、分离、纯化等制得的安全、有效、质量可控的药品。主要包括：蛋白质、多肽、氨基酸及其衍生物、多糖、核苷酸及其衍生物、脂、酶及辅酶等（不包括生物制品附录所列产品）。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "所指",
+       "term_id": null
+      },
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指从",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "器官",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "体液",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分泌物",
+       "term_id": null
+      },
+      {
+       "t": "中经前",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "提取",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "制得",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "可控",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "主要",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "蛋白质",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "多肽",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "氨基酸",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "衍生物",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "多糖",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "核苷酸",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "衍生物",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "脂",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "酶",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "辅酶",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "生物制品",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "列",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1461,
+   "order_no": 2,
+   "label": "第二条",
+   "paragraphs": [
+    {
+     "id": 2985,
+     "order_no": 1,
+     "text": "本附录适用于原材料的前处理、提取、分离、纯化等原料（原液）及其制剂的制备和质量控制的全过程。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "适用",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "提取",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "制剂",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "制备",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2986,
+     "order_no": 2,
+     "text": "原材料的采集过程应符合国家相关规定，药品生产企业应监督控制其来源及质量。",
+     "tokens": [
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "符合国家",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "监督控制",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "来源",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1462,
+   "order_no": 3,
+   "label": "第三条",
+   "paragraphs": [
+    {
+     "id": 2987,
+     "order_no": 1,
+     "text": "来源于人的组织、尿液的产品按照本附录执行。",
+     "tokens": [
+      {
+       "t": "来源于",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "尿液",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1463,
+   "order_no": 4,
+   "label": "第四条",
+   "paragraphs": [
+    {
+     "id": 2988,
+     "order_no": 1,
+     "text": "应建立完善的质量管理体系，依据质量风险管理的原则，结合品种特点，明确从原材料采集至成品放行各阶段的质量管理责任，确保产品的安全有效、质量可控。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "完善",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理体系",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "结合",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "特点",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "从",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "至",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "放行",
+       "term_id": null
+      },
+      {
+       "t": "各",
+       "term_id": null
+      },
+      {
+       "t": "阶段",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "责任",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "可控",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1464,
+   "order_no": 5,
+   "label": "第五条",
+   "paragraphs": [
+    {
+     "id": 2989,
+     "order_no": 1,
+     "text": "生化药品具有以下特殊性，应对原材料的来源及质量、生产过程、中间产品的检验进行特殊控制：",
+     "tokens": [
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "特殊性",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "来源",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "特殊",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2990,
+     "order_no": 2,
+     "text": "（一）生化药品的生产涉及器官、组织、体液、分泌物的提取、分离和纯化等过程，原材料本身具有不均一性。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "涉及",
+       "term_id": null
+      },
+      {
+       "t": "器官",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "体液",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分泌物",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "提取",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "本身",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "不均一性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2991,
+     "order_no": 3,
+     "text": "（二）生化药品的质量控制通常采用生物分析技术，比理化测定具有更大的可变性。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "通常",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "生物",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "比",
+       "term_id": null
+      },
+      {
+       "t": "理化",
+       "term_id": null
+      },
+      {
+       "t": "测定",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "更大",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "可变性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2992,
+     "order_no": 4,
+     "text": "（三）生产过程中的原材料和中间产品是污染微生物生长的良好培养基，原材料中的病原微生物对产品质量和生产环境存在较大风险。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "生长",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "良好",
+       "term_id": null
+      },
+      {
+       "t": "培养基",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "病原",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "存在",
+       "term_id": null
+      },
+      {
+       "t": "较大",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1465,
+   "order_no": 6,
+   "label": "第六条",
+   "paragraphs": [
+    {
+     "id": 2993,
+     "order_no": 1,
+     "text": "从事生化药品生产、质量保证、质量控制、采购及其他相关人员（包括清洁、维修人员）均应根据其生产的产品和所从事的生产操作定期进行相关法律法规、专业知识、卫生和微生物学基础知识及安全防护要求等方面的培训及考核，并纳入个人培训档案。",
+     "tokens": [
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量保证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "采购",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "他",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "维修",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "法律法规",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "专业知识",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "卫生",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "微生物学",
+       "term_id": null
+      },
+      {
+       "t": "基础知识",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "方面",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "考核",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "纳入",
+       "term_id": null
+      },
+      {
+       "t": "个人",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1466,
+   "order_no": 7,
+   "label": "第七条",
+   "paragraphs": [
+    {
+     "id": 2994,
+     "order_no": 1,
+     "text": "生产管理负责人、质量管理负责人和质量受权人应具有相应的专业知识（如微生物学、生物学、免疫学、药学、生物制药、生物化学等），并能够在生产、质量管理中切实履行职责。从事供应商审计的人员，应了解动物种属、饲养、屠宰、检疫、采集及其原材料贮存运输等方面的相关知识，并能够在供应商管理和审核过程中有效履行其职责。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "负责人",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "负责人",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "受权",
+       "term_id": null
+      },
+      {
+       "t": "人应",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "专业知识",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "微生物学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生物学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "免疫学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "药学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生物制药",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生物化学",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "切实",
+       "term_id": null
+      },
+      {
+       "t": "履行职责",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "审计",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "了解",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "种属",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "饲养",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "屠宰",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "检疫",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "方面",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "知识",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "履行",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "职责",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1467,
+   "order_no": 8,
+   "label": "第八条",
+   "paragraphs": [
+    {
+     "id": 2995,
+     "order_no": 1,
+     "text": "应对所生产品种的生物安全进行评估，根据评估结果，生产、维修、检验的操作人员、管理人员应采取必要的生物安全防护措施。",
+     "tokens": [
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生物",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "维修",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "管理人员",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生物",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1468,
+   "order_no": 9,
+   "label": "第九条",
+   "paragraphs": [
+    {
+     "id": 2996,
+     "order_no": 1,
+     "text": "一般情况下，人员不应从原材料的前处理区域穿越到已经灭活产品、其他产品的处理区域。如果不能避免这种穿越，必须基于质量风险管理原则采取防污染控制措施。",
+     "tokens": [
+      {
+       "t": "一般",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "下",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "应从",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "穿越",
+       "term_id": null
+      },
+      {
+       "t": "到",
+       "term_id": null
+      },
+      {
+       "t": "已经",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "如果",
+       "term_id": null
+      },
+      {
+       "t": "不能",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "这种",
+       "term_id": null
+      },
+      {
+       "t": "穿越",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "基于",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "防污染",
+       "term_id": null
+      },
+      {
+       "t": "控制措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1469,
+   "order_no": 10,
+   "label": "第十条",
+   "paragraphs": [
+    {
+     "id": 2997,
+     "order_no": 1,
+     "text": "生化药品生产环境及厂房设施与设备不应对原材料、中间产品和成品造成污染；空气洁净度级别应与产品预定用途和生产操作相适应。",
+     "tokens": [
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "空气",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "预定",
+       "term_id": null
+      },
+      {
+       "t": "用途",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1470,
+   "order_no": 11,
+   "label": "第十一条",
+   "paragraphs": [
+    {
+     "id": 2998,
+     "order_no": 1,
+     "text": "厂房应设有防止昆虫和其他动物等进入的设施。特别是用于加工处理动物脏器、组织、体液或分泌物的生产操作区应配备有效的防虫防鼠措施，并评估其有效性。",
+     "tokens": [
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "设有",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "昆虫",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "特别",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "脏器",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "体液",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "分泌物",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "区应",
+       "term_id": null
+      },
+      {
+       "t": "配备",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "防虫",
+       "term_id": null
+      },
+      {
+       "t": "防鼠",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "有效性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1471,
+   "order_no": 12,
+   "label": "第十二条",
+   "paragraphs": [
+    {
+     "id": 2999,
+     "order_no": 1,
+     "text": "原材料采集的厂房设施与设备应符合产品相应特性、卫生管理要求和国家相关规定，并与药品生产区域分开。",
+     "tokens": [
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "卫生",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "分开",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1472,
+   "order_no": 13,
+   "label": "第十三条",
+   "paragraphs": [
+    {
+     "id": 3000,
+     "order_no": 1,
+     "text": "应结合产品潜在风险、不同生产阶段的工艺要求与特点，设置相应生产操作区域的环境控制要求，应尽可能降低产品（或原料）被微生物污染的风险。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "结合",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "潜在",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "阶段",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "特点",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "尽可能",
+       "term_id": null
+      },
+      {
+       "t": "降低",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1473,
+   "order_no": 14,
+   "label": "第十四条",
+   "paragraphs": [
+    {
+     "id": 3001,
+     "order_no": 1,
+     "text": "在生产过程中应根据产品特性、工艺、预定用途和设备等因素，使用风险评估的手段，采取相应的预防差错、交叉污染、安全防护措施，如使用专用厂房和设备、阶段性生产方式、使用密闭系统等。若使用敞口容器或设备操作时，应有避免污染的措施。难以清洁的设备或部件应专用。生化药品的去除/灭活病毒前的工艺步骤，不宜与其他动物源的药品共用设备和设施，不可避免时，应有适当的措施防止交叉污染。",
+     "tokens": [
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中应",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "预定",
+       "term_id": null
+      },
+      {
+       "t": "用途",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "因素",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "手段",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "采取相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "预防",
+       "term_id": null
+      },
+      {
+       "t": "差错",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "阶段性",
+       "term_id": null
+      },
+      {
+       "t": "生产方式",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "密闭",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "若",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "敞口",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "难以",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "部件",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "步骤",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不宜",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "源",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "共用",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不可避免",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1474,
+   "order_no": 15,
+   "label": "第十五条",
+   "paragraphs": [
+    {
+     "id": 3002,
+     "order_no": 1,
+     "text": "原材料前处理应有专用区域，原料（原液）制备与制剂生产区域应严格分开。原料（原液）制备和制剂生产的空调净化系统应分别独立设置。",
+     "tokens": [
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "制备",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "制剂",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "严格",
+       "term_id": null
+      },
+      {
+       "t": "分开",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "制备",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "制剂",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "空调",
+       "term_id": null
+      },
+      {
+       "t": "净化系统",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "分别",
+       "term_id": null
+      },
+      {
+       "t": "独立设置",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1475,
+   "order_no": 16,
+   "label": "第十六条",
+   "paragraphs": [
+    {
+     "id": 3003,
+     "order_no": 1,
+     "text": "原材料前处理和提取、纯化使用的设备、工器具、管道、阀门和容器具，包括取样器具应光洁、耐腐蚀、易清洗或消毒，并根据产品特性和过程控制要求进行有效的清洁或消毒处理。",
+     "tokens": [
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "提取",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "工",
+       "term_id": null
+      },
+      {
+       "t": "器具",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "管道",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "阀门",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "具",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "取样",
+       "term_id": null
+      },
+      {
+       "t": "器具",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "光洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "耐腐蚀",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "易清洗",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1476,
+   "order_no": 17,
+   "label": "第十七条",
+   "paragraphs": [
+    {
+     "id": 3004,
+     "order_no": 1,
+     "text": "洁净区内的冷冻或冷藏设施的使用、清洁、维护不应对洁净区环境造成污染。",
+     "tokens": [
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "区内",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "冷冻",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "冷藏",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1477,
+   "order_no": 18,
+   "label": "第十八条",
+   "paragraphs": [
+    {
+     "id": 3005,
+     "order_no": 1,
+     "text": "用于物料及产品贮存的冷冻或冷藏设施应有预防突发事件发生的措施，避免物料及产品质量受到影响。",
+     "tokens": [
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "冷冻",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "冷藏",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "预防",
+       "term_id": null
+      },
+      {
+       "t": "突发事件",
+       "term_id": null
+      },
+      {
+       "t": "发生",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "受到",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1478,
+   "order_no": 19,
+   "label": "第十九条",
+   "paragraphs": [
+    {
+     "id": 3006,
+     "order_no": 1,
+     "text": "应基于风险控制原则，结合品种特性和原材料来源，采用有效去除/灭活病毒工艺步骤和方法。病毒去除/灭活的同时，不应对产品质量有不良影响。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "基于",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "结合",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "来源",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "步骤",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "同时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "不良影响",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1479,
+   "order_no": 20,
+   "label": "第二十条",
+   "paragraphs": [
+    {
+     "id": 3007,
+     "order_no": 1,
+     "text": "去除/灭活病毒的生产工艺应有效并经验证，当生产工艺发生变更时，应重新评估验证的适用性，必要时应重新进行验证。",
+     "tokens": [
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产工艺",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经验",
+       "term_id": null
+      },
+      {
+       "t": "证",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "当",
+       "term_id": null
+      },
+      {
+       "t": "生产工艺",
+       "term_id": null
+      },
+      {
+       "t": "发生",
+       "term_id": null
+      },
+      {
+       "t": "变更",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "重新",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "适用性",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "时应",
+       "term_id": null
+      },
+      {
+       "t": "重新",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1480,
+   "order_no": 21,
+   "label": "第二十一条",
+   "paragraphs": [
+    {
+     "id": 3008,
+     "order_no": 1,
+     "text": "病毒去除/灭活工艺的有效性验证可参照有关病毒去除/灭活技术方法和指导原则等相关规定。",
+     "tokens": [
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "有效性",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "参照",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "指导",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1481,
+   "order_no": 22,
+   "label": "第二十二条",
+   "paragraphs": [
+    {
+     "id": 3009,
+     "order_no": 1,
+     "text": "病毒去除/灭活方法的验证中的病毒挑战试验不得使用生产厂房设施和设备。",
+     "tokens": [
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "挑战",
+       "term_id": null
+      },
+      {
+       "t": "试验",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1482,
+   "order_no": 23,
+   "label": "第二十三条",
+   "paragraphs": [
+    {
+     "id": 3010,
+     "order_no": 1,
+     "text": "病毒去除/灭活验证不能代替原材料及生产过程的质量管理要求。",
+     "tokens": [
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "不能",
+       "term_id": null
+      },
+      {
+       "t": "代替",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1483,
+   "order_no": 24,
+   "label": "第二十四条",
+   "paragraphs": [
+    {
+     "id": 3011,
+     "order_no": 1,
+     "text": "企业应针对生化药品供应链的广泛性和复杂性，基于质量风险管理原则建立有效的追溯系统和控制措施，应有文件明确供应链各环节的要求。企业和供应商必须签订质量保证协议，明确相应的质量责任，要求供应商参照本附录管理。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "针对",
+       "term_id": null
+      },
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "供应链",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "广泛性",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "复杂性",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "基于",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "追溯",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "控制措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "供应链",
+       "term_id": null
+      },
+      {
+       "t": "各",
+       "term_id": null
+      },
+      {
+       "t": "环节",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "签订",
+       "term_id": null
+      },
+      {
+       "t": "质量保证",
+       "term_id": null
+      },
+      {
+       "t": "协议",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "责任",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "参照",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1484,
+   "order_no": 25,
+   "label": "第二十五条",
+   "paragraphs": [
+    {
+     "id": 3012,
+     "order_no": 1,
+     "text": "应对生化药品原材料的来源进行严格控制，原材料应来源于非疫区，并考虑来源地的流行病发生状况。",
+     "tokens": [
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "来源",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "严格控制",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "来源于",
+       "term_id": null
+      },
+      {
+       "t": "非",
+       "term_id": null
+      },
+      {
+       "t": "疫区",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "考虑",
+       "term_id": null
+      },
+      {
+       "t": "来源",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "流行病",
+       "term_id": null
+      },
+      {
+       "t": "发生",
+       "term_id": null
+      },
+      {
+       "t": "状况",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3013,
+     "order_no": 2,
+     "text": "（一）原材料应来源于健康动物，纳入检验检疫管理的动物原材料均应来自经检疫合格的健康动物。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "来源于",
+       "term_id": null
+      },
+      {
+       "t": "健康",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "纳入",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "检疫",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "来自",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "检疫",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "健康",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3014,
+     "order_no": 3,
+     "text": "（二）来源于人的组织或尿液的，其采集应明确收集方法和要求。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "来源于",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "尿液",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "收集",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3015,
+     "order_no": 4,
+     "text": "（三）应定期收集动物来源区域疫情信息，评估质量风险。当发现疫情风险时，应采取相应的质量控制措施。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "收集",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "来源",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "疫情",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "当",
+       "term_id": null
+      },
+      {
+       "t": "发现",
+       "term_id": null
+      },
+      {
+       "t": "疫情",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "采取相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3016,
+     "order_no": 5,
+     "text": "（四）应根据原材料特性以及风险控制原则建立相应的追溯系统并记录。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "追溯",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1485,
+   "order_no": 26,
+   "label": "第二十六条",
+   "paragraphs": [
+    {
+     "id": 3017,
+     "order_no": 1,
+     "text": "器官、组织、体液、分泌物等原材料采集单位应依法取得国家相关资质。",
+     "tokens": [
+      {
+       "t": "器官",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "体液",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分泌物",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "单位",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "依法",
+       "term_id": null
+      },
+      {
+       "t": "取得",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "资质",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1486,
+   "order_no": 27,
+   "label": "第二十七条",
+   "paragraphs": [
+    {
+     "id": 3018,
+     "order_no": 1,
+     "text": "质量管理部门应根据品种特点建立供应商质量管理档案，内容至少应包括：供应商的资质、规模、质量协议，原材料的动物来源、种属、年龄、采集部位及方法、采集后的保存方法与有效期等。",
+     "tokens": [
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "特点",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "资质",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "规模",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "协议",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "来源",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "种属",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "年龄",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "部位",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "有效期",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1487,
+   "order_no": 28,
+   "label": "第二十八条",
+   "paragraphs": [
+    {
+     "id": 3019,
+     "order_no": 1,
+     "text": "应定期对原材料供应商进行现场审计。重点考察供应链的各环节质量控制情况，确保供应商提供产品质量可控、稳定，并有质量审计报告。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "现场",
+       "term_id": null
+      },
+      {
+       "t": "审计",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "重点",
+       "term_id": null
+      },
+      {
+       "t": "考察",
+       "term_id": null
+      },
+      {
+       "t": "供应链",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "各",
+       "term_id": null
+      },
+      {
+       "t": "环节",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "可控",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "稳定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "审计报告",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1488,
+   "order_no": 29,
+   "label": "第二十九条",
+   "paragraphs": [
+    {
+     "id": 3020,
+     "order_no": 1,
+     "text": "应对每批接收的原材料进行检查，并有相应记录：",
+     "tokens": [
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "每批",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3021,
+     "order_no": 2,
+     "text": "（一）供应商与质量管理部门批准的一致；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "一致",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3022,
+     "order_no": 3,
+     "text": "（二）原材料附带检疫合格证明与货物一致；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "附带",
+       "term_id": null
+      },
+      {
+       "t": "检疫",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "证明",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "货物",
+       "term_id": null
+      },
+      {
+       "t": "一致",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3023,
+     "order_no": 4,
+     "text": "（三）包装标识与实物相符，标识内容应符合供应商档案中的相关内容；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "实物",
+       "term_id": null
+      },
+      {
+       "t": "相符",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3024,
+     "order_no": 5,
+     "text": "（四）外包装应完整无破损；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "外包装",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "无",
+       "term_id": null
+      },
+      {
+       "t": "破损",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3025,
+     "order_no": 6,
+     "text": "（五）对贮存温度有特殊要求的，接收时应进行温度确认；运输全程的温度监控记录应完整可追溯，温度始终符合质量控制的要求。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "特殊要求",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "时应",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "全程",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "始终",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1489,
+   "order_no": 30,
+   "label": "第三十条",
+   "paragraphs": [
+    {
+     "id": 3026,
+     "order_no": 1,
+     "text": "原材料、中间品贮存和运输期间的包装材料或容器不应对产品质量产生影响，与其直接接触的包装材料应至少符合食品包装材料要求，供应商和材质应相对固定。",
+     "tokens": [
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间品",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "期间",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "与其",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "食品包装",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "材质",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "相对",
+       "term_id": null
+      },
+      {
+       "t": "固定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1490,
+   "order_no": 31,
+   "label": "第三十一条",
+   "paragraphs": [
+    {
+     "id": 3027,
+     "order_no": 1,
+     "text": "冷库及冷链运输设备应经过确认。原材料储存条件、储存期限、运输条件等经过确认，以保证产品质量。",
+     "tokens": [
+      {
+       "t": "冷库",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "冷链",
+       "term_id": null
+      },
+      {
+       "t": "运输设备",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "期限",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1491,
+   "order_no": 32,
+   "label": "第三十二条",
+   "paragraphs": [
+    {
+     "id": 3028,
+     "order_no": 1,
+     "text": "应采取有效措施避免不同种属或同一种属的不同器官、组织、体液、分泌物在采集、转运及存放过程中的混淆、差错、污染、交叉污染。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "采取有效",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "种属",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "种属",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "器官",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "体液",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分泌物",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "转运",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "存放",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "混淆",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "差错",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1492,
+   "order_no": 33,
+   "label": "第三十三条",
+   "paragraphs": [
+    {
+     "id": 3029,
+     "order_no": 1,
+     "text": "应对生化药品的原材料、中间品、原料（原液）进行批号或编号管理，以确保生产过程的可追溯性。",
+     "tokens": [
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "编号",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1493,
+   "order_no": 34,
+   "label": "第三十四条",
+   "paragraphs": [
+    {
+     "id": 3030,
+     "order_no": 1,
+     "text": "应结合产品特性，尽量降低生产过程中微生物及其相关代谢物等的污染、交叉污染。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "结合",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "尽量",
+       "term_id": null
+      },
+      {
+       "t": "降低生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "代谢物",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3031,
+     "order_no": 2,
+     "text": "（一）应根据产品特性及贮存条件规定不同生产阶段的生产间隔时间，尽可能缩短不同生产阶段的时间间隔。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "阶段",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "间隔时间",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "尽可能",
+       "term_id": null
+      },
+      {
+       "t": "缩短",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "阶段",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "间隔",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3032,
+     "order_no": 3,
+     "text": "（二）中间产品、原料（原液）的储存时间应有明确规定并经验证。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "明确规定",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经验",
+       "term_id": null
+      },
+      {
+       "t": "证",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3033,
+     "order_no": 4,
+     "text": "（三）原材料、中间产品、原料（原液）不应反复冻融，必要时应经验证，以确保产品质量不受影响。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "反复",
+       "term_id": null
+      },
+      {
+       "t": "冻融",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "时应",
+       "term_id": null
+      },
+      {
+       "t": "经验",
+       "term_id": null
+      },
+      {
+       "t": "证",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "受",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3034,
+     "order_no": 5,
+     "text": "（四）生产结束后应在规定时限内对设备和容器进行清洁、消毒或灭菌。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "结束",
+       "term_id": null
+      },
+      {
+       "t": "后应",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "时限",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3035,
+     "order_no": 6,
+     "text": "（五）直接接触中间产品、原料（原液）的包装容器、设备清洁、消毒或灭菌后应避免再次污染。提取、分离和纯化原料的各种设备、容器，不同产品和不同批次之间应进行清洁或消毒。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "包装容器",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "后应",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "再次",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "提取",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "各种",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "批次",
+       "term_id": null
+      },
+      {
+       "t": "之间",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3036,
+     "order_no": 7,
+     "text": "（六）同一设备通常不得用于不同产品或同一产品不同阶段的病毒去除/灭活操作。如果使用同一设备，应采取适当的清洁或消毒措施，防止病毒通过设备或环境由前次操作带入后续纯化操作。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "六",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "通常",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "阶段",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "如果",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "通过",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "前次",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "带入",
+       "term_id": null
+      },
+      {
+       "t": "后续",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1494,
+   "order_no": 35,
+   "label": "第三十五条",
+   "paragraphs": [
+    {
+     "id": 3037,
+     "order_no": 1,
+     "text": "生产中产生的副产品或废料应及时退出生产区域，防止污染生产环境及设备。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "副产品",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "废料",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "及时",
+       "term_id": null
+      },
+      {
+       "t": "退出",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1495,
+   "order_no": 36,
+   "label": "第三十六条",
+   "paragraphs": [
+    {
+     "id": 3038,
+     "order_no": 1,
+     "text": "应采取必要的措施，防止病毒去除或灭活后产品被污染；已经过病毒去除/灭活处理的产品与尚未处理的产品应有明显区分和标识，并应采用适当的方法防止混淆、差错。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "或灭",
+       "term_id": null
+      },
+      {
+       "t": "活后",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "已经",
+       "term_id": null
+      },
+      {
+       "t": "过",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "尚未",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "明显",
+       "term_id": null
+      },
+      {
+       "t": "区分",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "混淆",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "差错",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1496,
+   "order_no": 37,
+   "label": "第三十七条",
+   "paragraphs": [
+    {
+     "id": 3039,
+     "order_no": 1,
+     "text": "如有层析及超滤步骤，用于分离纯化的层析分离柱及超滤装置应专用。同一层析分离柱及超滤装置不得应用于生产的不同阶段。应有文件规定层析柱及超滤装置的可接受标准、操作条件、再生处理方法、使用寿命、清洗或消毒程序、过程监测参数等。",
+     "tokens": [
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "层析",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "超滤",
+       "term_id": null
+      },
+      {
+       "t": "步骤",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "层析分离",
+       "term_id": null
+      },
+      {
+       "t": "柱及",
+       "term_id": null
+      },
+      {
+       "t": "超滤",
+       "term_id": null
+      },
+      {
+       "t": "装置",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "层析分离",
+       "term_id": null
+      },
+      {
+       "t": "柱及",
+       "term_id": null
+      },
+      {
+       "t": "超滤",
+       "term_id": null
+      },
+      {
+       "t": "装置",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "应用",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "阶段",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "层析柱",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "超滤",
+       "term_id": null
+      },
+      {
+       "t": "装置",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "接受",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "再生",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "使用寿命",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "清洗",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "程序",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "监测",
+       "term_id": null
+      },
+      {
+       "t": "参数",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1497,
+   "order_no": 38,
+   "label": "第三十八条",
+   "paragraphs": [
+    {
+     "id": 3040,
+     "order_no": 1,
+     "text": "生产所用的溶剂等需回收使用的，应制定回收操作规程及与其用途相适应的质量标准。回收后的溶剂再使用不得对产品质量和安全性产生不利影响。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "所用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "溶剂",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "需",
+       "term_id": null
+      },
+      {
+       "t": "回收",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "回收",
+       "term_id": null
+      },
+      {
+       "t": "操作规程",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "与其",
+       "term_id": null
+      },
+      {
+       "t": "用途",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量标准",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "回收",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "溶剂",
+       "term_id": null
+      },
+      {
+       "t": "再",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "安全性",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "不利",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1498,
+   "order_no": 39,
+   "label": "第三十九条",
+   "paragraphs": [
+    {
+     "id": 3041,
+     "order_no": 1,
+     "text": "应按照《中华人民共和国药典》和国家食品药品监督管理部门批准的质量标准对生化药品原材料、辅料、中间品、原料（原液）及成品进行检验。无法定标准的，企业应依据品种质量风险建立适宜的内控质量标准，必要时应考虑增加新鲜度、微生物限度、细菌内毒素或热原、异常毒性、降压物质、外源因子等检查项目。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "药典",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "食品药品",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量标准",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "辅料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "无",
+       "term_id": null
+      },
+      {
+       "t": "法定标准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "内控",
+       "term_id": null
+      },
+      {
+       "t": "质量标准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "时应",
+       "term_id": null
+      },
+      {
+       "t": "考虑",
+       "term_id": null
+      },
+      {
+       "t": "增加",
+       "term_id": null
+      },
+      {
+       "t": "新鲜度",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "限度",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "细菌",
+       "term_id": null
+      },
+      {
+       "t": "内毒素",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "热原",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "异常",
+       "term_id": null
+      },
+      {
+       "t": "毒性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "降压",
+       "term_id": null
+      },
+      {
+       "t": "物质",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "外源",
+       "term_id": null
+      },
+      {
+       "t": "因子",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "项目",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1499,
+   "order_no": 40,
+   "label": "第四十条",
+   "paragraphs": [
+    {
+     "id": 3042,
+     "order_no": 1,
+     "text": "生化药品的原材料来源应相对稳定，应明确动物的种属及器官组织。必要时对原材料的动物种属进行鉴别（如PCR法等），取样应具有代表性。",
+     "tokens": [
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "来源",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "相对",
+       "term_id": null
+      },
+      {
+       "t": "稳定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "种属",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "器官",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "种属",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "鉴别",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "PCR",
+       "term_id": null
+      },
+      {
+       "t": "法等",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "取样",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "代表性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1500,
+   "order_no": 41,
+   "label": "第四十一条",
+   "paragraphs": [
+    {
+     "id": 3043,
+     "order_no": 1,
+     "text": "生化药品原材料的放行应包括完整的原材料追溯记录，纳入检验检疫管理的动物原材料均应来自经检疫合格的健康动物。",
+     "tokens": [
+      {
+       "t": "生化",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "放行",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "追溯",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "纳入",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "检疫",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "来自",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "检疫",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "健康",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1501,
+   "order_no": 42,
+   "label": "第四十二条",
+   "paragraphs": [
+    {
+     "id": 3044,
+     "order_no": 1,
+     "text": "原材料、辅料、中间品、原料（原液）的检验应在适当的生产阶段完成，当检验周期较长时，可先进行后续工艺生产，待检验合格后方可放行成品。",
+     "tokens": [
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "辅料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "阶段",
+       "term_id": null
+      },
+      {
+       "t": "完成",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "当",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "较长",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "先",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "后续",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "待",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "后方",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "放行",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1502,
+   "order_no": 43,
+   "label": "第四十三条",
+   "paragraphs": [
+    {
+     "id": 3045,
+     "order_no": 1,
+     "text": "必要时，中间品、原料（原液）应留样，以满足检测或中间控制确认的需要，留样数量应充足，并在适宜条件下贮存，便于质量追溯。",
+     "tokens": [
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "中间品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "应留",
+       "term_id": null
+      },
+      {
+       "t": "样",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "数量",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "充足",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "下",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "便于",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "追溯",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1503,
+   "order_no": 44,
+   "label": "第四十四条",
+   "paragraphs": [
+    {
+     "id": 3046,
+     "order_no": 1,
+     "text": "下列术语含义是：",
+     "tokens": [
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "术语",
+       "term_id": null
+      },
+      {
+       "t": "含义",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3047,
+     "order_no": 2,
+     "text": "（一）原材料：用于药品生产的动物器官、组织、体液、分泌物以及人的组织、尿液等的起始物料，不包括辅料。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "器官",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "体液",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分泌物",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "尿液",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "起始",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "辅料",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3048,
+     "order_no": 3,
+     "text": "（二）原材料采集：从经过供应商审计合格的单位，收集动物的器官、组织、体液、分泌物及人组织、尿液的过程。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "从",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "审计",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "单位",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "收集",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "器官",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "体液",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分泌物",
+       "term_id": null
+      },
+      {
+       "t": "及人",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "尿液",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3049,
+     "order_no": 4,
+     "text": "（三）前处理:对原材料进行的非药用部分的冻融、切割、拣选、洗涤以及后续进行的混合、离心、冻融等处理程序。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": ":",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "非",
+       "term_id": null
+      },
+      {
+       "t": "药用",
+       "term_id": null
+      },
+      {
+       "t": "部分",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "冻融",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "切割",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "拣选",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "洗涤",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "后续",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "混合",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "离心",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "冻融",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "处理程序",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3050,
+     "order_no": 5,
+     "text": "（四）中间品：原材料经前处理得到的产品，便于进行质量控制。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "中间品",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "经前",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "得到",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "便于",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3051,
+     "order_no": 6,
+     "text": "（五）原料（原液）：中间品经提取、纯化、病毒去除/灭活，各项指标符合质量标准规定的产品。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "原液",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "中间品",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "提取",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "各项",
+       "term_id": null
+      },
+      {
+       "t": "指标",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "质量标准",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3052,
+     "order_no": 7,
+     "text": "（六）病毒去除/灭活：将病毒从产品中去除或灭活以保证安全的工艺过程。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "六",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "灭活",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "将",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "从",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "或灭",
+       "term_id": null
+      },
+      {
+       "t": "活以",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 3053,
+     "order_no": 8,
+     "text": "（七）供应链：从原材料采集开始到制成中间产品的过程。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "七",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "供应链",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "从",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "采集",
+       "term_id": null
+      },
+      {
+       "t": "开始",
+       "term_id": null
+      },
+      {
+       "t": "到",
+       "term_id": null
+      },
+      {
+       "t": "制成",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

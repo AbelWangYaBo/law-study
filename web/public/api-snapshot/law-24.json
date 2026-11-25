@@ -1,0 +1,8523 @@
+{
+ "id": 24,
+ "name": "药品生产质量管理规范附录：医用氧",
+ "doc_number": "国家食品药品监督管理总局公告2014年第32号（附件2）",
+ "authority": "国家食品药品监督管理总局",
+ "level": "规范性文件（79号令配套附录）",
+ "effective_date": "2014-07-01",
+ "articles": [
+  {
+   "id": 1415,
+   "order_no": 1,
+   "label": "第一条",
+   "paragraphs": [
+    {
+     "id": 2832,
+     "order_no": 1,
+     "text": "本附录中所述医用氧是指空气经低温分离制备的液态氧、气态氧。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "所述",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "空气",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "低温",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "制备",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "液态氧",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "气态",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1416,
+   "order_no": 2,
+   "label": "第二条",
+   "paragraphs": [
+    {
+     "id": 2833,
+     "order_no": 1,
+     "text": "本附录适用于医用氧工业化生产过程，不包括医疗机构内部医用氧的处置。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "适用",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "工业化生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "医疗机构",
+       "term_id": null
+      },
+      {
+       "t": "内部",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "处置",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1417,
+   "order_no": 3,
+   "label": "第三条",
+   "paragraphs": [
+    {
+     "id": 2834,
+     "order_no": 1,
+     "text": "其他医用气体的工业生产要求参照本附录执行。",
+     "tokens": [
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工业生产",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "参照",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1418,
+   "order_no": 4,
+   "label": "第四条",
+   "paragraphs": [
+    {
+     "id": 2835,
+     "order_no": 1,
+     "text": "医用氧的生产、贮存、运输、销售应符合国家有关部门的规定，并取得相关证件。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "销售",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "国家有关",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "取得",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "证件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1419,
+   "order_no": 5,
+   "label": "第五条",
+   "paragraphs": [
+    {
+     "id": 2836,
+     "order_no": 1,
+     "text": "医用氧生产和质量控制须满足其质量及预定用途的要求，应当最大限度降低污染、交叉污染、混淆及差错的风险。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "须",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "预定",
+       "term_id": null
+      },
+      {
+       "t": "用途",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "最大",
+       "term_id": null
+      },
+      {
+       "t": "限度",
+       "term_id": null
+      },
+      {
+       "t": "降低",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "混淆",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "差错",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1420,
+   "order_no": 6,
+   "label": "第六条",
+   "paragraphs": [
+    {
+     "id": 2837,
+     "order_no": 1,
+     "text": "企业的生产管理负责人应具有相关专业（如化工、药学、化学、机械和工业工程等）大专以上学历或中级专业技术职称，具有三年以上的医用氧的生产和质量管理经验，其中至少一年的医用氧生产管理经验。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "负责人",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "化工",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "药学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "化学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "机械",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "工业",
+       "term_id": null
+      },
+      {
+       "t": "工程",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "大专",
+       "term_id": null
+      },
+      {
+       "t": "以上学历",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "中级",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "技术职称",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "三年",
+       "term_id": null
+      },
+      {
+       "t": "以上",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "经验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其中",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "一年",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "经验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1421,
+   "order_no": 7,
+   "label": "第七条",
+   "paragraphs": [
+    {
+     "id": 2838,
+     "order_no": 1,
+     "text": "企业的质量管理负责人和质量受权人应具有相关专业（如化工、药学、化学、机械和工业工程等）大专以上（含大专）学历（或中级专业技术职称），具有三年以上医用氧生产和质量管理经验，其中至少一年的医用氧质量管理经验。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "负责人",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "受权",
+       "term_id": null
+      },
+      {
+       "t": "人应",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "化工",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "药学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "化学",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "机械",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "工业",
+       "term_id": null
+      },
+      {
+       "t": "工程",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "大专",
+       "term_id": null
+      },
+      {
+       "t": "以上",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "含",
+       "term_id": null
+      },
+      {
+       "t": "大专",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "学历",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "中级",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "技术职称",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "三年",
+       "term_id": null
+      },
+      {
+       "t": "以上",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "经验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其中",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "一年",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "经验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1422,
+   "order_no": 8,
+   "label": "第八条",
+   "paragraphs": [
+    {
+     "id": 2839,
+     "order_no": 1,
+     "text": "从事医用氧生产的人员应定期接受医用氧相关知识培训，涉及特种设备操作人员应按国家规定持有有效的并与医用氧生产相适应的资格证书。",
+     "tokens": [
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "接受",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "知识",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "涉及",
+       "term_id": null
+      },
+      {
+       "t": "特种设备",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "持有",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "资格证书",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1423,
+   "order_no": 9,
+   "label": "第九条",
+   "paragraphs": [
+    {
+     "id": 2840,
+     "order_no": 1,
+     "text": "应根据需要，为员工配备相应的工作服和安全防护用品。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "员工",
+       "term_id": null
+      },
+      {
+       "t": "配备",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "防护用品",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1424,
+   "order_no": 10,
+   "label": "第十条",
+   "paragraphs": [
+    {
+     "id": 2841,
+     "order_no": 1,
+     "text": "医用氧生产企业的生产环境应整洁。生产、质量检验、行政、生活和辅助区总体布局应合理。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "整洁",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量检验",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "行政",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生活",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "辅助",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "总体布局",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "合理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1425,
+   "order_no": 11,
+   "label": "第十一条",
+   "paragraphs": [
+    {
+     "id": 2842,
+     "order_no": 1,
+     "text": "厂房应按医用氧生产工艺流程要求合理布局。生产区和储存区应有与生产规模相适应的面积和空间，并有通风、照明、防火、防爆、防雷、防静电等设施。",
+     "tokens": [
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "工艺流程",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "合理布局",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "生产区",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "储存区",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "规模",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "面积",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "空间",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "通风",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "照明",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "防火",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "防爆",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "防雷",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "防静电",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2843,
+     "order_no": 2,
+     "text": "应有足够的储存区域用于存放空瓶和不同阶段产品的气瓶（如待清洁、待充装、待检、合格、不合格等），不同储存区域应采用有效方法或明显标识区分，如：地标线、隔断、围栏和标志牌等。",
+     "tokens": [
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "足够",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "存放",
+       "term_id": null
+      },
+      {
+       "t": "空瓶",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "阶段",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如待",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "待",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "待检",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "明显",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "区分",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "标线",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "隔断",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "围栏",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "标志牌",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1426,
+   "order_no": 12,
+   "label": "第十二条",
+   "paragraphs": [
+    {
+     "id": 2844,
+     "order_no": 1,
+     "text": "医用氧充装生产车间应保持整洁，地面平整、耐磨防滑，并设置专用更衣室；充装生产车间应与维修车间分开。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "车间",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "整洁",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "地面",
+       "term_id": null
+      },
+      {
+       "t": "平整",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "耐磨",
+       "term_id": null
+      },
+      {
+       "t": "防滑",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "更衣室",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "车间",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "维修车间",
+       "term_id": null
+      },
+      {
+       "t": "分开",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1427,
+   "order_no": 13,
+   "label": "第十三条",
+   "paragraphs": [
+    {
+     "id": 2845,
+     "order_no": 1,
+     "text": "用于生产和检验用的设备、仪器应经定期确认和校准。",
+     "tokens": [
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "仪器",
+       "term_id": null
+      },
+      {
+       "t": "应经",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "校准",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1428,
+   "order_no": 14,
+   "label": "第十四条",
+   "paragraphs": [
+    {
+     "id": 2846,
+     "order_no": 1,
+     "text": "生产和检验设备应定期进行维护。维护和维修应做好记录。生产设备的任何维护和维修工作不得影响医用氧的质量。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "维修",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "做好",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "任何",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "维修",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1429,
+   "order_no": 15,
+   "label": "第十五条",
+   "paragraphs": [
+    {
+     "id": 2847,
+     "order_no": 1,
+     "text": "医用氧生产过程中的气体压缩设备禁止使用氟塑料材料制活塞密封的压缩机和水润滑压缩机。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "压缩",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "禁止",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "氟塑料",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "制",
+       "term_id": null
+      },
+      {
+       "t": "活塞",
+       "term_id": null
+      },
+      {
+       "t": "密封",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "压缩机",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "水",
+       "term_id": null
+      },
+      {
+       "t": "润滑",
+       "term_id": null
+      },
+      {
+       "t": "压缩机",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1430,
+   "order_no": 16,
+   "label": "第十六条",
+   "paragraphs": [
+    {
+     "id": 2848,
+     "order_no": 1,
+     "text": "用液态氧气化充装气态氧，必须使用低温液氧泵，加压气化后充装。",
+     "tokens": [
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "液态氧",
+       "term_id": null
+      },
+      {
+       "t": "气化",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "气态",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "低温",
+       "term_id": null
+      },
+      {
+       "t": "液氧",
+       "term_id": null
+      },
+      {
+       "t": "泵",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "加压",
+       "term_id": null
+      },
+      {
+       "t": "气化",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1431,
+   "order_no": 17,
+   "label": "第十七条",
+   "paragraphs": [
+    {
+     "id": 2849,
+     "order_no": 1,
+     "text": "医用氧容器（槽车、储罐、气瓶等）应专用，且具有与其他气体容器区分的明显标识。容器应当编号管理，有安全效期标识，建立包括安全检定资料等相应档案。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "槽车",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "储罐",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "且",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "区分",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "明显",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "编号",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "效期",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "检定",
+       "term_id": null
+      },
+      {
+       "t": "资料",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1432,
+   "order_no": 18,
+   "label": "第十八条",
+   "paragraphs": [
+    {
+     "id": 2850,
+     "order_no": 1,
+     "text": "医用氧充装应使用专用设备，充装夹具应有防错装装置。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧充",
+       "term_id": null
+      },
+      {
+       "t": "装应",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "专用设备",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "夹具",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "防错",
+       "term_id": null
+      },
+      {
+       "t": "装",
+       "term_id": null
+      },
+      {
+       "t": "装置",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1433,
+   "order_no": 19,
+   "label": "第十九条",
+   "paragraphs": [
+    {
+     "id": 2851,
+     "order_no": 1,
+     "text": "每批气瓶充装记录应包括：",
+     "tokens": [
+      {
+       "t": "每批",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2852,
+     "order_no": 2,
+     "text": "（一）批生产指令；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "指令",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2853,
+     "order_no": 3,
+     "text": "（二）产品名称、规格、批号；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "产品名称",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "规格",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2854,
+     "order_no": 4,
+     "text": "（三）充装操作的日期和时间；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "日期",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2855,
+     "order_no": 5,
+     "text": "（四）使用的设备及编号；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "编号",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2856,
+     "order_no": 6,
+     "text": "（五）气瓶的编号、充装前气瓶的检查；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "编号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "充装前",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2857,
+     "order_no": 7,
+     "text": "（六）充装前后气瓶的数量和规格；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "六",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "前后",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数量",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "规格",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2858,
+     "order_no": 8,
+     "text": "（七）每个步骤操作人员的签名，必要时，应有复核人员的签名；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "七",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "每个",
+       "term_id": null
+      },
+      {
+       "t": "步骤",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "签名",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "复核",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "签名",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2859,
+     "order_no": 9,
+     "text": "（八）相关生产操作或活动、工艺参数及控制范围；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "八",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "参数",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "范围",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2860,
+     "order_no": 10,
+     "text": "（九）必要的中间控制过程，如检漏等；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "九",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "检漏",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2861,
+     "order_no": 11,
+     "text": "（十）充装前医用氧的质量检验结果；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "十",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "充装前",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量检验",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2862,
+     "order_no": 12,
+     "text": "（十一）已充装气瓶的检查确认结果；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "十一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "已",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2863,
+     "order_no": 13,
+     "text": "（十二）包装标签样张；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "十二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "样张",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2864,
+     "order_no": 14,
+     "text": "（十三）生产过程偏差的描述及处理，并经签字批准；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "十三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "偏差",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "描述",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "签字",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2865,
+     "order_no": 15,
+     "text": "（十四）充装主管人员的确认签名和日期。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "十四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "主管人员",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "签名",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "日期",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1434,
+   "order_no": 20,
+   "label": "第二十条",
+   "paragraphs": [
+    {
+     "id": 2866,
+     "order_no": 1,
+     "text": "经低温空分生产医用氧的企业应有文件描述纯化过程中的气体纯度、其他组分和可能的杂质成分。",
+     "tokens": [
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "低温",
+       "term_id": null
+      },
+      {
+       "t": "空分",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "描述",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "纯度",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "组分",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "杂质",
+       "term_id": null
+      },
+      {
+       "t": "成分",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2867,
+     "order_no": 2,
+     "text": "应有流程图描述各个工艺步骤。",
+     "tokens": [
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "流程图",
+       "term_id": null
+      },
+      {
+       "t": "描述",
+       "term_id": null
+      },
+      {
+       "t": "各个",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "步骤",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2868,
+     "order_no": 3,
+     "text": "关键工艺参数应有文件规定，如分离纯化过程的温度控制等。",
+     "tokens": [
+      {
+       "t": "关键",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "参数",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "温度控制",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2869,
+     "order_no": 4,
+     "text": "相关生产过程应有完整的批生产记录。",
+     "tokens": [
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1435,
+   "order_no": 21,
+   "label": "第二十一条",
+   "paragraphs": [
+    {
+     "id": 2870,
+     "order_no": 1,
+     "text": "应建立气瓶的质量档案，并根据国家的相关规定制定气瓶报废管理制度和建立气瓶报废处理记录。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "报废",
+       "term_id": null
+      },
+      {
+       "t": "管理制度",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "报废",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1436,
+   "order_no": 22,
+   "label": "第二十二条",
+   "paragraphs": [
+    {
+     "id": 2871,
+     "order_no": 1,
+     "text": "生产过程的所有关键步骤应经过验证。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "所有",
+       "term_id": null
+      },
+      {
+       "t": "关键步骤",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1437,
+   "order_no": 23,
+   "label": "第二十三条",
+   "paragraphs": [
+    {
+     "id": 2872,
+     "order_no": 1,
+     "text": "液氧的生产应遵循以下原则：",
+     "tokens": [
+      {
+       "t": "液氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "遵循",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2873,
+     "order_no": 2,
+     "text": "（一）分离和纯化工艺应经过验证，并按照工艺要求进行日常监控。对于消耗性部件（如纯化过滤器的滤芯）的维护和更换，应根据验证和监控的结果定期进行。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "分离",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "日常",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "对于",
+       "term_id": null
+      },
+      {
+       "t": "消耗性",
+       "term_id": null
+      },
+      {
+       "t": "部件",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "纯化",
+       "term_id": null
+      },
+      {
+       "t": "过滤器",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "滤芯",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "更换",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2874,
+     "order_no": 3,
+     "text": "（二）生产过程应有连续质量和杂质监控措施，并有监测记录。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "连续",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "杂质",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "监测",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2875,
+     "order_no": 4,
+     "text": "（三）用于监控工艺过程的计算机系统应经过验证。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "计算机系统",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2876,
+     "order_no": 5,
+     "text": "（四）连续生产过程批次的划分应有文件规定，并按批次进行取样检验。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "连续",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "批次",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "划分",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "批次",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "取样",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2877,
+     "order_no": 6,
+     "text": "（五）液氧的充装和转移操作等步骤应有防止污染措施，转移管路应配备有止回阀或采取其他等同的措施。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "液氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "转移",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "步骤",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "转移",
+       "term_id": null
+      },
+      {
+       "t": "管路",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "配备",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "止回阀",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "等同",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2878,
+     "order_no": 7,
+     "text": "（六）向装有液氧的液氧贮槽中加入液氧，必须证明液氧的质量符合要求。可以在加入前取样，也可以在混合后取样。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "六",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "装有",
+       "term_id": null
+      },
+      {
+       "t": "液氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "液氧",
+       "term_id": null
+      },
+      {
+       "t": "贮槽",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "加入",
+       "term_id": null
+      },
+      {
+       "t": "液氧",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "证明",
+       "term_id": null
+      },
+      {
+       "t": "液氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "符合要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "可以",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "加入",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "取样",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "也",
+       "term_id": null
+      },
+      {
+       "t": "可以",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "混合",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "取样",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1438,
+   "order_no": 24,
+   "label": "第二十四条",
+   "paragraphs": [
+    {
+     "id": 2879,
+     "order_no": 1,
+     "text": "医用氧的充装生产过程应符合以下规定：",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2880,
+     "order_no": 2,
+     "text": "（一）生产批号的划分应以同一连续生产周期中充装的医用氧为一个批次。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "划分",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "连续",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧为",
+       "term_id": null
+      },
+      {
+       "t": "一个",
+       "term_id": null
+      },
+      {
+       "t": "批次",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2881,
+     "order_no": 3,
+     "text": "（二）气瓶应符合相关规定，对回收的气瓶应予确认，不得充装自有气瓶外的其他气瓶。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "回收",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "应予",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "自有",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "外",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2882,
+     "order_no": 4,
+     "text": "（三）应根据书面规程对充装设备、管路进行清洁及置换，并在使用前进行检查确认。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "书面",
+       "term_id": null
+      },
+      {
+       "t": "规程",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "管路",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "置换",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2883,
+     "order_no": 5,
+     "text": "（四）对气瓶使用前的处理和清洗等影响产品质量的主要因素进行验证，并制定相应的操作规程。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "清洗",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "主要",
+       "term_id": null
+      },
+      {
+       "t": "因素",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "操作规程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2884,
+     "order_no": 6,
+     "text": "（五）气瓶充装前检查，至少应包括以下步骤：",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "充装前",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "以下",
+       "term_id": null
+      },
+      {
+       "t": "步骤",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2885,
+     "order_no": 7,
+     "text": "1．气瓶外表面的颜色标记与医用氧的规定标记相符。",
+     "tokens": [
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "．",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "外",
+       "term_id": null
+      },
+      {
+       "t": "表面",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "颜色",
+       "term_id": null
+      },
+      {
+       "t": "标记",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "标记",
+       "term_id": null
+      },
+      {
+       "t": "相符",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2886,
+     "order_no": 8,
+     "text": "2．检查余压，确认气瓶没有全空，装有余压保留阀的气瓶余压应为正值。",
+     "tokens": [
+      {
+       "t": "2",
+       "term_id": null
+      },
+      {
+       "t": "．",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "余压",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "没有",
+       "term_id": null
+      },
+      {
+       "t": "全空",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "装有",
+       "term_id": null
+      },
+      {
+       "t": "余压",
+       "term_id": null
+      },
+      {
+       "t": "保留",
+       "term_id": null
+      },
+      {
+       "t": "阀",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "余压",
+       "term_id": null
+      },
+      {
+       "t": "应为",
+       "term_id": null
+      },
+      {
+       "t": "正值",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2887,
+     "order_no": 9,
+     "text": "3．如果气瓶显示没有余压，应对其进行检测以确认气瓶没有被水或其他污染物质污染；被污染的气瓶应采用经验证的方法进行清洁。",
+     "tokens": [
+      {
+       "t": "3",
+       "term_id": null
+      },
+      {
+       "t": "．",
+       "term_id": null
+      },
+      {
+       "t": "如果",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "显示",
+       "term_id": null
+      },
+      {
+       "t": "没有",
+       "term_id": null
+      },
+      {
+       "t": "余压",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "没有",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "水",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "物质",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "经验",
+       "term_id": null
+      },
+      {
+       "t": "证",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2888,
+     "order_no": 10,
+     "text": "4．确认气瓶上所有与本批产品无关的标签已移除。",
+     "tokens": [
+      {
+       "t": "4",
+       "term_id": null
+      },
+      {
+       "t": "．",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "所有",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "本批",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "无关",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "已",
+       "term_id": null
+      },
+      {
+       "t": "移除",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2889,
+     "order_no": 11,
+     "text": "5．对每个阀门和气瓶进行外观目检，目测凹痕、弧形烧伤、碎片、油污及其他损害等，并进行必要的处理。",
+     "tokens": [
+      {
+       "t": "5",
+       "term_id": null
+      },
+      {
+       "t": "．",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "每个",
+       "term_id": null
+      },
+      {
+       "t": "阀门",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "外观",
+       "term_id": null
+      },
+      {
+       "t": "目检",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "目测",
+       "term_id": null
+      },
+      {
+       "t": "凹痕",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "弧形",
+       "term_id": null
+      },
+      {
+       "t": "烧伤",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "碎片",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "油污",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "他",
+       "term_id": null
+      },
+      {
+       "t": "损害",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2890,
+     "order_no": 12,
+     "text": "6．检查每个气瓶或低温容器阀门接头，确保类型适合于医用氧的充装。",
+     "tokens": [
+      {
+       "t": "6",
+       "term_id": null
+      },
+      {
+       "t": "．",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "每个",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "低温",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "阀门",
+       "term_id": null
+      },
+      {
+       "t": "接头",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "类型",
+       "term_id": null
+      },
+      {
+       "t": "适合",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2891,
+     "order_no": 13,
+     "text": "7．检查气瓶“检验日期”，以确认气瓶已按相关规定进行检验，并在有效期内。",
+     "tokens": [
+      {
+       "t": "7",
+       "term_id": null
+      },
+      {
+       "t": "．",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "“",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "日期",
+       "term_id": null
+      },
+      {
+       "t": "”",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "已",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "有效期",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2892,
+     "order_no": 14,
+     "text": "8．确认气瓶的安全附件齐全并符合安全要求。",
+     "tokens": [
+      {
+       "t": "8",
+       "term_id": null
+      },
+      {
+       "t": "．",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "附件",
+       "term_id": null
+      },
+      {
+       "t": "齐全",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2893,
+     "order_no": 15,
+     "text": "（六）重复使用的气瓶充装前应对瓶体进行清洗消毒，再用置换法或者抽真空法处理至合格，抽真空应不小于15kPa。或对每个气瓶进行剩余气体全检。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "六",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "重复使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "充装前",
+       "term_id": null
+      },
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "瓶体",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "清洗",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "再用",
+       "term_id": null
+      },
+      {
+       "t": "置换",
+       "term_id": null
+      },
+      {
+       "t": "法",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "抽",
+       "term_id": null
+      },
+      {
+       "t": "真空",
+       "term_id": null
+      },
+      {
+       "t": "法",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "至",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "抽",
+       "term_id": null
+      },
+      {
+       "t": "真空",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "小于",
+       "term_id": null
+      },
+      {
+       "t": "15kPa",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "每个",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "剩余",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "全检",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2894,
+     "order_no": 16,
+     "text": "（七）应采用适当的方法检查确认气瓶已充装。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "七",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "已",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2895,
+     "order_no": 17,
+     "text": "（八）医用氧充装后，每只气瓶均需检漏，检漏不合格视为不合格品，检漏过程不得影响医用氧产品质量。检漏合格对瓶嘴进行密封，气瓶加戴瓶帽和防震圈，放入待检区域。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "八",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧充",
+       "term_id": null
+      },
+      {
+       "t": "装后",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "每",
+       "term_id": null
+      },
+      {
+       "t": "只",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "需",
+       "term_id": null
+      },
+      {
+       "t": "检漏",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "检漏",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "视为",
+       "term_id": null
+      },
+      {
+       "t": "不合格品",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "检漏",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "检漏",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "对瓶",
+       "term_id": null
+      },
+      {
+       "t": "嘴",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "密封",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "加戴瓶",
+       "term_id": null
+      },
+      {
+       "t": "帽",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "防震",
+       "term_id": null
+      },
+      {
+       "t": "圈",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "放入",
+       "term_id": null
+      },
+      {
+       "t": "待检",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2896,
+     "order_no": 18,
+     "text": "（九）每个气瓶都应贴有产品标签，标签上应注明：品名、企业名称、生产地址、生产批号、生产日期、有效期、氧气数量、压力、执行标准等。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "九",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "每个",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "都",
+       "term_id": null
+      },
+      {
+       "t": "应贴",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "上应",
+       "term_id": null
+      },
+      {
+       "t": "注明",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "品名",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "名称",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "地址",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产日期",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "有效期",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "氧气",
+       "term_id": null
+      },
+      {
+       "t": "数量",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "压力",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1439,
+   "order_no": 25,
+   "label": "第二十五条",
+   "paragraphs": [
+    {
+     "id": 2897,
+     "order_no": 1,
+     "text": "分装医用氧的生产企业应向具有医用氧生产证明文件的企业购进液态氧，并在分装前做全检。",
+     "tokens": [
+      {
+       "t": "分装",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "证明文件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "购进",
+       "term_id": null
+      },
+      {
+       "t": "液态氧",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "分装",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "做",
+       "term_id": null
+      },
+      {
+       "t": "全检",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1440,
+   "order_no": 26,
+   "label": "第二十六条",
+   "paragraphs": [
+    {
+     "id": 2898,
+     "order_no": 1,
+     "text": "医用氧的产品有效期不得超过包装容器的检定效期。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "有效期",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "超过",
+       "term_id": null
+      },
+      {
+       "t": "包装容器",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检定",
+       "term_id": null
+      },
+      {
+       "t": "效期",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1441,
+   "order_no": 27,
+   "label": "第二十七条",
+   "paragraphs": [
+    {
+     "id": 2899,
+     "order_no": 1,
+     "text": "气瓶必须经核准有资格的单位进行定期检验，合格后方可使用。气瓶在使用过程中，如有严重腐蚀或严重损伤时，应提前检验。",
+     "tokens": [
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "核准",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "资格",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "单位",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "定期检验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "后方",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "严重",
+       "term_id": null
+      },
+      {
+       "t": "腐蚀",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "严重",
+       "term_id": null
+      },
+      {
+       "t": "损伤",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "提前",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1442,
+   "order_no": 28,
+   "label": "第二十八条",
+   "paragraphs": [
+    {
+     "id": 2900,
+     "order_no": 1,
+     "text": "医用氧产品必须按质量标准进行全检，并符合《中华人民共和国药典》标准。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "质量标准",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "全检",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "中华人民共和国",
+       "term_id": null
+      },
+      {
+       "t": "药典",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1443,
+   "order_no": 29,
+   "label": "第二十九条",
+   "paragraphs": [
+    {
+     "id": 2901,
+     "order_no": 1,
+     "text": "用于静水压测试的水至少为饮用水并定期监控其微生物污染水平。",
+     "tokens": [
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "静水压",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "水",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "饮用水",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "水平",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1444,
+   "order_no": 30,
+   "label": "第三十条",
+   "paragraphs": [
+    {
+     "id": 2902,
+     "order_no": 1,
+     "text": "医用氧企业用专用的移动式槽车对医疗单位或自用的低温容器就地充装的，若能提供本槽车医用氧检验报告书，则充装后可不必再取样检验。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "移动式",
+       "term_id": null
+      },
+      {
+       "t": "槽车",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "医疗",
+       "term_id": null
+      },
+      {
+       "t": "单位",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "自用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "低温",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "就",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "若能",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "槽车",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "报告书",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "则",
+       "term_id": null
+      },
+      {
+       "t": "充装后",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "不必",
+       "term_id": null
+      },
+      {
+       "t": "再",
+       "term_id": null
+      },
+      {
+       "t": "取样",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1445,
+   "order_no": 31,
+   "label": "第三十一条",
+   "paragraphs": [
+    {
+     "id": 2903,
+     "order_no": 1,
+     "text": "除另有规定，医用氧产品不需要留样和持续稳定性考察。",
+     "tokens": [
+      {
+       "t": "除",
+       "term_id": null
+      },
+      {
+       "t": "另有",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "持续",
+       "term_id": null
+      },
+      {
+       "t": "稳定性",
+       "term_id": null
+      },
+      {
+       "t": "考察",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1446,
+   "order_no": 32,
+   "label": "第三十二条",
+   "paragraphs": [
+    {
+     "id": 2904,
+     "order_no": 1,
+     "text": "医用氧产品应全检合格，经质量受权人员审核放行后，方可销售。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "应全检",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "受权",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "放行",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "方可",
+       "term_id": null
+      },
+      {
+       "t": "销售",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1447,
+   "order_no": 33,
+   "label": "第三十三条",
+   "paragraphs": [
+    {
+     "id": 2905,
+     "order_no": 1,
+     "text": "气瓶应避免存放于高温、暴晒区域。储存区域应清洁、干燥，有良好通风，最小安全距离内无易燃物质，使气瓶保持清洁、安全。",
+     "tokens": [
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "存放",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "高温",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "暴晒",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "干燥",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "良好",
+       "term_id": null
+      },
+      {
+       "t": "通风",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "最小",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "距离",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "无",
+       "term_id": null
+      },
+      {
+       "t": "易燃",
+       "term_id": null
+      },
+      {
+       "t": "物质",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "使",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "保持清洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1448,
+   "order_no": 34,
+   "label": "第三十四条",
+   "paragraphs": [
+    {
+     "id": 2906,
+     "order_no": 1,
+     "text": "医用氧应有相对独立的储存区域，已充装瓶、未充装瓶区域应有隔离，并能确保按照先进先出原则周转。",
+     "tokens": [
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "相对",
+       "term_id": null
+      },
+      {
+       "t": "独立",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "已充",
+       "term_id": null
+      },
+      {
+       "t": "装瓶",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "未充",
+       "term_id": null
+      },
+      {
+       "t": "装瓶",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "隔离",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "能",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "先进先出",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "周转",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1449,
+   "order_no": 35,
+   "label": "第三十五条",
+   "paragraphs": [
+    {
+     "id": 2907,
+     "order_no": 1,
+     "text": "气瓶在运输期间应防止混淆、差错、污染及交叉污染，并保证安全。",
+     "tokens": [
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "期间",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "混淆",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "差错",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1450,
+   "order_no": 36,
+   "label": "第三十六条",
+   "paragraphs": [
+    {
+     "id": 2908,
+     "order_no": 1,
+     "text": "下列术语含义是：",
+     "tokens": [
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "术语",
+       "term_id": null
+      },
+      {
+       "t": "含义",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2909,
+     "order_no": 2,
+     "text": "（一）充装台",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "充装台",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2910,
+     "order_no": 3,
+     "text": "设计用来在同一时间进行一个或多个气体容器清空或充装的设备或装置。",
+     "tokens": [
+      {
+       "t": "设计",
+       "term_id": null
+      },
+      {
+       "t": "用来",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "同一时间",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "一个",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "多个",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "清空",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "充装",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "装置",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2911,
+     "order_no": 4,
+     "text": "（二）储罐",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "储罐",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2912,
+     "order_no": 5,
+     "text": "用来储存液化或者低温气体的静止容器。",
+     "tokens": [
+      {
+       "t": "用来",
+       "term_id": null
+      },
+      {
+       "t": "储存",
+       "term_id": null
+      },
+      {
+       "t": "液化",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "低温",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "静止",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2913,
+     "order_no": 6,
+     "text": "（三）槽车",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "槽车",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2914,
+     "order_no": 7,
+     "text": "固定在交通工具上用来运输液化的或低温气体的容器。",
+     "tokens": [
+      {
+       "t": "固定",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "交通工具",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "用来",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "液化",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "低温",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2915,
+     "order_no": 8,
+     "text": "（四）低温容器",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "低温",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2916,
+     "order_no": 9,
+     "text": "用于容纳液化或低温气体的静止或者可移动的隔热容器。气体可以气态或液态移出。",
+     "tokens": [
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "容纳",
+       "term_id": null
+      },
+      {
+       "t": "液化",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "低温",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "静止",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "移动",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "隔热",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "可以",
+       "term_id": null
+      },
+      {
+       "t": "气态",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "液态",
+       "term_id": null
+      },
+      {
+       "t": "移出",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2917,
+     "order_no": 10,
+     "text": "（五）静水压试验",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "静水压",
+       "term_id": null
+      },
+      {
+       "t": "试验",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2918,
+     "order_no": 11,
+     "text": "基于安全原因，为确认气瓶或储罐能承受高压，按国家或国际准则来完成的试验。",
+     "tokens": [
+      {
+       "t": "基于",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "原因",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "储罐",
+       "term_id": null
+      },
+      {
+       "t": "能",
+       "term_id": null
+      },
+      {
+       "t": "承受",
+       "term_id": null
+      },
+      {
+       "t": "高压",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "国际",
+       "term_id": null
+      },
+      {
+       "t": "准则",
+       "term_id": null
+      },
+      {
+       "t": "来",
+       "term_id": null
+      },
+      {
+       "t": "完成",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "试验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2919,
+     "order_no": 12,
+     "text": "（六）排气",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "六",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "排气",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2920,
+     "order_no": 13,
+     "text": "排气降压到大气压。",
+     "tokens": [
+      {
+       "t": "排气",
+       "term_id": null
+      },
+      {
+       "t": "降压",
+       "term_id": null
+      },
+      {
+       "t": "到",
+       "term_id": null
+      },
+      {
+       "t": "大气压",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2921,
+     "order_no": 14,
+     "text": "（七）容器",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "七",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2922,
+     "order_no": 15,
+     "text": "容器是指储罐、槽车、气瓶或其他直接接触医用氧的包装物品。",
+     "tokens": [
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "储罐",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "槽车",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "物品",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2923,
+     "order_no": 16,
+     "text": "（八）液态氧",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "八",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "液态氧",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2924,
+     "order_no": 17,
+     "text": "即液体医用氧，指低温液化的医用氧气。",
+     "tokens": [
+      {
+       "t": "即",
+       "term_id": null
+      },
+      {
+       "t": "液体",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "低温",
+       "term_id": null
+      },
+      {
+       "t": "液化",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "氧气",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2925,
+     "order_no": 18,
+     "text": "（九）余压保留阀",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "九",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "余压",
+       "term_id": null
+      },
+      {
+       "t": "保留",
+       "term_id": null
+      },
+      {
+       "t": "阀",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2926,
+     "order_no": 19,
+     "text": "为防止使用时污染配备有能够维持一定压力（约0.3～0.5 MPa表压）的止回系统的阀门。",
+     "tokens": [
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "配备",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "维持",
+       "term_id": null
+      },
+      {
+       "t": "一定",
+       "term_id": null
+      },
+      {
+       "t": "压力",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "约",
+       "term_id": null
+      },
+      {
+       "t": "0.3",
+       "term_id": null
+      },
+      {
+       "t": "～",
+       "term_id": null
+      },
+      {
+       "t": "0.5",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "MPa",
+       "term_id": null
+      },
+      {
+       "t": "表压",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "止回",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "阀门",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2927,
+     "order_no": 20,
+     "text": "（十）止回阀",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "十",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "止回阀",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2928,
+     "order_no": 21,
+     "text": "只允许往一个方向流动的阀门。",
+     "tokens": [
+      {
+       "t": "只",
+       "term_id": null
+      },
+      {
+       "t": "允许",
+       "term_id": null
+      },
+      {
+       "t": "往",
+       "term_id": null
+      },
+      {
+       "t": "一个",
+       "term_id": null
+      },
+      {
+       "t": "方向",
+       "term_id": null
+      },
+      {
+       "t": "流动",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "阀门",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2929,
+     "order_no": 22,
+     "text": "（十一）置换",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "十一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "置换",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2930,
+     "order_no": 23,
+     "text": "通过排气和部分增压方式去除残留气体，然后排空以清洁气瓶。",
+     "tokens": [
+      {
+       "t": "通过",
+       "term_id": null
+      },
+      {
+       "t": "排气",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "部分",
+       "term_id": null
+      },
+      {
+       "t": "增压",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "残留",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "然后",
+       "term_id": null
+      },
+      {
+       "t": "排空",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "气瓶",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

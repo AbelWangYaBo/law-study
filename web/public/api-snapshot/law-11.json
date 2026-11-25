@@ -1,0 +1,10370 @@
+{
+ "id": 11,
+ "name": "医疗器械生产质量管理规范附录 无菌医疗器械",
+ "doc_number": "国家食品药品监督管理总局公告2015年第101号",
+ "authority": "原国家食药总局",
+ "level": "规范性文件",
+ "effective_date": "2015-10-01",
+ "articles": [
+  {
+   "id": 495,
+   "order_no": 1,
+   "label": "1.1",
+   "paragraphs": [
+    {
+     "id": 942,
+     "order_no": 1,
+     "text": "本附录是对无菌医疗器械生产质量管理规范的特殊要求。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "特殊要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 496,
+   "order_no": 2,
+   "label": "1.2",
+   "paragraphs": [
+    {
+     "id": 943,
+     "order_no": 1,
+     "text": "无菌医疗器械生产须满足其质量和预期用途的要求，最大限度地降低污染，并应当根据产品特性、生产工艺和设备等因素，确定无菌医疗器械洁净室（区）的洁净度级别，以保证医疗器械不受污染或能有效排除污染。",
+     "tokens": [
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "须",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "预期",
+       "term_id": null
+      },
+      {
+       "t": "用途",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "最大",
+       "term_id": null
+      },
+      {
+       "t": "限度",
+       "term_id": null
+      },
+      {
+       "t": "地",
+       "term_id": null
+      },
+      {
+       "t": "降低",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产工艺",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "因素",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "受",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "或能",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "排除",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 497,
+   "order_no": 3,
+   "label": "2.1.1",
+   "paragraphs": [
+    {
+     "id": 944,
+     "order_no": 1,
+     "text": "凡在洁净室（区）工作的人员应当定期进行卫生和微生物学基础知识、洁净作业等方面培训。临时进入洁净室（区）的人员，应当对其进行指导和监督。",
+     "tokens": [
+      {
+       "t": "凡",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "卫生",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "微生物学",
+       "term_id": null
+      },
+      {
+       "t": "基础知识",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "作业",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "方面",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "临时",
+       "term_id": null
+      },
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "指导",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "监督",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 498,
+   "order_no": 4,
+   "label": "2.1.2",
+   "paragraphs": [
+    {
+     "id": 945,
+     "order_no": 1,
+     "text": "应当建立对人员的清洁要求，制定洁净室（区）工作人员卫生守则。人员进入洁净室（区）应当按照程序进行净化，并穿戴工作帽、口罩、洁净工作服、工作鞋。裸手接触产品的操作人员每隔一定时间应当对手再次进行消毒。裸手消毒剂的种类应当定期更换。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "工作人员",
+       "term_id": null
+      },
+      {
+       "t": "卫生",
+       "term_id": null
+      },
+      {
+       "t": "守则",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "程序",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "净化",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "穿戴",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "帽",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "口罩",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "工作鞋",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "裸手",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "每隔",
+       "term_id": null
+      },
+      {
+       "t": "一定",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对手",
+       "term_id": null
+      },
+      {
+       "t": "再次",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "裸手",
+       "term_id": null
+      },
+      {
+       "t": "消毒剂",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "种类",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "更换",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 499,
+   "order_no": 5,
+   "label": "2.1.3",
+   "paragraphs": [
+    {
+     "id": 946,
+     "order_no": 1,
+     "text": "应当制定人员健康要求，建立人员健康档案。直接接触物料和产品的人员每年至少体检一次。患有传染性和感染性疾病的人员不得从事直接接触产品的工作。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "健康",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "健康",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "每年",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "体检",
+       "term_id": null
+      },
+      {
+       "t": "一次",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "患有",
+       "term_id": null
+      },
+      {
+       "t": "传染性",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "感染性",
+       "term_id": null
+      },
+      {
+       "t": "疾病",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 500,
+   "order_no": 6,
+   "label": "2.1.4",
+   "paragraphs": [
+    {
+     "id": 947,
+     "order_no": 1,
+     "text": "应当明确人员服装要求，制定洁净和无菌工作服的管理规定。工作服及其质量应当与生产操作的要求及操作区的洁净度级别相适应，其式样和穿着方式应当能够满足保护产品和人员的要求。洁净工作服和无菌工作服不得脱落纤维和颗粒性物质，无菌工作服应当能够包盖全部头发、胡须及脚部，并能阻留人体脱落物。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "服装",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "式样",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "穿着",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "保护",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "脱落",
+       "term_id": null
+      },
+      {
+       "t": "纤维",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "颗粒",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "物质",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "包盖",
+       "term_id": null
+      },
+      {
+       "t": "全部",
+       "term_id": null
+      },
+      {
+       "t": "头发",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "胡须",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "脚部",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "能",
+       "term_id": null
+      },
+      {
+       "t": "阻留",
+       "term_id": null
+      },
+      {
+       "t": "人体",
+       "term_id": null
+      },
+      {
+       "t": "脱落",
+       "term_id": null
+      },
+      {
+       "t": "物",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 501,
+   "order_no": 7,
+   "label": "2.2.1",
+   "paragraphs": [
+    {
+     "id": 948,
+     "order_no": 1,
+     "text": "应当有整洁的生产环境。厂区的地面、路面周围环境及运输等不应对无菌医疗器械的生产造成污染。行政区、生活区和辅助区的总体布局应当合理，不得对生产区有不良影响。厂区应当远离有污染的空气和水等污染源的区域。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "整洁",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "厂区",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "地面",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "路面",
+       "term_id": null
+      },
+      {
+       "t": "周围环境",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "行政区",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生活区",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "辅助",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "总体布局",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "合理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "生产区",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "不良影响",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "厂区",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "远离",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "空气",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "水等",
+       "term_id": null
+      },
+      {
+       "t": "污染源",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 502,
+   "order_no": 8,
+   "label": "2.2.2",
+   "paragraphs": [
+    {
+     "id": 949,
+     "order_no": 1,
+     "text": "应当根据所生产的无菌医疗器械的质量要求，确定在相应级别洁净室（区）内进行生产的过程，避免生产中的污染。空气洁净级别不同的洁净室（区）之间的静压差应大于5帕，洁净室（区）与室外大气的静压差应大于10帕，并应有指示压差的装置。必要时，相同洁净级别的不同功能区域（操作间）之间也应当保持适当的压差梯度。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "空气",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "之间",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "静压",
+       "term_id": null
+      },
+      {
+       "t": "差应",
+       "term_id": null
+      },
+      {
+       "t": "大于",
+       "term_id": null
+      },
+      {
+       "t": "5",
+       "term_id": null
+      },
+      {
+       "t": "帕",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "室外",
+       "term_id": null
+      },
+      {
+       "t": "大气",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "静压",
+       "term_id": null
+      },
+      {
+       "t": "差应",
+       "term_id": null
+      },
+      {
+       "t": "大于",
+       "term_id": null
+      },
+      {
+       "t": "10",
+       "term_id": null
+      },
+      {
+       "t": "帕",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "指示",
+       "term_id": null
+      },
+      {
+       "t": "压差",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "装置",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "相同",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "操作间",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "之间",
+       "term_id": null
+      },
+      {
+       "t": "也",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "压差",
+       "term_id": null
+      },
+      {
+       "t": "梯度",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 503,
+   "order_no": 9,
+   "label": "2.2.3",
+   "paragraphs": [
+    {
+     "id": 950,
+     "order_no": 1,
+     "text": "植入和介入到血管内的无菌医疗器械及需要在10,000级下的局部100级洁净室（区）内进行后续加工（如灌装封等）的无菌医疗器械或单包装出厂的配件，其末道清洁处理、组装、初包装、封口的生产区域和不经清洁处理的零部件的加工生产区域应当不低于10,000级洁净度级别。",
+     "tokens": [
+      {
+       "t": "植入",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "介入",
+       "term_id": null
+      },
+      {
+       "t": "到",
+       "term_id": null
+      },
+      {
+       "t": "血管",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "10",
+       "term_id": null
+      },
+      {
+       "t": ",",
+       "term_id": null
+      },
+      {
+       "t": "000",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "下",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "局部",
+       "term_id": null
+      },
+      {
+       "t": "100",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "后续",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "灌装",
+       "term_id": null
+      },
+      {
+       "t": "封等",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "或单",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "出厂",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "配件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其末",
+       "term_id": null
+      },
+      {
+       "t": "道",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组装",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "初",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "封口",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "零部件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "低于",
+       "term_id": null
+      },
+      {
+       "t": "10",
+       "term_id": null
+      },
+      {
+       "t": ",",
+       "term_id": null
+      },
+      {
+       "t": "000",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 504,
+   "order_no": 10,
+   "label": "2.2.4",
+   "paragraphs": [
+    {
+     "id": 951,
+     "order_no": 1,
+     "text": "与血液、骨髓腔或非自然腔道直接或间接接触的无菌医疗器械或单包装出厂的配件，其末道清洁处理、组装、初包装、封口的生产区域和不经清洁处理的零部件的加工生产区域应当不低于100,000级洁净度级别。",
+     "tokens": [
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "血液",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "骨髓",
+       "term_id": null
+      },
+      {
+       "t": "腔",
+       "term_id": null
+      },
+      {
+       "t": "或非",
+       "term_id": null
+      },
+      {
+       "t": "自然",
+       "term_id": null
+      },
+      {
+       "t": "腔道",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "间接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "或单",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "出厂",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "配件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其末",
+       "term_id": null
+      },
+      {
+       "t": "道",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组装",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "初",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "封口",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "零部件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "低于",
+       "term_id": null
+      },
+      {
+       "t": "100",
+       "term_id": null
+      },
+      {
+       "t": ",",
+       "term_id": null
+      },
+      {
+       "t": "000",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 505,
+   "order_no": 11,
+   "label": "2.2.5",
+   "paragraphs": [
+    {
+     "id": 952,
+     "order_no": 1,
+     "text": "与人体损伤表面和粘膜接触的无菌医疗器械或单包装出厂的配件，其末道清洁处理、组装、初包装、封口的生产区域和不经清洁处理的零部件的加工生产区域应当不低于300,000级洁净度级别。",
+     "tokens": [
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "人体",
+       "term_id": null
+      },
+      {
+       "t": "损伤",
+       "term_id": null
+      },
+      {
+       "t": "表面",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "粘膜",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "或单",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "出厂",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "配件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其末",
+       "term_id": null
+      },
+      {
+       "t": "道",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "组装",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "初",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "封口",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "零部件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "低于",
+       "term_id": null
+      },
+      {
+       "t": "300",
+       "term_id": null
+      },
+      {
+       "t": ",",
+       "term_id": null
+      },
+      {
+       "t": "000",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 506,
+   "order_no": 12,
+   "label": "2.2.6",
+   "paragraphs": [
+    {
+     "id": 953,
+     "order_no": 1,
+     "text": "与无菌医疗器械的使用表面直接接触、不需清洁处理即使用的初包装材料，其生产环境洁净度级别的设置应当遵循与产品生产环境的洁净度级别相同的原则，使初包装材料的质量满足所包装无菌医疗器械的要求；若初包装材料不与无菌医疗器械使用表面直接接触，应当在不低于300,000级洁净室（区）内生产。",
+     "tokens": [
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "表面",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "不需",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "即",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "初",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "遵循",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "相同",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "使初",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "若初",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "表面",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "低于",
+       "term_id": null
+      },
+      {
+       "t": "300",
+       "term_id": null
+      },
+      {
+       "t": ",",
+       "term_id": null
+      },
+      {
+       "t": "000",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 507,
+   "order_no": 13,
+   "label": "2.2.7",
+   "paragraphs": [
+    {
+     "id": 954,
+     "order_no": 1,
+     "text": "对于有要求或采用无菌操作技术加工的无菌医疗器械（包括医用材料），应当在10,000级下的局部100级洁净室（区）内进行生产。",
+     "tokens": [
+      {
+       "t": "对于",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "10",
+       "term_id": null
+      },
+      {
+       "t": ",",
+       "term_id": null
+      },
+      {
+       "t": "000",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "下",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "局部",
+       "term_id": null
+      },
+      {
+       "t": "100",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 508,
+   "order_no": 14,
+   "label": "2.2.8",
+   "paragraphs": [
+    {
+     "id": 955,
+     "order_no": 1,
+     "text": "洁净工作服清洗干燥间、洁具间、专用工位器具的末道清洁处理与消毒的区域的空气洁净度级别可低于生产区一个级别，但不得低于300,000级。无菌工作服的整理、灭菌后的贮存应当在10,000级洁净室（区）内。",
+     "tokens": [
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "清洗",
+       "term_id": null
+      },
+      {
+       "t": "干燥",
+       "term_id": null
+      },
+      {
+       "t": "间",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "洁具",
+       "term_id": null
+      },
+      {
+       "t": "间",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "工位",
+       "term_id": null
+      },
+      {
+       "t": "器具",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "末道",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "空气",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "低于",
+       "term_id": null
+      },
+      {
+       "t": "生产区",
+       "term_id": null
+      },
+      {
+       "t": "一个",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "但",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "低于",
+       "term_id": null
+      },
+      {
+       "t": "300",
+       "term_id": null
+      },
+      {
+       "t": ",",
+       "term_id": null
+      },
+      {
+       "t": "000",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "整理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "10",
+       "term_id": null
+      },
+      {
+       "t": ",",
+       "term_id": null
+      },
+      {
+       "t": "000",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 509,
+   "order_no": 15,
+   "label": "2.2.9",
+   "paragraphs": [
+    {
+     "id": 956,
+     "order_no": 1,
+     "text": "洁净室（区）应当按照无菌医疗器械的生产工艺流程及所要求的空气洁净度级别进行合理布局，人流、物流走向应当合理。同一洁净室（区）内或相邻洁净室（区）间的生产操作不得互相交叉污染。",
+     "tokens": [
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "工艺流程",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "空气",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "合理布局",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "人流",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "物流",
+       "term_id": null
+      },
+      {
+       "t": "走向",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "合理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "相邻",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "间",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "互相",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 510,
+   "order_no": 16,
+   "label": "2.2.10",
+   "paragraphs": [
+    {
+     "id": 957,
+     "order_no": 1,
+     "text": "洁净室（区）空气洁净度级别指标应当符合医疗器械相关行业标准的要求。",
+     "tokens": [
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "空气",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "指标",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "行业标准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 511,
+   "order_no": 17,
+   "label": "2.2.11",
+   "paragraphs": [
+    {
+     "id": 958,
+     "order_no": 1,
+     "text": "洁净室（区）的温度和相对湿度应当与产品生产工艺要求相适应。无特殊要求时，温度应当控制在18～28℃，相对湿度控制在45%～65%。",
+     "tokens": [
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "相对湿度",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "生产工艺",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "无",
+       "term_id": null
+      },
+      {
+       "t": "特殊要求",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "18",
+       "term_id": null
+      },
+      {
+       "t": "～",
+       "term_id": null
+      },
+      {
+       "t": "28",
+       "term_id": null
+      },
+      {
+       "t": "℃",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "相对湿度",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "45",
+       "term_id": null
+      },
+      {
+       "t": "%",
+       "term_id": null
+      },
+      {
+       "t": "～",
+       "term_id": null
+      },
+      {
+       "t": "65",
+       "term_id": null
+      },
+      {
+       "t": "%",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 512,
+   "order_no": 18,
+   "label": "2.2.12",
+   "paragraphs": [
+    {
+     "id": 959,
+     "order_no": 1,
+     "text": "进入洁净室（区）的管道、进回风口布局应当合理，水、电、气输送线路与墙体接口处应当可靠密封，照明灯具不得悬吊。",
+     "tokens": [
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "管道",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "进回",
+       "term_id": null
+      },
+      {
+       "t": "风口",
+       "term_id": null
+      },
+      {
+       "t": "布局",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "合理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "水",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "电",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "气",
+       "term_id": null
+      },
+      {
+       "t": "输送",
+       "term_id": null
+      },
+      {
+       "t": "线路",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "墙体",
+       "term_id": null
+      },
+      {
+       "t": "接口处",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "可靠",
+       "term_id": null
+      },
+      {
+       "t": "密封",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "照明灯",
+       "term_id": null
+      },
+      {
+       "t": "具",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "悬吊",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 513,
+   "order_no": 19,
+   "label": "2.2.13",
+   "paragraphs": [
+    {
+     "id": 960,
+     "order_no": 1,
+     "text": "洁净室（区）内操作台应当光滑、平整、不脱落尘粒和纤维，不易积尘并便于清洁处理和消毒。",
+     "tokens": [
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "操作台",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "光滑",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "平整",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "脱落",
+       "term_id": null
+      },
+      {
+       "t": "尘粒",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "纤维",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不易",
+       "term_id": null
+      },
+      {
+       "t": "积尘",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "便于",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 514,
+   "order_no": 20,
+   "label": "2.2.14",
+   "paragraphs": [
+    {
+     "id": 961,
+     "order_no": 1,
+     "text": "生产厂房应当设置防尘、防止昆虫和其他动物进入的设施。洁净室（区）的门、窗及安全门应当密闭，洁净室（区）的门应当向洁净度高的方向开启，洁净室（区）的内表面应当便于清洁，不受清洁和消毒的影响。100级的洁净室（区）内不得设置地漏。在其他洁净室（区）内，水池或地漏应当有适当的设计和维护，并安装易于清洁且带有空气阻断功能的装置以防倒灌，同外部排水系统的连接方式应当能够防止微生物的侵入。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "防尘",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "昆虫",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "门",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "窗及",
+       "term_id": null
+      },
+      {
+       "t": "安全门",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "密闭",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "门",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "向",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "高",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "方向",
+       "term_id": null
+      },
+      {
+       "t": "开启",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "表面",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "便于",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "受",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "100",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "地漏",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "水池",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "地漏",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设计",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "安装",
+       "term_id": null
+      },
+      {
+       "t": "易于",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "且",
+       "term_id": null
+      },
+      {
+       "t": "带有",
+       "term_id": null
+      },
+      {
+       "t": "空气",
+       "term_id": null
+      },
+      {
+       "t": "阻断",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "装置",
+       "term_id": null
+      },
+      {
+       "t": "以防",
+       "term_id": null
+      },
+      {
+       "t": "倒灌",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "同",
+       "term_id": null
+      },
+      {
+       "t": "外部",
+       "term_id": null
+      },
+      {
+       "t": "排水系统",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "连接",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "侵入",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 515,
+   "order_no": 21,
+   "label": "2.2.15",
+   "paragraphs": [
+    {
+     "id": 962,
+     "order_no": 1,
+     "text": "洁净室（区）内使用的压缩空气等工艺用气均应当经过净化处理。与产品使用表面直接接触的气体，其对产品的影响程度应当进行验证和控制，以适应所生产产品的要求。",
+     "tokens": [
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "压缩空气",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "用气",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "净化",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "表面",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "气体",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "程度",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "适应",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 516,
+   "order_no": 22,
+   "label": "2.2.16",
+   "paragraphs": [
+    {
+     "id": 963,
+     "order_no": 1,
+     "text": "洁净室（区）内的人数应当与洁净室（区）面积相适应。",
+     "tokens": [
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人数",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "面积",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 517,
+   "order_no": 23,
+   "label": "2.3.1",
+   "paragraphs": [
+    {
+     "id": 964,
+     "order_no": 1,
+     "text": "生产设备、工艺装备和工位器具应当符合洁净环境控制和工艺文件的要求。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "装备",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "工位",
+       "term_id": null
+      },
+      {
+       "t": "器具",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 518,
+   "order_no": 24,
+   "label": "2.3.2",
+   "paragraphs": [
+    {
+     "id": 965,
+     "order_no": 1,
+     "text": "洁净室（区）空气净化系统应当经过确认并保持连续运行，维持相应的洁净度级别，并在一定周期后进行再确认。",
+     "tokens": [
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "空气净化",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "连续",
+       "term_id": null
+      },
+      {
+       "t": "运行",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "维持",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "一定",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "再",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 966,
+     "order_no": 2,
+     "text": "若停机后再次开启空气净化系统，应当进行必要的测试或验证，以确认仍能达到规定的洁净度级别要求。",
+     "tokens": [
+      {
+       "t": "若",
+       "term_id": null
+      },
+      {
+       "t": "停机",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "再次",
+       "term_id": null
+      },
+      {
+       "t": "开启",
+       "term_id": null
+      },
+      {
+       "t": "空气净化",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "仍能",
+       "term_id": null
+      },
+      {
+       "t": "达到",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 519,
+   "order_no": 25,
+   "label": "2.3.3",
+   "paragraphs": [
+    {
+     "id": 967,
+     "order_no": 1,
+     "text": "应当确定所需要的工艺用水。当生产过程中使用工艺用水时，应当配备相应的制水设备，并有防止污染的措施，用量较大时应当通过管道输送至洁净室（区）的用水点。工艺用水应当满足产品质量的要求。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "用水",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "当",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "用水",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "配备",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "制水",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "用量",
+       "term_id": null
+      },
+      {
+       "t": "较大",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "通过",
+       "term_id": null
+      },
+      {
+       "t": "管道",
+       "term_id": null
+      },
+      {
+       "t": "输送",
+       "term_id": null
+      },
+      {
+       "t": "至",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "用水",
+       "term_id": null
+      },
+      {
+       "t": "点",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "用水",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 520,
+   "order_no": 26,
+   "label": "2.3.4",
+   "paragraphs": [
+    {
+     "id": 968,
+     "order_no": 1,
+     "text": "应当制定工艺用水的管理文件，工艺用水的储罐和输送管道应当满足产品要求，并定期清洗、消毒。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "用水",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "管理文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "用水",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "储罐",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "输送",
+       "term_id": null
+      },
+      {
+       "t": "管道",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "清洗",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 521,
+   "order_no": 27,
+   "label": "2.3.5",
+   "paragraphs": [
+    {
+     "id": 969,
+     "order_no": 1,
+     "text": "与物料或产品直接接触的设备、工艺装备及管道表面应当光洁、平整、无颗粒物质脱落、无毒、耐腐蚀，不与物料或产品发生化学反应和粘连，易于清洁处理、消毒或灭菌。",
+     "tokens": [
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "装备",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "管道",
+       "term_id": null
+      },
+      {
+       "t": "表面",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "光洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "平整",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "无",
+       "term_id": null
+      },
+      {
+       "t": "颗粒",
+       "term_id": null
+      },
+      {
+       "t": "物质",
+       "term_id": null
+      },
+      {
+       "t": "脱落",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "无毒",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "耐腐蚀",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "发生",
+       "term_id": null
+      },
+      {
+       "t": "化学反应",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "粘连",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "易于",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 522,
+   "order_no": 28,
+   "label": "2.4.1",
+   "paragraphs": [
+    {
+     "id": 970,
+     "order_no": 1,
+     "text": "应当明确灭菌工艺（方法和参数）和无菌保证水平（SAL），并提供灭菌确认报告。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "参数",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "水平",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "SAL",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 523,
+   "order_no": 29,
+   "label": "2.4.2",
+   "paragraphs": [
+    {
+     "id": 971,
+     "order_no": 1,
+     "text": "如灭菌使用的方法容易出现残留,应当明确残留物信息及采取的处理方法。",
+     "tokens": [
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "容易",
+       "term_id": null
+      },
+      {
+       "t": "出现",
+       "term_id": null
+      },
+      {
+       "t": "残留",
+       "term_id": null
+      },
+      {
+       "t": ",",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "残留物",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 524,
+   "order_no": 30,
+   "label": "2.5.1",
+   "paragraphs": [
+    {
+     "id": 972,
+     "order_no": 1,
+     "text": "应当对采购物品进行检验或验证，需要进行生物学评价的材料，采购物品应当与经生物学评价的材料相同。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "采购",
+       "term_id": null
+      },
+      {
+       "t": "物品",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "生物学",
+       "term_id": null
+      },
+      {
+       "t": "评价",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "采购",
+       "term_id": null
+      },
+      {
+       "t": "物品",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "生物学",
+       "term_id": null
+      },
+      {
+       "t": "评价",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "相同",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 525,
+   "order_no": 31,
+   "label": "2.5.2",
+   "paragraphs": [
+    {
+     "id": 973,
+     "order_no": 1,
+     "text": "对来源于动物的原、辅材料应当满足产品质量控制要求。",
+     "tokens": [
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "来源于",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "辅",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 526,
+   "order_no": 32,
+   "label": "2.5.3",
+   "paragraphs": [
+    {
+     "id": 974,
+     "order_no": 1,
+     "text": "无菌医疗器械的初包装材料应当适用于所用的灭菌过程或无菌加工的包装要求，并执行相应法规和标准的规定，确保在包装、运输、贮存和使用时不会对产品造成污染。",
+     "tokens": [
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "初",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "适用",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "所用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "不会",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 975,
+     "order_no": 2,
+     "text": "应当根据产品质量要求确定所采购初包装材料的初始污染菌和微粒污染可接受水平并形成文件，按照文件要求对采购的初包装材料进行进货检验并保持相关记录。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "采购",
+       "term_id": null
+      },
+      {
+       "t": "初",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "初始",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "菌",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "微粒",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "接受",
+       "term_id": null
+      },
+      {
+       "t": "水平",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "采购",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "初",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "进货",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 527,
+   "order_no": 33,
+   "label": "2.6.1",
+   "paragraphs": [
+    {
+     "id": 976,
+     "order_no": 1,
+     "text": "生产过程中产生粉尘、烟雾、毒害物、射线和紫外线等有害物质的厂房、设备应当安装相应的防护装置，建立其工作环境条件的要求并形成文件，以进行有效控制。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "粉尘",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "烟雾",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "毒害",
+       "term_id": null
+      },
+      {
+       "t": "物",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "射线",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "紫外线",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "有害物质",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "安装",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "防护装置",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 528,
+   "order_no": 34,
+   "label": "2.6.2",
+   "paragraphs": [
+    {
+     "id": 977,
+     "order_no": 1,
+     "text": "应当制定洁净室（区）的卫生管理文件，按照规定对洁净室（区）进行清洁处理和消毒，并保存记录。所用的消毒剂或消毒方法不得对设备、工艺装备、物料和产品造成污染。消毒剂品种应当定期更换，防止产生耐药菌株。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "卫生",
+       "term_id": null
+      },
+      {
+       "t": "管理文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "所用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "消毒剂",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "装备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "消毒剂",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "更换",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "耐药",
+       "term_id": null
+      },
+      {
+       "t": "菌株",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 529,
+   "order_no": 35,
+   "label": "2.6.3",
+   "paragraphs": [
+    {
+     "id": 978,
+     "order_no": 1,
+     "text": "生产设备所用的润滑剂、冷却剂、清洗剂及在洁净室（区）内通过模具成型后不需清洁处理的零配件所用的脱模剂，均不得对产品造成污染。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "所用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "润滑剂",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "冷却剂",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "清洗剂",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "通过",
+       "term_id": null
+      },
+      {
+       "t": "模具",
+       "term_id": null
+      },
+      {
+       "t": "成型",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "不需",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "零配件",
+       "term_id": null
+      },
+      {
+       "t": "所用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "脱模剂",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 530,
+   "order_no": 36,
+   "label": "2.6.4",
+   "paragraphs": [
+    {
+     "id": 979,
+     "order_no": 1,
+     "text": "应当制定工位器具的管理文件，所选用的工位器具应当能避免产品在存放和搬运中被污染和损坏。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "工位",
+       "term_id": null
+      },
+      {
+       "t": "器具",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "管理文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "选用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工位",
+       "term_id": null
+      },
+      {
+       "t": "器具",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "能",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "存放",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "搬运",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "被",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "损坏",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 531,
+   "order_no": 37,
+   "label": "2.6.5",
+   "paragraphs": [
+    {
+     "id": 980,
+     "order_no": 1,
+     "text": "进入洁净室（区）的物品，包括原料和零配件等必须按程序进行净化处理。",
+     "tokens": [
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "物品",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "原料",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "零配件",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "按程序",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "净化",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 981,
+     "order_no": 2,
+     "text": "对于需清洁处理的无菌医疗器械的零配件，末道清洁处理应当在相应级别的洁净室（区）内进行，末道清洁处理介质应当满足产品质量的要求。",
+     "tokens": [
+      {
+       "t": "对于",
+       "term_id": null
+      },
+      {
+       "t": "需",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "零配件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "末道",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "末道",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "介质",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 532,
+   "order_no": 38,
+   "label": "2.6.6",
+   "paragraphs": [
+    {
+     "id": 982,
+     "order_no": 1,
+     "text": "应当建立清场的管理规定，以防止产品的交叉污染，并做好清场记录。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "清场",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "做好",
+       "term_id": null
+      },
+      {
+       "t": "清场",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 533,
+   "order_no": 39,
+   "label": "2.6.7",
+   "paragraphs": [
+    {
+     "id": 983,
+     "order_no": 1,
+     "text": "应当建立批号管理规定，明确生产批号和灭菌批号的关系，规定每批产品应形成的记录。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "关系",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "每批",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 534,
+   "order_no": 40,
+   "label": "2.6.8",
+   "paragraphs": [
+    {
+     "id": 984,
+     "order_no": 1,
+     "text": "应当选择适宜的方法对产品进行灭菌或采用适宜的无菌加工技术以保证产品无菌，并执行相关法规和标准的要求。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "选择",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 535,
+   "order_no": 41,
+   "label": "2.6.9",
+   "paragraphs": [
+    {
+     "id": 985,
+     "order_no": 1,
+     "text": "应当建立无菌医疗器械灭菌过程确认程序并形成文件。灭菌过程应当按照相关标准要求在初次实施前进行确认，必要时再确认，并保持灭菌过程确认记录。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "程序",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "初次",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "再",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 536,
+   "order_no": 42,
+   "label": "2.6.10",
+   "paragraphs": [
+    {
+     "id": 986,
+     "order_no": 1,
+     "text": "应当制定灭菌过程控制文件，保持每一灭菌批的灭菌过程参数记录，灭菌记录应当可追溯到产品的每一生产批。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "每一",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "参数",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "到",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "每一",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 537,
+   "order_no": 43,
+   "label": "2.6.11",
+   "paragraphs": [
+    {
+     "id": 987,
+     "order_no": 1,
+     "text": "对直接或间接接触心血管系统、淋巴系统或脑脊髓液或药液的零配件应当至少能追溯到产品生产所用的原材料、灭菌设备和生产环境。",
+     "tokens": [
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "间接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "心血管",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "淋巴",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "脑脊髓",
+       "term_id": null
+      },
+      {
+       "t": "液",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "药液",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "零配件",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "能",
+       "term_id": null
+      },
+      {
+       "t": "追溯到",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "所用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 538,
+   "order_no": 44,
+   "label": "2.6.12",
+   "paragraphs": [
+    {
+     "id": 988,
+     "order_no": 1,
+     "text": "应当根据对产品质量影响的程度规定各种无菌医疗器械产品和材料的贮存条件，贮存场所应当具有相应的环境监控设施，应当控制和记录贮存条件，贮存条件应当在标签或使用说明书中注明。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "程度",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "各种",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "场所",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "说明书",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "注明",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 539,
+   "order_no": 45,
+   "label": "2.7.1",
+   "paragraphs": [
+    {
+     "id": 989,
+     "order_no": 1,
+     "text": "应当具备无菌、微生物限度和阳性对照的检测能力和条件。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "限度",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "阳性",
+       "term_id": null
+      },
+      {
+       "t": "对照",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "能力",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 540,
+   "order_no": 46,
+   "label": "2.7.2",
+   "paragraphs": [
+    {
+     "id": 990,
+     "order_no": 1,
+     "text": "应当对工艺用水进行监控和定期检测，并保持监控记录和检测报告。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "用水",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 541,
+   "order_no": 47,
+   "label": "2.7.3",
+   "paragraphs": [
+    {
+     "id": 991,
+     "order_no": 1,
+     "text": "应当按照医疗器械相关行业标准要求对洁净室（区）的尘粒、浮游菌或沉降菌、换气次数或风速、静压差、温度和相对湿度进行定期检（监）测，并保存检（监）测记录。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "行业标准",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "尘粒",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "浮游",
+       "term_id": null
+      },
+      {
+       "t": "菌",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "沉降",
+       "term_id": null
+      },
+      {
+       "t": "菌",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "换气",
+       "term_id": null
+      },
+      {
+       "t": "次数",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "风速",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "静压",
+       "term_id": null
+      },
+      {
+       "t": "差",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "相对湿度",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "检",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "监",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "测",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "检",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "监",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "测",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 542,
+   "order_no": 48,
+   "label": "2.7.4",
+   "paragraphs": [
+    {
+     "id": 992,
+     "order_no": 1,
+     "text": "应当根据产品质量要求确定产品的初始污染菌和微粒污染的控制水平并形成文件，明确中间品的存储环境要求和存放时间，按文件要求定期检测并保持相关记录。应当定期对检测记录进行汇总和趋势分析。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "初始",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "菌",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "微粒",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "水平",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "中间品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "存储",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "存放",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "汇总",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "趋势",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 543,
+   "order_no": 49,
+   "label": "2.7.5",
+   "paragraphs": [
+    {
+     "id": 993,
+     "order_no": 1,
+     "text": "应当根据产品留样目的确定留样数量和留样方式，按照生产批或灭菌批等进行留样，并保存留样观察记录或留样检验记录。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "目的",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "数量",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "批等",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "观察",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 544,
+   "order_no": 50,
+   "label": "3.1",
+   "paragraphs": [
+    {
+     "id": 994,
+     "order_no": 1,
+     "text": "下列术语的含义是：",
+     "tokens": [
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "术语",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "含义",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 995,
+     "order_no": 2,
+     "text": "批号：用于识别一个特定批的具有唯一性的数字和（或）字母的组合。",
+     "tokens": [
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "一个",
+       "term_id": null
+      },
+      {
+       "t": "特定",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "唯一性",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数字",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "字母",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "组合",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 996,
+     "order_no": 3,
+     "text": "生产批：指在一段时间内，同一工艺条件下连续生产出的具有同一性质和质量的产品。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "指在",
+       "term_id": null
+      },
+      {
+       "t": "一段时间",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "下",
+       "term_id": null
+      },
+      {
+       "t": "连续",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "出",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "性质",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 997,
+     "order_no": 4,
+     "text": "灭菌批：在同一灭菌容器内，同一工艺条件下灭菌的具有相同无菌保证水平的产品。",
+     "tokens": [
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "下",
+       "term_id": null
+      },
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "相同",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "水平",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 998,
+     "order_no": 5,
+     "text": "灭菌：用以使产品无任何形式的存活微生物的过程，且该过程应当经过确认。",
+     "tokens": [
+      {
+       "t": "灭菌",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "用以",
+       "term_id": null
+      },
+      {
+       "t": "使",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "无",
+       "term_id": null
+      },
+      {
+       "t": "任何",
+       "term_id": null
+      },
+      {
+       "t": "形式",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "存活",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "且",
+       "term_id": null
+      },
+      {
+       "t": "该",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 999,
+     "order_no": 6,
+     "text": "无菌：产品上无存活微生物的状态。",
+     "tokens": [
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "无",
+       "term_id": null
+      },
+      {
+       "t": "存活",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "状态",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1000,
+     "order_no": 7,
+     "text": "初包装材料：与产品直接接触的包装材料。",
+     "tokens": [
+      {
+       "t": "初",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1001,
+     "order_no": 8,
+     "text": "洁净室(区)：需要对尘粒及微生物含量进行控制的房间（区域）。其建筑结构、装备及其作用均具有减少该房间（区域）内污染源的介入、产生和滞留的功能。",
+     "tokens": [
+      {
+       "t": "洁净室",
+       "term_id": null
+      },
+      {
+       "t": "(",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": ")",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "尘粒",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "含量",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "房间",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "建筑",
+       "term_id": null
+      },
+      {
+       "t": "结构",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "装备",
+       "term_id": null
+      },
+      {
+       "t": "及其",
+       "term_id": null
+      },
+      {
+       "t": "作用",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "减少",
+       "term_id": null
+      },
+      {
+       "t": "该",
+       "term_id": null
+      },
+      {
+       "t": "房间",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "污染源",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "介入",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "滞留",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1002,
+     "order_no": 9,
+     "text": "洁净度：洁净环境内单位体积空气中含大于或等于某一粒径的悬浮粒子和微生物最大允许统计数。",
+     "tokens": [
+      {
+       "t": "洁净度",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "单位",
+       "term_id": null
+      },
+      {
+       "t": "体积",
+       "term_id": null
+      },
+      {
+       "t": "空气",
+       "term_id": null
+      },
+      {
+       "t": "中含",
+       "term_id": null
+      },
+      {
+       "t": "大于",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "等于",
+       "term_id": null
+      },
+      {
+       "t": "某一",
+       "term_id": null
+      },
+      {
+       "t": "粒径",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "悬浮",
+       "term_id": null
+      },
+      {
+       "t": "粒子",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "最大",
+       "term_id": null
+      },
+      {
+       "t": "允许",
+       "term_id": null
+      },
+      {
+       "t": "统计",
+       "term_id": null
+      },
+      {
+       "t": "数",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1003,
+     "order_no": 10,
+     "text": "无菌加工：在受控的环境中进行产品的无菌制备及产品的无菌灌装。该环境的空气供应、材料、设备和人员都得到控制，使微生物和微粒污染控制到可接受水平。",
+     "tokens": [
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "受控",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "制备",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "灌装",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "该",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "空气",
+       "term_id": null
+      },
+      {
+       "t": "供应",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "都",
+       "term_id": null
+      },
+      {
+       "t": "得到",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "使",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "微粒",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "到",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "接受",
+       "term_id": null
+      },
+      {
+       "t": "水平",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 545,
+   "order_no": 51,
+   "label": "4.1",
+   "paragraphs": [
+    {
+     "id": 1004,
+     "order_no": 1,
+     "text": "本附录由国家食品药品监督管理总局负责解释。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "食品药品",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "总局",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "解释",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 546,
+   "order_no": 52,
+   "label": "4.2",
+   "paragraphs": [
+    {
+     "id": 1005,
+     "order_no": 1,
+     "text": "本附录自2015年10月1日起施行。原国家食品药品监督管理局于2009年12月16日发布的《关于印发医疗器械生产质量管理规范无菌医疗器械实施细则和检查评定标准（试行）的通知》（国食药监械〔2009〕835号）同时废止。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "自",
+       "term_id": null
+      },
+      {
+       "t": "2015",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "10",
+       "term_id": null
+      },
+      {
+       "t": "月",
+       "term_id": null
+      },
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "日起",
+       "term_id": null
+      },
+      {
+       "t": "施行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "原",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "食品",
+       "term_id": null
+      },
+      {
+       "t": "药品监督管理局",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "2009",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "12",
+       "term_id": null
+      },
+      {
+       "t": "月",
+       "term_id": null
+      },
+      {
+       "t": "16",
+       "term_id": null
+      },
+      {
+       "t": "日",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "关于",
+       "term_id": null
+      },
+      {
+       "t": "印发",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "无菌",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "实施细则",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "评定",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "试行",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "通知",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "国",
+       "term_id": null
+      },
+      {
+       "t": "食药监",
+       "term_id": null
+      },
+      {
+       "t": "械",
+       "term_id": null
+      },
+      {
+       "t": "〔",
+       "term_id": null
+      },
+      {
+       "t": "2009",
+       "term_id": null
+      },
+      {
+       "t": "〕",
+       "term_id": null
+      },
+      {
+       "t": "835",
+       "term_id": null
+      },
+      {
+       "t": "号",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "同时",
+       "term_id": null
+      },
+      {
+       "t": "废止",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

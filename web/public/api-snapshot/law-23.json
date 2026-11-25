@@ -1,0 +1,9007 @@
+{
+ "id": 23,
+ "name": "药品生产质量管理规范附录：中药饮片",
+ "doc_number": "国家食品药品监督管理总局公告2014年第32号（附件1）",
+ "authority": "国家食品药品监督管理总局",
+ "level": "规范性文件（79号令配套附录）",
+ "effective_date": "2014-07-01",
+ "articles": [
+  {
+   "id": 1359,
+   "order_no": 1,
+   "label": "第一条",
+   "paragraphs": [
+    {
+     "id": 2757,
+     "order_no": 1,
+     "text": "本附录适用于中药饮片生产管理和质量控制的全过程。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "适用",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1360,
+   "order_no": 2,
+   "label": "第二条",
+   "paragraphs": [
+    {
+     "id": 2758,
+     "order_no": 1,
+     "text": "产地趁鲜加工中药饮片的，按照本附录执行。",
+     "tokens": [
+      {
+       "t": "产地",
+       "term_id": null
+      },
+      {
+       "t": "趁鲜",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1361,
+   "order_no": 3,
+   "label": "第三条",
+   "paragraphs": [
+    {
+     "id": 2759,
+     "order_no": 1,
+     "text": "民族药参照本附录执行。",
+     "tokens": [
+      {
+       "t": "民族",
+       "term_id": null
+      },
+      {
+       "t": "药",
+       "term_id": null
+      },
+      {
+       "t": "参照",
+       "term_id": null
+      },
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1362,
+   "order_no": 4,
+   "label": "第四条",
+   "paragraphs": [
+    {
+     "id": 2760,
+     "order_no": 1,
+     "text": "中药饮片的质量与中药材质量、炮制工艺密切相关，应当对中药材质量、炮制工艺严格控制；在炮制、贮存和运输过程中，应当采取措施控制污染，防止变质，避免交叉污染、混淆、差错；生产直接口服中药饮片的，应对生产环境及产品微生物进行控制。",
+     "tokens": [
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "密切相关",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "严格控制",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "采取措施",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "变质",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "混淆",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "差错",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "口服",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应对",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1363,
+   "order_no": 5,
+   "label": "第五条",
+   "paragraphs": [
+    {
+     "id": 2761,
+     "order_no": 1,
+     "text": "中药材的来源应符合标准，产地应相对稳定。",
+     "tokens": [
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "来源",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "符合标准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "产地",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "相对",
+       "term_id": null
+      },
+      {
+       "t": "稳定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1364,
+   "order_no": 6,
+   "label": "第六条",
+   "paragraphs": [
+    {
+     "id": 2762,
+     "order_no": 1,
+     "text": "中药饮片必须按照国家药品标准炮制；国家药品标准没有规定的，必须按照省、自治区、直辖市食品药品监督管理部门制定的炮制规范或审批的标准炮制。",
+     "tokens": [
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "没有",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "省",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "自治区",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "直辖市",
+       "term_id": null
+      },
+      {
+       "t": "食品药品",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "审批",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1365,
+   "order_no": 7,
+   "label": "第七条",
+   "paragraphs": [
+    {
+     "id": 2763,
+     "order_no": 1,
+     "text": "中药饮片应按照品种工艺规程生产。中药饮片生产条件应与生产许可范围相适应，不得外购中药饮片的中间产品或成品进行分包装或改换包装标签。",
+     "tokens": [
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "规程",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "许可",
+       "term_id": null
+      },
+      {
+       "t": "范围",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "外购",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "分",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "改换",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1366,
+   "order_no": 8,
+   "label": "第八条",
+   "paragraphs": [
+    {
+     "id": 2764,
+     "order_no": 1,
+     "text": "企业的生产管理负责人应具有药学或相关专业大专以上学历（或中级专业技术职称或执业药师资格）、三年以上从事中药饮片生产管理的实践经验，或药学或相关专业中专以上学历、八年以上从事中药饮片生产管理的实践经验。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "负责人",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "药学",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "大专",
+       "term_id": null
+      },
+      {
+       "t": "以上学历",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "中级",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "技术职称",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "执业",
+       "term_id": null
+      },
+      {
+       "t": "药师",
+       "term_id": null
+      },
+      {
+       "t": "资格",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "三年",
+       "term_id": null
+      },
+      {
+       "t": "以上",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实践经验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "药学",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "中专",
+       "term_id": null
+      },
+      {
+       "t": "以上学历",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "八年",
+       "term_id": null
+      },
+      {
+       "t": "以上",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实践经验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1367,
+   "order_no": 9,
+   "label": "第九条",
+   "paragraphs": [
+    {
+     "id": 2765,
+     "order_no": 1,
+     "text": "企业的质量管理负责人、质量受权人应当具备药学或相关专业大专以上学历（或中级专业技术职称或执业药师资格），并有中药饮片生产或质量管理五年以上的实践经验，其中至少有一年的质量管理经验。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "负责人",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "受权",
+       "term_id": null
+      },
+      {
+       "t": "人",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "药学",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "大专",
+       "term_id": null
+      },
+      {
+       "t": "以上学历",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "中级",
+       "term_id": null
+      },
+      {
+       "t": "专业",
+       "term_id": null
+      },
+      {
+       "t": "技术职称",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "执业",
+       "term_id": null
+      },
+      {
+       "t": "药师",
+       "term_id": null
+      },
+      {
+       "t": "资格",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "五年",
+       "term_id": null
+      },
+      {
+       "t": "以上",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实践经验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其中",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "一年",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "经验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1368,
+   "order_no": 10,
+   "label": "第十条",
+   "paragraphs": [
+    {
+     "id": 2766,
+     "order_no": 1,
+     "text": "企业的关键人员以及质量保证、质量控制等人员均应为企业的全职在岗人员。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "关键",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "质量保证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "应为",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "全职",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "岗",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1369,
+   "order_no": 11,
+   "label": "第十一条",
+   "paragraphs": [
+    {
+     "id": 2767,
+     "order_no": 1,
+     "text": "质量保证和质量控制人员应具备中药材和中药饮片质量控制的实际能力，具备鉴别中药材和中药饮片真伪优劣的能力。",
+     "tokens": [
+      {
+       "t": "质量保证",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实际",
+       "term_id": null
+      },
+      {
+       "t": "能力",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "鉴别",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "真伪",
+       "term_id": null
+      },
+      {
+       "t": "优劣",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "能力",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1370,
+   "order_no": 12,
+   "label": "第十二条",
+   "paragraphs": [
+    {
+     "id": 2768,
+     "order_no": 1,
+     "text": "从事中药材炮制操作人员应具有中药炮制专业知识和实际操作技能；从事毒性中药材等有特殊要求的生产操作人员，应具有相关专业知识和技能，并熟知相关的劳动保护要求。",
+     "tokens": [
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "中药",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "专业知识",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "实际",
+       "term_id": null
+      },
+      {
+       "t": "操作技能",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "毒性",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "特殊要求",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业知识",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "技能",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "熟知",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "劳动保护",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1371,
+   "order_no": 13,
+   "label": "第十三条",
+   "paragraphs": [
+    {
+     "id": 2769,
+     "order_no": 1,
+     "text": "负责中药材采购及验收的人员应具备鉴别中药材真伪优劣的能力。",
+     "tokens": [
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "采购",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "验收",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "鉴别",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "真伪",
+       "term_id": null
+      },
+      {
+       "t": "优劣",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "能力",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1372,
+   "order_no": 14,
+   "label": "第十四条",
+   "paragraphs": [
+    {
+     "id": 2770,
+     "order_no": 1,
+     "text": "从事养护、仓储保管人员应掌握中药材、中药饮片贮存养护知识与技能。",
+     "tokens": [
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "养护",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "仓储",
+       "term_id": null
+      },
+      {
+       "t": "保管",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "掌握",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "养护",
+       "term_id": null
+      },
+      {
+       "t": "知识",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "技能",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1373,
+   "order_no": 15,
+   "label": "第十五条",
+   "paragraphs": [
+    {
+     "id": 2771,
+     "order_no": 1,
+     "text": "企业应由专人负责培训管理工作，培训的内容应包括中药专业知识、岗位技能和药品GMP相关法规知识等。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应由",
+       "term_id": null
+      },
+      {
+       "t": "专人",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "管理工作",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "中药",
+       "term_id": null
+      },
+      {
+       "t": "专业知识",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "岗位",
+       "term_id": null
+      },
+      {
+       "t": "技能",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "GMP",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "知识",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1374,
+   "order_no": 16,
+   "label": "第十六条",
+   "paragraphs": [
+    {
+     "id": 2772,
+     "order_no": 1,
+     "text": "进入生产区的人员应进行更衣、洗手；进入洁净区的工作服的选材、式样及穿戴方式应符合通则的要求；从事对人体有毒、有害操作的人员应按规定着装防护，其专用工作服与其他操作人员的工作服应分别洗涤、整理，并避免交叉污染。",
+     "tokens": [
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "生产区",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "更衣",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "洗手",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "选材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "式样",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "穿戴",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "通则",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "人体",
+       "term_id": null
+      },
+      {
+       "t": "有毒",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "有害",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "按规定",
+       "term_id": null
+      },
+      {
+       "t": "着装",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工作服",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "分别",
+       "term_id": null
+      },
+      {
+       "t": "洗涤",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "整理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1375,
+   "order_no": 17,
+   "label": "第十七条",
+   "paragraphs": [
+    {
+     "id": 2773,
+     "order_no": 1,
+     "text": "生产区应与生活区严格分开，不得设在同一建筑物内。",
+     "tokens": [
+      {
+       "t": "生产区",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "生活区",
+       "term_id": null
+      },
+      {
+       "t": "严格",
+       "term_id": null
+      },
+      {
+       "t": "分开",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "设在",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "建筑物",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1376,
+   "order_no": 18,
+   "label": "第十八条",
+   "paragraphs": [
+    {
+     "id": 2774,
+     "order_no": 1,
+     "text": "厂房与设施应按生产工艺流程合理布局，并设置与其生产规模相适应的净制、切制、炮炙等操作间。同一厂房内的生产操作之间和相邻厂房之间的生产操作不得互相妨碍。",
+     "tokens": [
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "工艺流程",
+       "term_id": null
+      },
+      {
+       "t": "合理布局",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "与其",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "规模",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "净制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "切制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "炮炙等",
+       "term_id": null
+      },
+      {
+       "t": "操作间",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "之间",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "相邻",
+       "term_id": null
+      },
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "之间",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "互相",
+       "term_id": null
+      },
+      {
+       "t": "妨碍",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1377,
+   "order_no": 19,
+   "label": "第十九条",
+   "paragraphs": [
+    {
+     "id": 2775,
+     "order_no": 1,
+     "text": "直接口服饮片的粉碎、过筛、内包装等生产区域应按照D级洁净区的要求设置，企业应根据产品的标准和特性对该区域采取适当的微生物监控措施。",
+     "tokens": [
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "口服",
+       "term_id": null
+      },
+      {
+       "t": "饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "粉碎",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "过筛",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "内包装",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "D",
+       "term_id": null
+      },
+      {
+       "t": "级",
+       "term_id": null
+      },
+      {
+       "t": "洁净",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "该",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "微生物",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1378,
+   "order_no": 20,
+   "label": "第二十条",
+   "paragraphs": [
+    {
+     "id": 2776,
+     "order_no": 1,
+     "text": "毒性中药材加工、炮制应使用专用设施和设备，并与其他饮片生产区严格分开，生产的废弃物应经过处理并符合要求。",
+     "tokens": [
+      {
+       "t": "毒性",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "专用",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "饮片",
+       "term_id": null
+      },
+      {
+       "t": "生产区",
+       "term_id": null
+      },
+      {
+       "t": "严格",
+       "term_id": null
+      },
+      {
+       "t": "分开",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "废弃物",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "符合要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1379,
+   "order_no": 21,
+   "label": "第二十一条",
+   "paragraphs": [
+    {
+     "id": 2777,
+     "order_no": 1,
+     "text": "厂房地面、墙壁、天棚等内表面应平整，易于清洁，不易产生脱落物，不易滋生霉菌；应有防止昆虫或其他动物等进入的设施，灭鼠药、杀虫剂、烟熏剂等不得对设备、物料、产品造成污染。",
+     "tokens": [
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "地面",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "墙壁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "天棚",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "表面",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "平整",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "易于",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不易",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "脱落",
+       "term_id": null
+      },
+      {
+       "t": "物",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不易",
+       "term_id": null
+      },
+      {
+       "t": "滋生",
+       "term_id": null
+      },
+      {
+       "t": "霉菌",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "昆虫",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "动物",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "进入",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "灭鼠药",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "杀虫剂",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "烟熏",
+       "term_id": null
+      },
+      {
+       "t": "剂",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1380,
+   "order_no": 22,
+   "label": "第二十二条",
+   "paragraphs": [
+    {
+     "id": 2778,
+     "order_no": 1,
+     "text": "中药材净选应设拣选工作台，工作台表面应平整，不易产生脱落物。",
+     "tokens": [
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "净选",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "设",
+       "term_id": null
+      },
+      {
+       "t": "拣选",
+       "term_id": null
+      },
+      {
+       "t": "工作台",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "工作台",
+       "term_id": null
+      },
+      {
+       "t": "表面",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "平整",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不易",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "脱落",
+       "term_id": null
+      },
+      {
+       "t": "物",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1381,
+   "order_no": 23,
+   "label": "第二十三条",
+   "paragraphs": [
+    {
+     "id": 2779,
+     "order_no": 1,
+     "text": "中药饮片炮制过程中产热产汽的工序，应设置必要的通风、除烟、排湿、降温等设施；拣选、筛选、切制、粉碎等易产尘的工序，应当采取有效措施，以控制粉尘扩散，避免污染和交叉污染，如安装捕尘设备、排风设施等。",
+     "tokens": [
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中产",
+       "term_id": null
+      },
+      {
+       "t": "热产汽",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工序",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "通风",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "除烟",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "排湿",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "降温",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "拣选",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "筛选",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "切制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "粉碎",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "易产尘",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工序",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "采取有效",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "粉尘",
+       "term_id": null
+      },
+      {
+       "t": "扩散",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "避免",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "安装",
+       "term_id": null
+      },
+      {
+       "t": "捕尘",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "排风",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1382,
+   "order_no": 24,
+   "label": "第二十四条",
+   "paragraphs": [
+    {
+     "id": 2780,
+     "order_no": 1,
+     "text": "仓库应有足够空间，面积与生产规模相适应。中药材与中药饮片应分库存放；毒性中药材和饮片等有特殊要求的中药材和中药饮片应当设置专库存放，并有相应的防盗及监控设施。",
+     "tokens": [
+      {
+       "t": "仓库",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "足够",
+       "term_id": null
+      },
+      {
+       "t": "空间",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "面积",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "规模",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "分库",
+       "term_id": null
+      },
+      {
+       "t": "存放",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "毒性",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "饮片",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "特殊要求",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "专库",
+       "term_id": null
+      },
+      {
+       "t": "存放",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "防盗",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1383,
+   "order_no": 25,
+   "label": "第二十五条",
+   "paragraphs": [
+    {
+     "id": 2781,
+     "order_no": 1,
+     "text": "仓库内应当配备适当的设施，并采取有效措施，对温、湿度进行监控，保证中药材和中药饮片按照规定条件贮存；贮存易串味、鲜活中药材应当有适当的设施（如专库、冷藏设施）。",
+     "tokens": [
+      {
+       "t": "仓库",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "配备",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "采取有效",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "对温",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "湿度",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "易",
+       "term_id": null
+      },
+      {
+       "t": "串味",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "鲜活",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "专库",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "冷藏",
+       "term_id": null
+      },
+      {
+       "t": "设施",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1384,
+   "order_no": 26,
+   "label": "第二十六条",
+   "paragraphs": [
+    {
+     "id": 2782,
+     "order_no": 1,
+     "text": "应根据中药材、中药饮片的不同特性及炮制工艺的需要，选用能满足生产工艺要求的设备。",
+     "tokens": [
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "特性",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "选用",
+       "term_id": null
+      },
+      {
+       "t": "能",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "生产工艺",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1385,
+   "order_no": 27,
+   "label": "第二十七条",
+   "paragraphs": [
+    {
+     "id": 2783,
+     "order_no": 1,
+     "text": "与中药材、中药饮片直接接触的设备、工具、容器应易清洁消毒，不易产生脱落物，不对中药材、中药饮片质量产生不良影响。",
+     "tokens": [
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "工具",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "应易",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不易",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "脱落",
+       "term_id": null
+      },
+      {
+       "t": "物",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "不良影响",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1386,
+   "order_no": 28,
+   "label": "第二十八条",
+   "paragraphs": [
+    {
+     "id": 2784,
+     "order_no": 1,
+     "text": "中药饮片生产用水至少应为饮用水，企业定期监测生产用水的质量，饮用水每年至少一次送相关检测部门进行检测。",
+     "tokens": [
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "用水",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "应为",
+       "term_id": null
+      },
+      {
+       "t": "饮用水",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "监测",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "用水",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "饮用水",
+       "term_id": null
+      },
+      {
+       "t": "每年",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "一次",
+       "term_id": null
+      },
+      {
+       "t": "送",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检测",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1387,
+   "order_no": 29,
+   "label": "第二十九条",
+   "paragraphs": [
+    {
+     "id": 2785,
+     "order_no": 1,
+     "text": "生产所用原辅料、与药品直接接触的包装材料应当符合相应的质量标准，分别编制批号并管理；所用物料不得对中药饮片质量产生不良影响。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "所用",
+       "term_id": null
+      },
+      {
+       "t": "原辅料",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量标准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "分别",
+       "term_id": null
+      },
+      {
+       "t": "编制",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "所用",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "不良影响",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1388,
+   "order_no": 30,
+   "label": "第三十条",
+   "paragraphs": [
+    {
+     "id": 2786,
+     "order_no": 1,
+     "text": "质量管理部门应当对生产用物料的供应商进行质量评估，并建立质量档案；直接从农户购入中药材应收集农户的身份证明材料，评估所购入中药材质量，并建立质量档案。",
+     "tokens": [
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "从",
+       "term_id": null
+      },
+      {
+       "t": "农户",
+       "term_id": null
+      },
+      {
+       "t": "购入",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "收集",
+       "term_id": null
+      },
+      {
+       "t": "农户",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "身份证明",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "评估所",
+       "term_id": null
+      },
+      {
+       "t": "购入",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1389,
+   "order_no": 31,
+   "label": "第三十一条",
+   "paragraphs": [
+    {
+     "id": 2787,
+     "order_no": 1,
+     "text": "对每次接收的中药材均应当按产地、供应商、采收时间、药材规格等进行分类，分别编制批号并管理。",
+     "tokens": [
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "每次",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "产地",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "采收",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "药材",
+       "term_id": null
+      },
+      {
+       "t": "规格",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "分类",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "分别",
+       "term_id": null
+      },
+      {
+       "t": "编制",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1390,
+   "order_no": 32,
+   "label": "第三十二条",
+   "paragraphs": [
+    {
+     "id": 2788,
+     "order_no": 1,
+     "text": "购入的中药材，每件包装上应有明显标签，注明品名、规格、数量、产地、采收（初加工）时间等信息，毒性中药材等有特殊要求的中药材外包装上应有明显的标志。",
+     "tokens": [
+      {
+       "t": "购入",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "每件",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "明显",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "注明",
+       "term_id": null
+      },
+      {
+       "t": "品名",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "规格",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "数量",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "产地",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "采收",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "初加工",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "信息",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "毒性",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "特殊要求",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "外包装",
+       "term_id": null
+      },
+      {
+       "t": "上",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "明显",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "标志",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1391,
+   "order_no": 33,
+   "label": "第三十三条",
+   "paragraphs": [
+    {
+     "id": 2789,
+     "order_no": 1,
+     "text": "中药饮片应选用能保证其贮存和运输期间质量的包装材料或容器。包装必须印有或者贴有标签，注明品名、规格、产地、生产企业、产品批号、生产日期、执行标准，实施批准文号管理的中药饮片还必须注明药品批准文号。",
+     "tokens": [
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "应选",
+       "term_id": null
+      },
+      {
+       "t": "用能",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "期间",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "印有",
+       "term_id": null
+      },
+      {
+       "t": "或者",
+       "term_id": null
+      },
+      {
+       "t": "贴",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "注明",
+       "term_id": null
+      },
+      {
+       "t": "品名",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "规格",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "产地",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产日期",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "批准文号",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "还",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "注明",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "批准文号",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1392,
+   "order_no": 34,
+   "label": "第三十四条",
+   "paragraphs": [
+    {
+     "id": 2790,
+     "order_no": 1,
+     "text": "直接接触中药饮片的包装材料应至少符合食品包装材料标准。",
+     "tokens": [
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "包装材料",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "食品包装",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1393,
+   "order_no": 35,
+   "label": "第三十五条",
+   "paragraphs": [
+    {
+     "id": 2791,
+     "order_no": 1,
+     "text": "中药材、中药饮片应按质量要求贮存、养护，贮存期间各种养护操作应当建立养护记录；养护方法应当安全有效，以免造成污染和交叉污染。",
+     "tokens": [
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "养护",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "期间",
+       "term_id": null
+      },
+      {
+       "t": "各种",
+       "term_id": null
+      },
+      {
+       "t": "养护",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "养护",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "养护",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "安全",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以免",
+       "term_id": null
+      },
+      {
+       "t": "造成",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1394,
+   "order_no": 36,
+   "label": "第三十六条",
+   "paragraphs": [
+    {
+     "id": 2792,
+     "order_no": 1,
+     "text": "中药材、中药饮片应制定复验期，并按期复验，遇影响质量的异常情况须及时复验。",
+     "tokens": [
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "复验",
+       "term_id": null
+      },
+      {
+       "t": "期",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "按期",
+       "term_id": null
+      },
+      {
+       "t": "复验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "遇",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "异常情况",
+       "term_id": null
+      },
+      {
+       "t": "须",
+       "term_id": null
+      },
+      {
+       "t": "及时",
+       "term_id": null
+      },
+      {
+       "t": "复验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1395,
+   "order_no": 37,
+   "label": "第三十七条",
+   "paragraphs": [
+    {
+     "id": 2793,
+     "order_no": 1,
+     "text": "中药材和中药饮片的运输应不影响其质量，并采取有效可靠的措施，防止中药材和中药饮片发生变质。",
+     "tokens": [
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "运输",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "采取有效",
+       "term_id": null
+      },
+      {
+       "t": "可靠",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "发生",
+       "term_id": null
+      },
+      {
+       "t": "变质",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1396,
+   "order_no": 38,
+   "label": "第三十八条",
+   "paragraphs": [
+    {
+     "id": 2794,
+     "order_no": 1,
+     "text": "进口药材应有国家食品药品监督管理部门批准的证明文件，以及按有关规定办理进口手续的证明文件。",
+     "tokens": [
+      {
+       "t": "进口",
+       "term_id": null
+      },
+      {
+       "t": "药材",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "食品药品",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "证明文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "办理",
+       "term_id": null
+      },
+      {
+       "t": "进口",
+       "term_id": null
+      },
+      {
+       "t": "手续",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "证明文件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1397,
+   "order_no": 39,
+   "label": "第三十九条",
+   "paragraphs": [
+    {
+     "id": 2795,
+     "order_no": 1,
+     "text": "净制、切制可按制法进行工艺验证，炮炙应按品种进行工艺验证，关键工艺参数应在工艺验证中体现。",
+     "tokens": [
+      {
+       "t": "净制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "切制",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "制法",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "炮炙应",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "关键",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "参数",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "体现",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1398,
+   "order_no": 40,
+   "label": "第四十条",
+   "paragraphs": [
+    {
+     "id": 2796,
+     "order_no": 1,
+     "text": "关键生产设备和仪器应进行确认，关键设备应进行清洁验证。直接口服饮片生产车间的空气净化系统应进行确认。",
+     "tokens": [
+      {
+       "t": "关键",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "仪器",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "关键设备",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "口服",
+       "term_id": null
+      },
+      {
+       "t": "饮片",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "车间",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "空气净化",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1399,
+   "order_no": 41,
+   "label": "第四十一条",
+   "paragraphs": [
+    {
+     "id": 2797,
+     "order_no": 1,
+     "text": "生产一定周期后应进行再验证。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "一定",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "后应",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "再",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1400,
+   "order_no": 42,
+   "label": "第四十二条",
+   "paragraphs": [
+    {
+     "id": 2798,
+     "order_no": 1,
+     "text": "验证文件应包括验证总计划、验证方案、验证报告以及记录，确保验证的真实性。",
+     "tokens": [
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "总",
+       "term_id": null
+      },
+      {
+       "t": "计划",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "方案",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "真实性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1401,
+   "order_no": 43,
+   "label": "第四十三条",
+   "paragraphs": [
+    {
+     "id": 2799,
+     "order_no": 1,
+     "text": "中药材和中药饮片质量管理文件至少应包含以下内容：",
+     "tokens": [
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理文件",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "包含",
+       "term_id": null
+      },
+      {
+       "t": "以下内容",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2800,
+     "order_no": 2,
+     "text": "（一）制定物料的购进、验收、贮存、养护制度，并分类制定中药材和中药饮片的养护操作规程；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "购进",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "验收",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "贮存",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "养护",
+       "term_id": null
+      },
+      {
+       "t": "制度",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "分类",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "养护",
+       "term_id": null
+      },
+      {
+       "t": "操作规程",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2801,
+     "order_no": 3,
+     "text": "（二）制定每种中药饮片的生产工艺规程，各关键工艺参数必须明确，如：中药材投料量、辅料用量、浸润时间、片型、炒制温度和时间（火候）、蒸煮压力和时间等要求；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "每种",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产工艺",
+       "term_id": null
+      },
+      {
+       "t": "规程",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "各",
+       "term_id": null
+      },
+      {
+       "t": "关键",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "参数",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "量",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "辅料",
+       "term_id": null
+      },
+      {
+       "t": "用量",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "浸润",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "片型",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "炒制",
+       "term_id": null
+      },
+      {
+       "t": "温度",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "火候",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "蒸煮",
+       "term_id": null
+      },
+      {
+       "t": "压力",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2802,
+     "order_no": 4,
+     "text": "（三）根据中药材的质量、投料量、生产工艺等因素，制定每种中药饮片的收率限度范围, 关键工序应制定物料平衡参数。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "量",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产工艺",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "因素",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "每种",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "收率",
+       "term_id": null
+      },
+      {
+       "t": "限度",
+       "term_id": null
+      },
+      {
+       "t": "范围",
+       "term_id": null
+      },
+      {
+       "t": ",",
+       "term_id": null
+      },
+      {
+       "t": " ",
+       "term_id": null
+      },
+      {
+       "t": "关键",
+       "term_id": null
+      },
+      {
+       "t": "工序",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "平衡",
+       "term_id": null
+      },
+      {
+       "t": "参数",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2803,
+     "order_no": 5,
+     "text": "（四）制定每种中药材、中药饮片的质量标准及相应的检验操作规程，制定中间产品、待包装产品的质量控制指标。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "每种",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量标准",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "操作规程",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "待",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "指标",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1402,
+   "order_no": 44,
+   "label": "第四十四条",
+   "paragraphs": [
+    {
+     "id": 2804,
+     "order_no": 1,
+     "text": "应当对从中药饮片生产和包装的全过程的生产管理和质量控制情况进行记录，批记录至少包括以下内容：",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "从",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "以下内容",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2805,
+     "order_no": 2,
+     "text": "（一）批生产和包装指令；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "批",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "指令",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2806,
+     "order_no": 3,
+     "text": "（二）中药材以及辅料的名称、批号、投料量及投料记录；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "辅料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "名称",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "量",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2807,
+     "order_no": 4,
+     "text": "（三）净制、切制、炮炙工艺的设备编号；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "三",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "净制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "切制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "炮",
+       "term_id": null
+      },
+      {
+       "t": "炙",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "编号",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2808,
+     "order_no": 5,
+     "text": "（四）生产前的检查和核对的记录；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "四",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检查和",
+       "term_id": null
+      },
+      {
+       "t": "核对",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2809,
+     "order_no": 6,
+     "text": "（五）各工序的生产操作记录，包括各关键工序的技术参数；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "五",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "各",
+       "term_id": null
+      },
+      {
+       "t": "工序",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "各",
+       "term_id": null
+      },
+      {
+       "t": "关键",
+       "term_id": null
+      },
+      {
+       "t": "工序",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术参数",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2810,
+     "order_no": 7,
+     "text": "（六）清场记录；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "六",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "清场",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2811,
+     "order_no": 8,
+     "text": "（七）关键控制点及工艺执行情况检查审核记录；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "七",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "关键",
+       "term_id": null
+      },
+      {
+       "t": "控制点",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "检查",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2812,
+     "order_no": 9,
+     "text": "（八）产品标签的实样；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "八",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实样",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2813,
+     "order_no": 10,
+     "text": "（九）不同工序的产量，必要环节物料平衡的计算；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "九",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "工序",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产量",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "环节",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "平衡",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "计算",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2814,
+     "order_no": 11,
+     "text": "（十）对特殊问题和异常事件的记录，包括偏离生产工艺规程等偏差情况的说明和调查，并经签字批准；",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "十",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "特殊",
+       "term_id": null
+      },
+      {
+       "t": "问题",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "异常",
+       "term_id": null
+      },
+      {
+       "t": "事件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "偏离",
+       "term_id": null
+      },
+      {
+       "t": "生产工艺",
+       "term_id": null
+      },
+      {
+       "t": "规程",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "偏差",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "说明",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "调查",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "签字",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2815,
+     "order_no": 12,
+     "text": "（十一）中药材、中间产品、待包装产品中药饮片的检验记录和审核放行记录。",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "十一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "待",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "放行",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1403,
+   "order_no": 45,
+   "label": "第四十五条",
+   "paragraphs": [
+    {
+     "id": 2816,
+     "order_no": 1,
+     "text": "净制后的中药材和中药饮片不得直接接触地面。中药材、中药饮片晾晒应有有效的防虫、防雨等防污染措施。",
+     "tokens": [
+      {
+       "t": "净制",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "地面",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "晾晒",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "防虫",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "防雨",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "防污染",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1404,
+   "order_no": 46,
+   "label": "第四十六条",
+   "paragraphs": [
+    {
+     "id": 2817,
+     "order_no": 1,
+     "text": "应当使用流动的饮用水清洗中药材，用过的水不得用于清洗其他中药材。不同的中药材不得同时在同一容器中清洗、浸润。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "流动",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "饮用水",
+       "term_id": null
+      },
+      {
+       "t": "清洗",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "用过",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "水",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "清洗",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "同时",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "容器",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "清洗",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "浸润",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1405,
+   "order_no": 47,
+   "label": "第四十七条",
+   "paragraphs": [
+    {
+     "id": 2818,
+     "order_no": 1,
+     "text": "毒性中药材和毒性中药饮片的生产操作应当有防止污染和交叉污染的措施，并对中药材炮制的全过程进行有效监控。",
+     "tokens": [
+      {
+       "t": "毒性",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "毒性",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "监控",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1406,
+   "order_no": 48,
+   "label": "第四十八条",
+   "paragraphs": [
+    {
+     "id": 2819,
+     "order_no": 1,
+     "text": "中药饮片以中药材投料日期作为生产日期。",
+     "tokens": [
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "以",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "投料",
+       "term_id": null
+      },
+      {
+       "t": "日期",
+       "term_id": null
+      },
+      {
+       "t": "作为",
+       "term_id": null
+      },
+      {
+       "t": "生产日期",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1407,
+   "order_no": 49,
+   "label": "第四十九条",
+   "paragraphs": [
+    {
+     "id": 2820,
+     "order_no": 1,
+     "text": "中药饮片应以同一批中药材在同一连续生产周期生产的一定数量相对均质的成品为一批。",
+     "tokens": [
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "应以",
+       "term_id": null
+      },
+      {
+       "t": "同",
+       "term_id": null
+      },
+      {
+       "t": "一批",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "连续",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "一定",
+       "term_id": null
+      },
+      {
+       "t": "数量",
+       "term_id": null
+      },
+      {
+       "t": "相对",
+       "term_id": null
+      },
+      {
+       "t": "均质",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "一批",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1408,
+   "order_no": 50,
+   "label": "第五十条",
+   "paragraphs": [
+    {
+     "id": 2821,
+     "order_no": 1,
+     "text": "在同一操作间内同时进行不同品种、规格的中药饮片生产操作应有防止交叉污染的隔离措施。",
+     "tokens": [
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "操作间",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "同时",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "不同",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "规格",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "应有",
+       "term_id": null
+      },
+      {
+       "t": "防止",
+       "term_id": null
+      },
+      {
+       "t": "交叉",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "隔离",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1409,
+   "order_no": 51,
+   "label": "第五十一条",
+   "paragraphs": [
+    {
+     "id": 2822,
+     "order_no": 1,
+     "text": "中药材和中药饮片应按法定标准进行检验。如中药材、中间产品、待包装产品的检验结果用于中药饮片的质量评价，应经过评估，并制定与中药饮片质量标准相适应的中药材、中间产品质量标准，引用的检验结果应在中药饮片检验报告中注明。",
+     "tokens": [
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "按",
+       "term_id": null
+      },
+      {
+       "t": "法定标准",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "待",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "评价",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "质量标准",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中间",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "引用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "注明",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1410,
+   "order_no": 52,
+   "label": "第五十二条",
+   "paragraphs": [
+    {
+     "id": 2823,
+     "order_no": 1,
+     "text": "企业应配备必要的检验仪器，并有相应标准操作规程和使用记录；检验仪器应能满足实际生产品种要求，除重金属及有害元素、农药残留、黄曲霉毒素等特殊检验项目和使用频次较少的大型仪器外，原则上不允许委托检验。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "配备",
+       "term_id": null
+      },
+      {
+       "t": "必要",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "仪器",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "操作规程",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "；",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "仪器",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "能",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "实际",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "除",
+       "term_id": null
+      },
+      {
+       "t": "重金属",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "有害",
+       "term_id": null
+      },
+      {
+       "t": "元素",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "农药",
+       "term_id": null
+      },
+      {
+       "t": "残留",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "黄曲霉",
+       "term_id": null
+      },
+      {
+       "t": "毒素",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "特殊",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "项目",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "频次",
+       "term_id": null
+      },
+      {
+       "t": "较少",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "大型",
+       "term_id": null
+      },
+      {
+       "t": "仪器",
+       "term_id": null
+      },
+      {
+       "t": "外",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "原则上",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "允许",
+       "term_id": null
+      },
+      {
+       "t": "委托",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1411,
+   "order_no": 53,
+   "label": "第五十三条",
+   "paragraphs": [
+    {
+     "id": 2824,
+     "order_no": 1,
+     "text": "每批中药材和中药饮片应当留样。中药材留样量至少能满足鉴别的需要，中药饮片留样量至少应为两倍检验量，毒性药材及毒性饮片的留样应符合医疗用毒性药品的管理规定。留样时间应当有规定，中药饮片留样时间至少为放行后一年。",
+     "tokens": [
+      {
+       "t": "每批",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "留样量",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "能",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "鉴别",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "需要",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "留样量",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "应为",
+       "term_id": null
+      },
+      {
+       "t": "两倍",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "量",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "毒性",
+       "term_id": null
+      },
+      {
+       "t": "药材",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "毒性",
+       "term_id": null
+      },
+      {
+       "t": "饮片",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "医疗",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "毒性",
+       "term_id": null
+      },
+      {
+       "t": "药品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "留样",
+       "term_id": null
+      },
+      {
+       "t": "时间",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "放行",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "一年",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1412,
+   "order_no": 54,
+   "label": "第五十四条",
+   "paragraphs": [
+    {
+     "id": 2825,
+     "order_no": 1,
+     "text": "企业应设置中药标本室（柜），标本品种至少包括生产所用的中药材和中药饮片。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "中药",
+       "term_id": null
+      },
+      {
+       "t": "标本室",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "柜",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "标本",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "所用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1413,
+   "order_no": 55,
+   "label": "第五十五条",
+   "paragraphs": [
+    {
+     "id": 2826,
+     "order_no": 1,
+     "text": "企业可选取产量较大及质量不稳定的品种进行年度质量回顾分析，其他品种也应定期进行产品质量回顾分析，回顾的品种应涵盖企业的所有炮制范围。",
+     "tokens": [
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "选取",
+       "term_id": null
+      },
+      {
+       "t": "产量",
+       "term_id": null
+      },
+      {
+       "t": "较大",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "稳定",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "年度",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "回顾",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其他",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "也",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "回顾",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "回顾",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "涵盖",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "所有",
+       "term_id": null
+      },
+      {
+       "t": "炮制",
+       "term_id": null
+      },
+      {
+       "t": "范围",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 1414,
+   "order_no": 56,
+   "label": "第五十六条",
+   "paragraphs": [
+    {
+     "id": 2827,
+     "order_no": 1,
+     "text": "下列术语含义是：",
+     "tokens": [
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "术语",
+       "term_id": null
+      },
+      {
+       "t": "含义",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2828,
+     "order_no": 2,
+     "text": "（一）直接口服中药饮片",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "一",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "口服",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2829,
+     "order_no": 3,
+     "text": "指标准中明确使用过程无需经过煎煮，可直接口服或冲服的中药饮片。",
+     "tokens": [
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "无需",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "煎煮",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "口服",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "冲服",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2830,
+     "order_no": 4,
+     "text": "（二）产地趁鲜加工中药饮片",
+     "tokens": [
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "二",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "产地",
+       "term_id": null
+      },
+      {
+       "t": "趁鲜",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 2831,
+     "order_no": 5,
+     "text": "指在产地用鲜活中药材进行切制等加工中药饮片。不包括中药材的产地初加工。",
+     "tokens": [
+      {
+       "t": "指在",
+       "term_id": null
+      },
+      {
+       "t": "产地",
+       "term_id": null
+      },
+      {
+       "t": "用",
+       "term_id": null
+      },
+      {
+       "t": "鲜活",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "切制",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "中药饮片",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "中药材",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产地",
+       "term_id": null
+      },
+      {
+       "t": "初加工",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

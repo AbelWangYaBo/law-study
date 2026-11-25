@@ -1,0 +1,5211 @@
+{
+ "id": 14,
+ "name": "医疗器械生产质量管理规范附录 定制式义齿",
+ "doc_number": "国家食品药品监督管理总局公告2016年第195号",
+ "authority": "原国家食药总局",
+ "level": "规范性文件",
+ "effective_date": "2018-01-01",
+ "articles": [
+  {
+   "id": 686,
+   "order_no": 1,
+   "label": "1.1",
+   "paragraphs": [
+    {
+     "id": 1177,
+     "order_no": 1,
+     "text": "本附录中所指的定制式义齿是指根据医疗机构提供的患者口腔印模、口腔模型、口腔扫描数据及产品制作设计单，经过加工制作，最终为患者提供的能够恢复牙体缺损、牙列缺损、牙列缺失的形态、功能及外观的牙修复体，不包含齿科种植体。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "所指",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "定",
+       "term_id": null
+      },
+      {
+       "t": "制式",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "医疗机构",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "患者",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "印模",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "模型",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "扫描",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "制作",
+       "term_id": null
+      },
+      {
+       "t": "设计",
+       "term_id": null
+      },
+      {
+       "t": "单",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "经过",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "制作",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "最终",
+       "term_id": null
+      },
+      {
+       "t": "为",
+       "term_id": null
+      },
+      {
+       "t": "患者",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "能够",
+       "term_id": null
+      },
+      {
+       "t": "恢复",
+       "term_id": null
+      },
+      {
+       "t": "牙体",
+       "term_id": null
+      },
+      {
+       "t": "缺损",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "牙列",
+       "term_id": null
+      },
+      {
+       "t": "缺损",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "牙列",
+       "term_id": null
+      },
+      {
+       "t": "缺失",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "形态",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "外观",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "牙",
+       "term_id": null
+      },
+      {
+       "t": "修复",
+       "term_id": null
+      },
+      {
+       "t": "体",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "包含",
+       "term_id": null
+      },
+      {
+       "t": "齿科",
+       "term_id": null
+      },
+      {
+       "t": "种植体",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 687,
+   "order_no": 2,
+   "label": "1.2",
+   "paragraphs": [
+    {
+     "id": 1178,
+     "order_no": 1,
+     "text": "本附录是对定制式义齿生产质量管理规范的特殊要求。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "对定",
+       "term_id": null
+      },
+      {
+       "t": "制式",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "特殊要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 688,
+   "order_no": 3,
+   "label": "2.1.1",
+   "paragraphs": [
+    {
+     "id": 1179,
+     "order_no": 1,
+     "text": "技术、生产和质量管理负责人应当具有口腔修复学相关专业知识，并具有相应的实践经验，应当有能力对生产管理和质量管理中实际问题作出正确判断和处理。",
+     "tokens": [
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "负责人",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "修复",
+       "term_id": null
+      },
+      {
+       "t": "学",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业知识",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实践经验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "能力",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "实际",
+       "term_id": null
+      },
+      {
+       "t": "问题",
+       "term_id": null
+      },
+      {
+       "t": "作出",
+       "term_id": null
+      },
+      {
+       "t": "正确",
+       "term_id": null
+      },
+      {
+       "t": "判断",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 689,
+   "order_no": 4,
+   "label": "2.1.2",
+   "paragraphs": [
+    {
+     "id": 1180,
+     "order_no": 1,
+     "text": "从事产品生产的人员应当掌握所在岗位的技术和要求，并接受过口腔修复学等相关专业知识和实际操作技能的培训。",
+     "tokens": [
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "掌握",
+       "term_id": null
+      },
+      {
+       "t": "所在",
+       "term_id": null
+      },
+      {
+       "t": "岗位",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "接受",
+       "term_id": null
+      },
+      {
+       "t": "过",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "修复",
+       "term_id": null
+      },
+      {
+       "t": "学等",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业知识",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "实际",
+       "term_id": null
+      },
+      {
+       "t": "操作技能",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 690,
+   "order_no": 5,
+   "label": "2.1.3",
+   "paragraphs": [
+    {
+     "id": 1181,
+     "order_no": 1,
+     "text": "专职检验人员应当接受过口腔修复学等相关专业知识培训，具有相应的实际操作技能。",
+     "tokens": [
+      {
+       "t": "专职",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "接受",
+       "term_id": null
+      },
+      {
+       "t": "过",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "修复",
+       "term_id": null
+      },
+      {
+       "t": "学等",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "专业知识",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "实际",
+       "term_id": null
+      },
+      {
+       "t": "操作技能",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 691,
+   "order_no": 6,
+   "label": "2.1.4",
+   "paragraphs": [
+    {
+     "id": 1182,
+     "order_no": 1,
+     "text": "应当对从事与产品质量有影响人员的健康进行管理，并建立健康档案。直接接触物料和产品的操作人员每年至少体检一次，患有传染性、感染性疾病的人员不得从事直接接触产品的工作。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "健康",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "健康",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "每年",
+       "term_id": null
+      },
+      {
+       "t": "至少",
+       "term_id": null
+      },
+      {
+       "t": "体检",
+       "term_id": null
+      },
+      {
+       "t": "一次",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "患有",
+       "term_id": null
+      },
+      {
+       "t": "传染性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "感染性",
+       "term_id": null
+      },
+      {
+       "t": "疾病",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "从事",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "接触",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 692,
+   "order_no": 7,
+   "label": "2.2.1",
+   "paragraphs": [
+    {
+     "id": 1183,
+     "order_no": 1,
+     "text": "厂房不得设在居民住宅等不适合生产的场所。",
+     "tokens": [
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "设在",
+       "term_id": null
+      },
+      {
+       "t": "居民",
+       "term_id": null
+      },
+      {
+       "t": "住宅",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "适合",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "场所",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 693,
+   "order_no": 8,
+   "label": "2.2.2",
+   "paragraphs": [
+    {
+     "id": 1184,
+     "order_no": 1,
+     "text": "生产环境应当整洁、卫生。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "整洁",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "卫生",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 694,
+   "order_no": 9,
+   "label": "2.2.3",
+   "paragraphs": [
+    {
+     "id": 1185,
+     "order_no": 1,
+     "text": "铸造、喷砂、石膏制作等易产尘、易污染等区域应当独立设置，并定期清洁。产品上瓷、清洗和包装等相对清洁的区域应当与易产尘、易污染等区域保持相对独立。",
+     "tokens": [
+      {
+       "t": "铸造",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "喷砂",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "石膏",
+       "term_id": null
+      },
+      {
+       "t": "制作",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "易产尘",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "易",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "独立设置",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "上瓷",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "清洗",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "相对",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "易产尘",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "易",
+       "term_id": null
+      },
+      {
+       "t": "污染",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "相对",
+       "term_id": null
+      },
+      {
+       "t": "独立",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 695,
+   "order_no": 10,
+   "label": "2.2.4",
+   "paragraphs": [
+    {
+     "id": 1186,
+     "order_no": 1,
+     "text": "应当对消毒、生产、检验、仓储等区域合理区分，并与产品生产规模、品种相适应。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "仓储",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "区域",
+       "term_id": null
+      },
+      {
+       "t": "合理",
+       "term_id": null
+      },
+      {
+       "t": "区分",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "规模",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "品种",
+       "term_id": null
+      },
+      {
+       "t": "相适应",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 696,
+   "order_no": 11,
+   "label": "2.2.5",
+   "paragraphs": [
+    {
+     "id": 1187,
+     "order_no": 1,
+     "text": "易燃、易爆、有毒、有害的物料应当专区存放、标识明显，专人保管和发放。",
+     "tokens": [
+      {
+       "t": "易燃",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "易爆",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "有毒",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "有害",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "专区",
+       "term_id": null
+      },
+      {
+       "t": "存放",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "明显",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "专人",
+       "term_id": null
+      },
+      {
+       "t": "保管",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "发放",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 697,
+   "order_no": 12,
+   "label": "2.2.6",
+   "paragraphs": [
+    {
+     "id": 1188,
+     "order_no": 1,
+     "text": "应当对生产过程中产生粉尘、烟雾、毒害物等有害物质的厂房、设备安装相应的防护装置，采取有效的防护措施，确保对工作环境、人员的防护。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "粉尘",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "烟雾",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "毒害",
+       "term_id": null
+      },
+      {
+       "t": "物等",
+       "term_id": null
+      },
+      {
+       "t": "有害物质",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "厂房",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "安装",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "防护装置",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "采取有效",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 698,
+   "order_no": 13,
+   "label": "2.3.1",
+   "paragraphs": [
+    {
+     "id": 1189,
+     "order_no": 1,
+     "text": "对于通过切削技术（CAD/CAM）、增材制造技术（3D打印）生产产品的，应当配备相应的生产设备、工艺装备及计算机辅助设计和制作系统。",
+     "tokens": [
+      {
+       "t": "对于",
+       "term_id": null
+      },
+      {
+       "t": "通过",
+       "term_id": null
+      },
+      {
+       "t": "切削",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "CAD/CAM",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "增材",
+       "term_id": null
+      },
+      {
+       "t": "制造",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "3D",
+       "term_id": null
+      },
+      {
+       "t": "打印",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "配备",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "装备",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "计算机辅助",
+       "term_id": null
+      },
+      {
+       "t": "设计",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "制作",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 699,
+   "order_no": 14,
+   "label": "2.4.1",
+   "paragraphs": [
+    {
+     "id": 1190,
+     "order_no": 1,
+     "text": "生产按照第二类医疗器械注册的定制式义齿，应当采购经食品药品监督管理部门批准注册或备案的义齿原材料，其技术指标应当符合强制性标准或经注册或备案的产品技术要求。",
+     "tokens": [
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "第二类",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "定",
+       "term_id": null
+      },
+      {
+       "t": "制式",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "采购",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "食品药品",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "部门",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其",
+       "term_id": null
+      },
+      {
+       "t": "技术指标",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "强制性",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "或经",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 700,
+   "order_no": 15,
+   "label": "2.4.2",
+   "paragraphs": [
+    {
+     "id": 1191,
+     "order_no": 1,
+     "text": "使用未注册或备案的义齿原材料生产的定制式义齿按照第三类医疗器械管理，并应当具有相应的生产许可。",
+     "tokens": [
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "未注册",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "定",
+       "term_id": null
+      },
+      {
+       "t": "制式",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "第三类",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "许可",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 701,
+   "order_no": 16,
+   "label": "2.4.3",
+   "paragraphs": [
+    {
+     "id": 1192,
+     "order_no": 1,
+     "text": "经注册或备案的义齿原材料标签和说明书要求应符合《医疗器械说明书和标签管理规定》，进口的义齿原材料标签和说明书文字内容应当使用中文。",
+     "tokens": [
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "注册",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "备案",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "说明书",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "应",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "《",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "说明书",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "》",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "进口",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "说明书",
+       "term_id": null
+      },
+      {
+       "t": "文字",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "中文",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 702,
+   "order_no": 17,
+   "label": "2.4.4",
+   "paragraphs": [
+    {
+     "id": 1193,
+     "order_no": 1,
+     "text": "应当选择具有合法资质的义齿原材料供应商，核实并保存供方资质证明文件，并建立档案。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "选择",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "合法",
+       "term_id": null
+      },
+      {
+       "t": "资质",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "核实",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "供方",
+       "term_id": null
+      },
+      {
+       "t": "资质",
+       "term_id": null
+      },
+      {
+       "t": "证明文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 703,
+   "order_no": 18,
+   "label": "2.4.5",
+   "paragraphs": [
+    {
+     "id": 1194,
+     "order_no": 1,
+     "text": "应当在金属原材料进货检验时查阅、留存金属原材料生产企业的出厂检验报告。出厂检验报告中应当包含有关金属元素限定指标的检验项目，如检验报告中不能涵盖有关金属元素的限定指标，应当要求金属原材料生产企业对金属元素限定指标进行检验，并保存相关检验结果。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "进货",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "时",
+       "term_id": null
+      },
+      {
+       "t": "查阅",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "留存",
+       "term_id": null
+      },
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "出厂",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "出厂",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "包含",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "金属元素",
+       "term_id": null
+      },
+      {
+       "t": "限定",
+       "term_id": null
+      },
+      {
+       "t": "指标",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "项目",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "不能",
+       "term_id": null
+      },
+      {
+       "t": "涵盖",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "金属元素",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "限定",
+       "term_id": null
+      },
+      {
+       "t": "指标",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "金属元素",
+       "term_id": null
+      },
+      {
+       "t": "限定",
+       "term_id": null
+      },
+      {
+       "t": "指标",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "结果",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 704,
+   "order_no": 19,
+   "label": "2.4.6",
+   "paragraphs": [
+    {
+     "id": 1195,
+     "order_no": 1,
+     "text": "金属原材料生产企业不能提供有关金属元素的限定指标的检验记录的，应当对金属原材料进行检验或不予采购。",
+     "tokens": [
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "不能",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "金属元素",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "限定",
+       "term_id": null
+      },
+      {
+       "t": "指标",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "不予",
+       "term_id": null
+      },
+      {
+       "t": "采购",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 705,
+   "order_no": 20,
+   "label": "2.4.7",
+   "paragraphs": [
+    {
+     "id": 1196,
+     "order_no": 1,
+     "text": "应当制定口腔印模、口腔模型、口腔扫描数据及设计单的接收准则。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "制定",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "印模",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "模型",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "扫描",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "设计",
+       "term_id": null
+      },
+      {
+       "t": "单",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "准则",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 706,
+   "order_no": 21,
+   "label": "2.5.1",
+   "paragraphs": [
+    {
+     "id": 1197,
+     "order_no": 1,
+     "text": "应当编制产品生产工艺规程、作业指导书等，明确关键工序和特殊过程。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "编制",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "生产工艺",
+       "term_id": null
+      },
+      {
+       "t": "规程",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "作业",
+       "term_id": null
+      },
+      {
+       "t": "指导书",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "关键",
+       "term_id": null
+      },
+      {
+       "t": "工序",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "特殊",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 707,
+   "order_no": 22,
+   "label": "2.5.2",
+   "paragraphs": [
+    {
+     "id": 1198,
+     "order_no": 1,
+     "text": "应当明确口腔印模、口腔模型及成品的消毒方法，并按照要求进行消毒。成品经消毒、包装后方可出厂。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "印模",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "模型",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "后方",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "出厂",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 708,
+   "order_no": 23,
+   "label": "2.5.3",
+   "paragraphs": [
+    {
+     "id": 1199,
+     "order_no": 1,
+     "text": "应当建立接收区、模型工件盒的消毒规定，并对生产区工作台面进行定期清洁，保存相关记录。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "接收",
+       "term_id": null
+      },
+      {
+       "t": "区",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "模型",
+       "term_id": null
+      },
+      {
+       "t": "工件",
+       "term_id": null
+      },
+      {
+       "t": "盒",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "生产区",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "台面",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "清洁",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 709,
+   "order_no": 24,
+   "label": "2.5.4",
+   "paragraphs": [
+    {
+     "id": 1200,
+     "order_no": 1,
+     "text": "金属尾料的添加要求应当按照金属原材料生产企业提供的产品说明书执行。",
+     "tokens": [
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "尾料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "添加",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "说明书",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 710,
+   "order_no": 25,
+   "label": "2.5.5",
+   "paragraphs": [
+    {
+     "id": 1201,
+     "order_no": 1,
+     "text": "应当对产品生产后废料的处理进行规定，应当符合环境保护的相关要求，并保留处理记录。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "废料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "环境保护",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保留",
+       "term_id": null
+      },
+      {
+       "t": "处理",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 711,
+   "order_no": 26,
+   "label": "2.5.6",
+   "paragraphs": [
+    {
+     "id": 1202,
+     "order_no": 1,
+     "text": "应当对主要义齿原材料进行物料平衡核查，确保主要义齿原材料实际用量与理论用量在允许的偏差范围内，如有显著差异，必须查明原因。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "主要",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "平衡",
+       "term_id": null
+      },
+      {
+       "t": "核查",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "主要",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "实际",
+       "term_id": null
+      },
+      {
+       "t": "用量",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "理论",
+       "term_id": null
+      },
+      {
+       "t": "用量",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "允许",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "偏差",
+       "term_id": null
+      },
+      {
+       "t": "范围",
+       "term_id": null
+      },
+      {
+       "t": "内",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "如",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "显著",
+       "term_id": null
+      },
+      {
+       "t": "差异",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "必须",
+       "term_id": null
+      },
+      {
+       "t": "查明",
+       "term_id": null
+      },
+      {
+       "t": "原因",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 712,
+   "order_no": 27,
+   "label": "2.5.7",
+   "paragraphs": [
+    {
+     "id": 1203,
+     "order_no": 1,
+     "text": "每个产品均应当有生产记录，并满足可追溯要求。生产记录应当包括所用的主要义齿原材料生产企业名称、主要义齿原材料名称、金属品牌型号、批号/编号、主要生产设备名称或编号、操作人员等内容。",
+     "tokens": [
+      {
+       "t": "每个",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "所用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "主要",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "名称",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "主要",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "名称",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "品牌",
+       "term_id": null
+      },
+      {
+       "t": "型号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "批号",
+       "term_id": null
+      },
+      {
+       "t": "/",
+       "term_id": null
+      },
+      {
+       "t": "编号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "主要",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "名称",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "编号",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "操作",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 713,
+   "order_no": 28,
+   "label": "2.6.1",
+   "paragraphs": [
+    {
+     "id": 1204,
+     "order_no": 1,
+     "text": "每个产品均应当有检验记录，并满足可追溯要求。检验要求应当不低于强制性标准要求和国家有关产品的相关规定。",
+     "tokens": [
+      {
+       "t": "每个",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "有",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "低于",
+       "term_id": null
+      },
+      {
+       "t": "强制性",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "国家有关",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "规定",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 714,
+   "order_no": 29,
+   "label": "2.6.2",
+   "paragraphs": [
+    {
+     "id": 1205,
+     "order_no": 1,
+     "text": "产品生产过程中可能增加或产生有害金属元素的，应当按照有关行业标准的要求对金属元素限定指标进行检验。",
+     "tokens": [
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "增加",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "有害",
+       "term_id": null
+      },
+      {
+       "t": "金属元素",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "按照",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "行业标准",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "金属元素",
+       "term_id": null
+      },
+      {
+       "t": "限定",
+       "term_id": null
+      },
+      {
+       "t": "指标",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 715,
+   "order_no": 30,
+   "label": "2.7.1",
+   "paragraphs": [
+    {
+     "id": 1206,
+     "order_no": 1,
+     "text": "应当选择具有合法资质的医疗机构，保存医疗机构执业资质证明文件，并建立档案。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "选择",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "合法",
+       "term_id": null
+      },
+      {
+       "t": "资质",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "医疗机构",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保存",
+       "term_id": null
+      },
+      {
+       "t": "医疗机构",
+       "term_id": null
+      },
+      {
+       "t": "执业",
+       "term_id": null
+      },
+      {
+       "t": "资质",
+       "term_id": null
+      },
+      {
+       "t": "证明文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "档案",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 716,
+   "order_no": 31,
+   "label": "2.7.2",
+   "paragraphs": [
+    {
+     "id": 1207,
+     "order_no": 1,
+     "text": "应当建立产品销售记录，确保与医疗机构间的产品可追溯。销售的产品应当附有标签、检验合格证、说明书和设计单。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "产品销售",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确保",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "医疗机构",
+       "term_id": null
+      },
+      {
+       "t": "间",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "销售",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "附有",
+       "term_id": null
+      },
+      {
+       "t": "标签",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "检验",
+       "term_id": null
+      },
+      {
+       "t": "合格证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "说明书",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "设计",
+       "term_id": null
+      },
+      {
+       "t": "单",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 717,
+   "order_no": 32,
+   "label": "2.8.1",
+   "paragraphs": [
+    {
+     "id": 1208,
+     "order_no": 1,
+     "text": "应当对医疗机构返回的产品进行消毒、评审。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "医疗机构",
+       "term_id": null
+      },
+      {
+       "t": "返回",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "消毒",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 718,
+   "order_no": 33,
+   "label": "3.1",
+   "paragraphs": [
+    {
+     "id": 1209,
+     "order_no": 1,
+     "text": "下列术语的含义是：",
+     "tokens": [
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "术语",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "含义",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1210,
+     "order_no": 2,
+     "text": "口腔印模：是指口腔有关组织的印模，反映了与修复有关的口腔软、硬组织的情况。",
+     "tokens": [
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "印模",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "印模",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "反映",
+       "term_id": null
+      },
+      {
+       "t": "了",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "修复",
+       "term_id": null
+      },
+      {
+       "t": "有关",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "软",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "硬",
+       "term_id": null
+      },
+      {
+       "t": "组织",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1211,
+     "order_no": 3,
+     "text": "口腔模型：是指由口腔印模灌注成的模型。",
+     "tokens": [
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "模型",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指由",
+       "term_id": null
+      },
+      {
+       "t": "口腔",
+       "term_id": null
+      },
+      {
+       "t": "印模",
+       "term_id": null
+      },
+      {
+       "t": "灌注",
+       "term_id": null
+      },
+      {
+       "t": "成",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "模型",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1212,
+     "order_no": 4,
+     "text": "设计单：是对定制式义齿生产过程的书面指导，是生产定制式义齿前填写的数据证明文件。",
+     "tokens": [
+      {
+       "t": "设计",
+       "term_id": null
+      },
+      {
+       "t": "单",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "对定",
+       "term_id": null
+      },
+      {
+       "t": "制式",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "书面",
+       "term_id": null
+      },
+      {
+       "t": "指导",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "定",
+       "term_id": null
+      },
+      {
+       "t": "制式",
+       "term_id": null
+      },
+      {
+       "t": "义齿",
+       "term_id": null
+      },
+      {
+       "t": "前",
+       "term_id": null
+      },
+      {
+       "t": "填写",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "证明文件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1213,
+     "order_no": 5,
+     "text": "切削技术（CAD/CAM）：计算机辅助设计与制造技术，主要用于材料去除、切削加工。",
+     "tokens": [
+      {
+       "t": "切削",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "CAD/CAM",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "计算机辅助",
+       "term_id": null
+      },
+      {
+       "t": "设计",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "制造",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "主要",
+       "term_id": null
+      },
+      {
+       "t": "用于",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "切削",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1214,
+     "order_no": 6,
+     "text": "增材制造技术（3D打印）：是采用材料逐渐累加的方法制造实体零件的技术，相对于传统的材料去除、切削加工技术，是一种“自下而上”的制造方法。",
+     "tokens": [
+      {
+       "t": "增材",
+       "term_id": null
+      },
+      {
+       "t": "制造",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "（",
+       "term_id": null
+      },
+      {
+       "t": "3D",
+       "term_id": null
+      },
+      {
+       "t": "打印",
+       "term_id": null
+      },
+      {
+       "t": "）",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "采用",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "逐渐",
+       "term_id": null
+      },
+      {
+       "t": "累加",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "制造",
+       "term_id": null
+      },
+      {
+       "t": "实体",
+       "term_id": null
+      },
+      {
+       "t": "零件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "相对",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "传统",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "切削",
+       "term_id": null
+      },
+      {
+       "t": "加工",
+       "term_id": null
+      },
+      {
+       "t": "技术",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "一种",
+       "term_id": null
+      },
+      {
+       "t": "“",
+       "term_id": null
+      },
+      {
+       "t": "自下而上",
+       "term_id": null
+      },
+      {
+       "t": "”",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "制造",
+       "term_id": null
+      },
+      {
+       "t": "方法",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1215,
+     "order_no": 7,
+     "text": "金属原材料：具有合金、贵金属或非贵金属属性的材料。",
+     "tokens": [
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "原材料",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "合金",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "贵金属",
+       "term_id": null
+      },
+      {
+       "t": "或非",
+       "term_id": null
+      },
+      {
+       "t": "贵金属",
+       "term_id": null
+      },
+      {
+       "t": "属性",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "材料",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1216,
+     "order_no": 8,
+     "text": "金属尾料：是指熔模铸造工艺完成铸件后，切割剩余的铸道、底座部分，及生产过程中对金属铸件打磨切削去除的部分、不合格铸件。",
+     "tokens": [
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "尾料",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "指",
+       "term_id": null
+      },
+      {
+       "t": "熔模铸造",
+       "term_id": null
+      },
+      {
+       "t": "工艺",
+       "term_id": null
+      },
+      {
+       "t": "完成",
+       "term_id": null
+      },
+      {
+       "t": "铸件",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "切割",
+       "term_id": null
+      },
+      {
+       "t": "剩余",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "铸道",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "底座",
+       "term_id": null
+      },
+      {
+       "t": "部分",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "中",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "金属",
+       "term_id": null
+      },
+      {
+       "t": "铸件",
+       "term_id": null
+      },
+      {
+       "t": "打磨",
+       "term_id": null
+      },
+      {
+       "t": "切削",
+       "term_id": null
+      },
+      {
+       "t": "去除",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "部分",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "合格",
+       "term_id": null
+      },
+      {
+       "t": "铸件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1217,
+     "order_no": 9,
+     "text": "物料平衡：在适当考虑可允许的正常偏差的情况下，产品或物料的理论产量或理论用量与实际产量或用量之间持平。",
+     "tokens": [
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "平衡",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "适当",
+       "term_id": null
+      },
+      {
+       "t": "考虑",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "允许",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "正常",
+       "term_id": null
+      },
+      {
+       "t": "偏差",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "下",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "物料",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "理论",
+       "term_id": null
+      },
+      {
+       "t": "产量",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "理论",
+       "term_id": null
+      },
+      {
+       "t": "用量",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "实际",
+       "term_id": null
+      },
+      {
+       "t": "产量",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "用量",
+       "term_id": null
+      },
+      {
+       "t": "之间",
+       "term_id": null
+      },
+      {
+       "t": "持平",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1218,
+     "order_no": 10,
+     "text": "有害元素：已知可能产生生物学副作用的元素。",
+     "tokens": [
+      {
+       "t": "有害",
+       "term_id": null
+      },
+      {
+       "t": "元素",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "已知",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "生物学",
+       "term_id": null
+      },
+      {
+       "t": "副作用",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "元素",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 719,
+   "order_no": 34,
+   "label": "4.1",
+   "paragraphs": [
+    {
+     "id": 1219,
+     "order_no": 1,
+     "text": "本附录由国家食品药品监督管理总局负责解释。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "国家",
+       "term_id": null
+      },
+      {
+       "t": "食品药品",
+       "term_id": null
+      },
+      {
+       "t": "监督管理",
+       "term_id": null
+      },
+      {
+       "t": "总局",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "解释",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 720,
+   "order_no": 35,
+   "label": "4.2",
+   "paragraphs": [
+    {
+     "id": 1220,
+     "order_no": 1,
+     "text": "本附录自2018年1月1日起施行。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "自",
+       "term_id": null
+      },
+      {
+       "t": "2018",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "月",
+       "term_id": null
+      },
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "日起",
+       "term_id": null
+      },
+      {
+       "t": "施行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

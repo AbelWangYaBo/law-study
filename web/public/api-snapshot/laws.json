@@ -88,5 +88,265 @@
   "effective_date": "2021-11-01",
   "article_count": 74,
   "term_count": 4
+ },
+ {
+  "id": 10,
+  "name": "医疗器械生产质量管理规范",
+  "doc_number": "国家药监局公告2025年第107号",
+  "authority": "国家药监局",
+  "level": "规范性文件",
+  "effective_date": "2026-11-01",
+  "article_count": 132,
+  "term_count": 1
+ },
+ {
+  "id": 11,
+  "name": "医疗器械生产质量管理规范附录 无菌医疗器械",
+  "doc_number": "国家食品药品监督管理总局公告2015年第101号",
+  "authority": "原国家食药总局",
+  "level": "规范性文件",
+  "effective_date": "2015-10-01",
+  "article_count": 52,
+  "term_count": 1
+ },
+ {
+  "id": 12,
+  "name": "医疗器械生产质量管理规范附录 植入性医疗器械",
+  "doc_number": "国家食品药品监督管理总局公告2015年第102号",
+  "authority": "原国家食药总局",
+  "level": "规范性文件",
+  "effective_date": "2015-10-01",
+  "article_count": 72,
+  "term_count": 0
+ },
+ {
+  "id": 13,
+  "name": "医疗器械生产质量管理规范附录 体外诊断试剂",
+  "doc_number": "国家食品药品监督管理总局公告2015年第103号",
+  "authority": "原国家食药总局",
+  "level": "规范性文件",
+  "effective_date": "2015-10-01",
+  "article_count": 67,
+  "term_count": 2
+ },
+ {
+  "id": 14,
+  "name": "医疗器械生产质量管理规范附录 定制式义齿",
+  "doc_number": "国家食品药品监督管理总局公告2016年第195号",
+  "authority": "原国家食药总局",
+  "level": "规范性文件",
+  "effective_date": "2018-01-01",
+  "article_count": 35,
+  "term_count": 0
+ },
+ {
+  "id": 15,
+  "name": "医疗器械生产质量管理规范附录 独立软件",
+  "doc_number": "国家药监局通告2019年第43号",
+  "authority": "国家药监局",
+  "level": "规范性文件",
+  "effective_date": "2020-07-01",
+  "article_count": 37,
+  "term_count": 0
+ },
+ {
+  "id": 16,
+  "name": "药品生产质量管理规范（2010年修订）",
+  "doc_number": "中华人民共和国卫生部令第79号",
+  "authority": "卫生部",
+  "level": "部门规章",
+  "effective_date": "2011-03-01",
+  "article_count": 313,
+  "term_count": 0
+ },
+ {
+  "id": 17,
+  "name": "药品生产质量管理规范附录：无菌药品",
+  "doc_number": "国家食品药品监督管理局公告2011年第16号（附件1）",
+  "authority": "国家食品药品监督管理局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2011-03-01",
+  "article_count": 81,
+  "term_count": 0
+ },
+ {
+  "id": 18,
+  "name": "药品生产质量管理规范附录：原料药",
+  "doc_number": "国家食品药品监督管理局公告2011年第16号（附件2）",
+  "authority": "国家食品药品监督管理局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2011-03-01",
+  "article_count": 42,
+  "term_count": 0
+ },
+ {
+  "id": 19,
+  "name": "药品生产质量管理规范附录：确认与验证",
+  "doc_number": "国家食品药品监督管理总局公告2015年第54号（附件2）",
+  "authority": "国家食品药品监督管理总局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2015-12-01",
+  "article_count": 53,
+  "term_count": 0
+ },
+ {
+  "id": 20,
+  "name": "药品生产质量管理规范附录：计算机化系统",
+  "doc_number": "国家食品药品监督管理总局公告2015年第54号（附件1）",
+  "authority": "国家食品药品监督管理总局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2015-12-01",
+  "article_count": 24,
+  "term_count": 1
+ },
+ {
+  "id": 21,
+  "name": "药品生产质量管理规范附录：放射性药品",
+  "doc_number": "国家食品药品监督管理局公告2012年第72号",
+  "authority": "国家食品药品监督管理局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "公告未另定施行日（2012-12-06发布）",
+  "article_count": 44,
+  "term_count": 0
+ },
+ {
+  "id": 22,
+  "name": "药品生产质量管理规范附录：中药制剂",
+  "doc_number": "国家食品药品监督管理局公告2011年第16号（附件5）",
+  "authority": "国家食品药品监督管理局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2011-03-01",
+  "article_count": 44,
+  "term_count": 0
+ },
+ {
+  "id": 23,
+  "name": "药品生产质量管理规范附录：中药饮片",
+  "doc_number": "国家食品药品监督管理总局公告2014年第32号（附件1）",
+  "authority": "国家食品药品监督管理总局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2014-07-01",
+  "article_count": 56,
+  "term_count": 0
+ },
+ {
+  "id": 24,
+  "name": "药品生产质量管理规范附录：医用氧",
+  "doc_number": "国家食品药品监督管理总局公告2014年第32号（附件2）",
+  "authority": "国家食品药品监督管理总局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2014-07-01",
+  "article_count": 36,
+  "term_count": 0
+ },
+ {
+  "id": 25,
+  "name": "药品生产质量管理规范附录：取样",
+  "doc_number": "国家食品药品监督管理总局公告2014年第32号（附件3）",
+  "authority": "国家食品药品监督管理总局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2014-07-01",
+  "article_count": 9,
+  "term_count": 1
+ },
+ {
+  "id": 26,
+  "name": "药品生产质量管理规范附录：生化药品",
+  "doc_number": "国家食品药品监督管理总局公告2017年第29号",
+  "authority": "国家食品药品监督管理总局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2017-09-01",
+  "article_count": 44,
+  "term_count": 0
+ },
+ {
+  "id": 27,
+  "name": "药品生产质量管理规范附录：临床试验用药品（试行）",
+  "doc_number": "国家药监局公告2022年第43号",
+  "authority": "国家药品监督管理局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2022-07-01",
+  "article_count": 51,
+  "term_count": 0
+ },
+ {
+  "id": 28,
+  "name": "药品生产质量管理规范附录：生物制品",
+  "doc_number": "国家药监局公告2020年第58号（修订稿，替代2011年第16号公告附件3）",
+  "authority": "国家药品监督管理局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2020-07-01",
+  "article_count": 63,
+  "term_count": 0
+ },
+ {
+  "id": 29,
+  "name": "药品生产质量管理规范附录：血液制品",
+  "doc_number": "国家药监局公告2024年第70号（修订稿，替代2020年第77号及2011年第16号公告附件4）",
+  "authority": "国家药品监督管理局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2024-06-11（自发布之日起实施；第25、35条信息化系统要求应于2027-01-01前符合）",
+  "article_count": 36,
+  "term_count": 0
+ },
+ {
+  "id": 30,
+  "name": "药品生产质量管理规范附录：药用辅料",
+  "doc_number": "国家药监局公告2025年第1号（附件1）",
+  "authority": "国家药监局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2026-01-01",
+  "article_count": 79,
+  "term_count": 1
+ },
+ {
+  "id": 31,
+  "name": "药品生产质量管理规范附录：药包材",
+  "doc_number": "国家药监局公告2025年第1号（附件2）",
+  "authority": "国家药监局",
+  "level": "规范性文件（79号令配套附录）",
+  "effective_date": "2026-01-01",
+  "article_count": 75,
+  "term_count": 1
+ },
+ {
+  "id": 32,
+  "name": "医疗器械生产质量管理规范（2014年版，已被替代）",
+  "doc_number": "国家食品药品监督管理总局公告2014年第64号",
+  "authority": "原国家食药总局",
+  "level": "历史版本",
+  "effective_date": "2015-03-01",
+  "article_count": 84,
+  "term_count": 1
+ },
+ {
+  "id": 33,
+  "name": "药品生产质量管理规范附录：生物制品（2011年版，已被替代）",
+  "doc_number": "国家食品药品监督管理局公告2011年第16号（附件3）",
+  "authority": "国家食品药品监督管理局",
+  "level": "历史版本",
+  "effective_date": "2011-03-01",
+  "article_count": 57,
+  "term_count": 0
+ },
+ {
+  "id": 34,
+  "name": "药品生产质量管理规范附录：血液制品（2020年版，已被替代）",
+  "doc_number": "国家药监局公告2020年第77号",
+  "authority": "国家药品监督管理局",
+  "level": "历史版本",
+  "effective_date": "2020-10-01",
+  "article_count": 35,
+  "term_count": 0
+ },
+ {
+  "id": 35,
+  "name": "药品生产质量管理规范附录：血液制品（2011年版，已被替代）",
+  "doc_number": "国家食品药品监督管理局公告2011年第16号（附件4）",
+  "authority": "国家食品药品监督管理局",
+  "level": "历史版本",
+  "effective_date": "2011-03-01",
+  "article_count": 34,
+  "term_count": 0
  }
 ]

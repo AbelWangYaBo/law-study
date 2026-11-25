@@ -1,0 +1,8295 @@
+{
+ "id": 15,
+ "name": "医疗器械生产质量管理规范附录 独立软件",
+ "doc_number": "国家药监局通告2019年第43号",
+ "authority": "国家药监局",
+ "level": "规范性文件",
+ "effective_date": "2020-07-01",
+ "articles": [
+  {
+   "id": 721,
+   "order_no": 1,
+   "label": "1.1",
+   "paragraphs": [
+    {
+     "id": 1221,
+     "order_no": 1,
+     "text": "本附录适用于独立软件，软件组件参照执行。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "适用",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "独立",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "组件",
+       "term_id": null
+      },
+      {
+       "t": "参照",
+       "term_id": null
+      },
+      {
+       "t": "执行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 722,
+   "order_no": 2,
+   "label": "1.2",
+   "paragraphs": [
+    {
+     "id": 1222,
+     "order_no": 1,
+     "text": "本附录遵循软件生存周期过程和网络安全的基本原则和通用要求，是对独立软件生产质量管理规范的特殊要求。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "遵循",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "基本",
+       "term_id": null
+      },
+      {
+       "t": "原则",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "通用",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "独立",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "特殊要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 723,
+   "order_no": 3,
+   "label": "2.1.1",
+   "paragraphs": [
+    {
+     "id": 1223,
+     "order_no": 1,
+     "text": "软件开发、测试、维护人员应当具备与岗位职责要求相适宜的专业知识、实践经验和工作能力。",
+     "tokens": [
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "岗位职责",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "相",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "专业知识",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "实践经验",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "工作",
+       "term_id": null
+      },
+      {
+       "t": "能力",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 724,
+   "order_no": 4,
+   "label": "2.1.2",
+   "paragraphs": [
+    {
+     "id": 1224,
+     "order_no": 1,
+     "text": "黑盒测试应当保证同一软件项的开发人员和测试人员不得互相兼任。",
+     "tokens": [
+      {
+       "t": "黑盒",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "同一",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "项",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "开发人员",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "测试人员",
+       "term_id": null
+      },
+      {
+       "t": "不得",
+       "term_id": null
+      },
+      {
+       "t": "互相",
+       "term_id": null
+      },
+      {
+       "t": "兼任",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 725,
+   "order_no": 5,
+   "label": "2.1.3",
+   "paragraphs": [
+    {
+     "id": 1225,
+     "order_no": 1,
+     "text": "用户测试人员应当具备适宜的软件产品使用经验，或经过培训具备适宜的软件产品使用技能。",
+     "tokens": [
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "测试人员",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "软件产品",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "经验",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "经过培训",
+       "term_id": null
+      },
+      {
+       "t": "具备",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "软件产品",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "技能",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 726,
+   "order_no": 6,
+   "label": "2.2.1",
+   "paragraphs": [
+    {
+     "id": 1226,
+     "order_no": 1,
+     "text": "应当在软件生存周期过程持续提供充分、适宜、有效的软件开发和测试环境，包括软硬件设备、开发测试工具、网络等资源以及病毒防护、数据备份与恢复等保证措施。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "持续",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "充分",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "有效",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "测试环境",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "软硬件",
+       "term_id": null
+      },
+      {
+       "t": "设备",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "开发",
+       "term_id": null
+      },
+      {
+       "t": "测试工具",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "资源",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "数据备份",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "恢复",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 727,
+   "order_no": 7,
+   "label": "2.2.2",
+   "paragraphs": [
+    {
+     "id": 1227,
+     "order_no": 1,
+     "text": "软件开发和测试环境维护应当形成文件，确定软件开发和测试环境定期验证、更新升级、病毒防护等活动要求，保持相关记录。",
+     "tokens": [
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "测试环境",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "测试环境",
+       "term_id": null
+      },
+      {
+       "t": "定期",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "升级",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 728,
+   "order_no": 8,
+   "label": "2.3.1",
+   "paragraphs": [
+    {
+     "id": 1228,
+     "order_no": 1,
+     "text": "应当结合软件生存周期模型特点建立软件生存周期过程控制程序并形成文件，确定软件开发策划、软件需求分析、软件设计、软件编码、验证与确认、软件更新、风险管理、缺陷管理、可追溯性分析、配置管理、文件与记录控制、现成软件使用、网络安全保证、软件发布、软件部署、软件停运等活动要求。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "结合",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "模型",
+       "term_id": null
+      },
+      {
+       "t": "特点",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "控制程序",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "策划",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件设计",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "编码",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "缺陷",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "配置管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "部署",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "停运",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 729,
+   "order_no": 9,
+   "label": "2.3.2",
+   "paragraphs": [
+    {
+     "id": 1229,
+     "order_no": 1,
+     "text": "软件生存周期过程质量保证活动要求应当与软件安全性级别相适宜。软件安全性级别应当在采取风险控制措施之前，结合软件的预期用途、使用场景和核心功能进行综合判定，并仅可通过外部风险控制措施降低级别。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "质量保证",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "安全性",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "相",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "安全性",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "采取",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "控制措施",
+       "term_id": null
+      },
+      {
+       "t": "之前",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "结合",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "预期",
+       "term_id": null
+      },
+      {
+       "t": "用途",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "场景",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "核心",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "综合",
+       "term_id": null
+      },
+      {
+       "t": "判定",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "仅",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "通过",
+       "term_id": null
+      },
+      {
+       "t": "外部",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "控制措施",
+       "term_id": null
+      },
+      {
+       "t": "降低",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 730,
+   "order_no": 10,
+   "label": "2.3.3",
+   "paragraphs": [
+    {
+     "id": 1230,
+     "order_no": 1,
+     "text": "应当依据风险管理控制程序实施软件风险管理活动，结合产品识别、分析、评价、控制和监测软件功能、接口、用户界面、现成软件、网络安全等风险，并贯穿于软件生存周期全过程。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "控制程序",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "结合",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评价",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "监测",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "接口",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户界面",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "贯穿",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 731,
+   "order_no": 11,
+   "label": "2.3.4",
+   "paragraphs": [
+    {
+     "id": 1231,
+     "order_no": 1,
+     "text": "软件配置管理应当建立控制程序并形成文件，规范软件版本、源代码、文件、工具、现成软件等控制要求，确定配置标识、变更控制、配置状态记录等活动要求。使用配置管理工具保证软件质量，并贯穿于软件生存周期全过程。",
+     "tokens": [
+      {
+       "t": "软件配置管理",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "控制程序",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "版本",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "源代码",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "工具",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "配置",
+       "term_id": null
+      },
+      {
+       "t": "标识",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "变更",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "配置",
+       "term_id": null
+      },
+      {
+       "t": "状态",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "配置管理",
+       "term_id": null
+      },
+      {
+       "t": "工具",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "贯穿",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 732,
+   "order_no": 12,
+   "label": "2.3.5",
+   "paragraphs": [
+    {
+     "id": 1232,
+     "order_no": 1,
+     "text": "软件版本控制应当基于合规性要求确定软件版本命名规则，涵盖软件、现成软件、网络安全的全部软件更新类型，各字段含义应当明确且无歧义无矛盾。软件版本变更应当符合软件版本命名规则的要求。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "版本控制",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "基于",
+       "term_id": null
+      },
+      {
+       "t": "合规性",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "版本",
+       "term_id": null
+      },
+      {
+       "t": "命名",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "涵盖",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "全部",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "类型",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "各字段",
+       "term_id": null
+      },
+      {
+       "t": "含义",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "且",
+       "term_id": null
+      },
+      {
+       "t": "无",
+       "term_id": null
+      },
+      {
+       "t": "歧义",
+       "term_id": null
+      },
+      {
+       "t": "无",
+       "term_id": null
+      },
+      {
+       "t": "矛盾",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "版本",
+       "term_id": null
+      },
+      {
+       "t": "变更",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "版本",
+       "term_id": null
+      },
+      {
+       "t": "命名",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 733,
+   "order_no": 13,
+   "label": "2.3.6",
+   "paragraphs": [
+    {
+     "id": 1233,
+     "order_no": 1,
+     "text": "软件可追溯性分析应当建立控制程序并形成文件，涵盖现成软件、网络安全的控制要求，形成软件可追溯性分析报告以供评审。使用可追溯性分析工具保证软件开发、软件更新过程满足可追溯性要求，并贯穿于软件生存周期全过程。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "建立",
+       "term_id": null
+      },
+      {
+       "t": "控制程序",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "涵盖",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "以供",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "工具",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新过程",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "贯穿",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 734,
+   "order_no": 14,
+   "label": "2.3.7",
+   "paragraphs": [
+    {
+     "id": 1234,
+     "order_no": 1,
+     "text": "现成软件使用应当形成文件，确定风险管理、验证与确认、缺陷管理、可追溯性分析、软件更新、配置管理、文件与记录控制、网络安全保证等活动要求。遗留软件还应当确定现有文件、上市后使用情况、用户投诉、不良事件、召回情况等评估活动要求。使用开源软件应当遵循相应开源许可协议。",
+     "tokens": [
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "缺陷",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "配置管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "遗留",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "还",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "现有",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "上市",
+       "term_id": null
+      },
+      {
+       "t": "后",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "投诉",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "不良",
+       "term_id": null
+      },
+      {
+       "t": "事件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "召回",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "开源",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "遵循",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "开源",
+       "term_id": null
+      },
+      {
+       "t": "许可",
+       "term_id": null
+      },
+      {
+       "t": "协议",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 735,
+   "order_no": 15,
+   "label": "2.3.8",
+   "paragraphs": [
+    {
+     "id": 1235,
+     "order_no": 1,
+     "text": "软件开发策划应当确定软件需求分析、软件设计、软件编码、验证与确认、风险管理、缺陷管理、可追溯性分析、配置管理、文件与记录控制、现成软件使用、网络安全保证、评审等活动计划，形成相关文件和记录，并适时更新。软件开发策划应当保证软件开发和测试的人员及环境与软件开发要求相适宜。",
+     "tokens": [
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "策划",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件设计",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "编码",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "缺陷",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "配置管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "计划",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "适时",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "策划",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "人员",
+       "term_id": null
+      },
+      {
+       "t": "及",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "相",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 736,
+   "order_no": 16,
+   "label": "2.3.9",
+   "paragraphs": [
+    {
+     "id": 1236,
+     "order_no": 1,
+     "text": "软件需求分析应当综合分析法规、标准、用户、产品、功能、性能、接口、用户界面、网络安全、警示提示等软件需求，确定风险管理、可追溯性分析、现成软件使用评估、软件确认测试计划创建、评审等活动要求，形成软件需求规范和评审记录并经批准，适时更新并经批准。可追溯性分析此时应当分析软件需求与风险管理、软件需求与产品需求的关系。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "综合",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "法规",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "标准",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "性能",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "接口",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户界面",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "警示",
+       "term_id": null
+      },
+      {
+       "t": "提示",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "测试计划",
+       "term_id": null
+      },
+      {
+       "t": "创建",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "适时",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "此时",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "关系",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 737,
+   "order_no": 17,
+   "label": "2.3.10",
+   "paragraphs": [
+    {
+     "id": 1237,
+     "order_no": 1,
+     "text": "软件设计应当依据软件需求规范实施软件体系架构、功能、性能、算法、接口、用户界面、单元、网络安全等设计，确定风险管理、可追溯性分析、现成软件使用评估、软件验证测试计划创建、评审等活动要求，形成软件设计规范和评审记录并经批准，适时更新并经批准。可追溯性分析此时应当分析软件设计与软件需求之间的关系。",
+     "tokens": [
+      {
+       "t": "软件设计",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "规范",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "体系",
+       "term_id": null
+      },
+      {
+       "t": "架构",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "功能",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "性能",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "算法",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "接口",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户界面",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "单元",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "设计",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "测试计划",
+       "term_id": null
+      },
+      {
+       "t": "创建",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "设计规范",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "适时",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "此时",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "软件设计",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "之间",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "关系",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 738,
+   "order_no": 18,
+   "label": "2.3.11",
+   "paragraphs": [
+    {
+     "id": 1238,
+     "order_no": 1,
+     "text": "软件编码应当依据软件设计规范实施，确定源代码编写与注释、现成软件使用、可追溯性分析、各级测试用例创建、评审等活动要求，形成评审记录，并适时更新。源代码编写与注释应当符合软件编码规则文件的要求。测试用例应当保证软件验证与确认测试的充分性、适宜性、有效性。可追溯性分析此时应当分析源代码与软件设计、源代码与测试用例的关系。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "编码",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "设计规范",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "源代码",
+       "term_id": null
+      },
+      {
+       "t": "编写",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "注释",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "各级",
+       "term_id": null
+      },
+      {
+       "t": "测试用例",
+       "term_id": null
+      },
+      {
+       "t": "创建",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "适时",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "源代码",
+       "term_id": null
+      },
+      {
+       "t": "编写",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "注释",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "符合",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "编码",
+       "term_id": null
+      },
+      {
+       "t": "规则",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "测试用例",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "充分性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "适宜性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "有效性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "此时",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "源代码",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "软件设计",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "源代码",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "测试用例",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "关系",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 739,
+   "order_no": 19,
+   "label": "2.3.12",
+   "paragraphs": [
+    {
+     "id": 1239,
+     "order_no": 1,
+     "text": "软件验证应当确定源代码审核、静态分析、动态分析、单元测试、集成测试、系统测试、评审等活动要求，涵盖现成软件、网络安全的验证要求，并保持相关记录。白盒测试应当确定语句、判定、条件、路径等测试覆盖率要求，并与软件安全性级别相适宜。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "源代码",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "静态",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "动态分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "单元测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "集成",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "涵盖",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "白盒",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "语句",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "判定",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "条件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "路径",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "覆盖率",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "安全性",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "相",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 740,
+   "order_no": 20,
+   "label": "2.3.13",
+   "paragraphs": [
+    {
+     "id": 1240,
+     "order_no": 1,
+     "text": "单元测试、集成测试、系统测试应当依据相应测试计划实施，涵盖现成软件、网络安全的测试要求，确定缺陷管理、风险管理、可追溯性分析、评审等活动要求，形成相应软件测试记录、测试报告以及评审记录，并适时更新。可追溯性分析此时应当分析各级测试用例与软件设计、系统测试与软件需求、系统测试与风险管理的关系。",
+     "tokens": [
+      {
+       "t": "单元测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "集成",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "测试计划",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "涵盖",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "缺陷",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "相应",
+       "term_id": null
+      },
+      {
+       "t": "软件测试",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "测试报告",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "适时",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "此时",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "各级",
+       "term_id": null
+      },
+      {
+       "t": "测试用例",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "软件设计",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "系统",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "关系",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 741,
+   "order_no": 21,
+   "label": "2.3.14",
+   "paragraphs": [
+    {
+     "id": 1241,
+     "order_no": 1,
+     "text": "软件确认应当确定用户测试、临床评价、评审等活动要求，涵盖现成软件、网络安全的确认要求，并保持相关记录。保证软件满足用户需求和预期目的，且软件已知剩余缺陷的风险均可接受。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "临床",
+       "term_id": null
+      },
+      {
+       "t": "评价",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "涵盖",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "满足用户",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "预期",
+       "term_id": null
+      },
+      {
+       "t": "目的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "且",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "已知",
+       "term_id": null
+      },
+      {
+       "t": "剩余",
+       "term_id": null
+      },
+      {
+       "t": "缺陷",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "均",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "接受",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 742,
+   "order_no": 22,
+   "label": "2.3.15",
+   "paragraphs": [
+    {
+     "id": 1242,
+     "order_no": 1,
+     "text": "用户测试应当依据用户测试计划在真实使用环境或模拟使用环境下实施，涵盖现成软件、网络安全的测试要求，确定缺陷管理、风险管理、可追溯性分析、评审等活动要求，形成用户测试记录、测试报告以及评审记录并经批准，适时更新并经批准。可追溯性分析此时应当分析用户测试与用户需求、用户测试与风险管理的关系。",
+     "tokens": [
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "依据",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "测试计划",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "真实",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "模拟",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "环境",
+       "term_id": null
+      },
+      {
+       "t": "下",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "涵盖",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "缺陷",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "测试报告",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "适时",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "此时",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "关系",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 743,
+   "order_no": 23,
+   "label": "2.3.16",
+   "paragraphs": [
+    {
+     "id": 1243,
+     "order_no": 1,
+     "text": "软件更新应当形成文件，涵盖现成软件、网络安全的变更控制要求，确定软件更新请求评估、软件更新策划、软件更新实施、风险管理、验证与确认、缺陷管理、可追溯性分析、配置管理、文件与记录控制、评审、用户告知等活动要求，形成相关文件和记录并经批准，适时更新并经批准。软件版本变更应当与软件更新情况相匹配。验证与确认应当根据软件更新的类型、内容和程度实施相适宜的回归测试、用户测试等活动。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "涵盖",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "变更",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "请求",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "策划",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "缺陷",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "配置管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "告知",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "适时",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "经",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "版本",
+       "term_id": null
+      },
+      {
+       "t": "变更",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "情况",
+       "term_id": null
+      },
+      {
+       "t": "相匹配",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "类型",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "内容",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "程度",
+       "term_id": null
+      },
+      {
+       "t": "实施",
+       "term_id": null
+      },
+      {
+       "t": "相",
+       "term_id": null
+      },
+      {
+       "t": "适宜",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "回归",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 744,
+   "order_no": 24,
+   "label": "2.3.17",
+   "paragraphs": [
+    {
+     "id": 1244,
+     "order_no": 1,
+     "text": "软件缺陷管理应当形成文件，确定软件缺陷评估、软件缺陷修复、回归测试、风险管理、配置管理、评审等活动要求，形成软件缺陷分析报告以供评审。使用缺陷管理工具保证软件质量，并贯穿于软件生存周期全过程。",
+     "tokens": [
+      {
+       "t": "软件缺陷",
+       "term_id": null
+      },
+      {
+       "t": "管理",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "软件缺陷",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件缺陷",
+       "term_id": null
+      },
+      {
+       "t": "修复",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "回归",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "配置管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "软件缺陷",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "报告",
+       "term_id": null
+      },
+      {
+       "t": "以供",
+       "term_id": null
+      },
+      {
+       "t": "评审",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "缺陷",
+       "term_id": null
+      },
+      {
+       "t": "管理工具",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "并",
+       "term_id": null
+      },
+      {
+       "t": "贯穿",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 745,
+   "order_no": 25,
+   "label": "2.4.1",
+   "paragraphs": [
+    {
+     "id": 1245,
+     "order_no": 1,
+     "text": "现成软件采购应当形成文件，根据现成软件的类型、使用方式、对产品质量影响程度，确定分类管理、质量控制、供应商审核等活动要求。",
+     "tokens": [
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "采购",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "根据",
+       "term_id": null
+      },
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "类型",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "使用",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "产品质量",
+       "term_id": null
+      },
+      {
+       "t": "影响",
+       "term_id": null
+      },
+      {
+       "t": "程度",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "分类管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "审核",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 746,
+   "order_no": 26,
+   "label": "2.4.2",
+   "paragraphs": [
+    {
+     "id": 1246,
+     "order_no": 1,
+     "text": "应当与供应商签订外包软件质量协议，明确外包软件需求分析、交付形式、验收方式与准则、设计开发文件交付、知识产权归属、维护等要求以及双方质量责任承担要求。",
+     "tokens": [
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "供应商",
+       "term_id": null
+      },
+      {
+       "t": "签订",
+       "term_id": null
+      },
+      {
+       "t": "外",
+       "term_id": null
+      },
+      {
+       "t": "包",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "协议",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "外",
+       "term_id": null
+      },
+      {
+       "t": "包",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "交付",
+       "term_id": null
+      },
+      {
+       "t": "形式",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "验收",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "准则",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "设计",
+       "term_id": null
+      },
+      {
+       "t": "开发",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "交付",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "知识产权",
+       "term_id": null
+      },
+      {
+       "t": "归属",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "维护",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "双方",
+       "term_id": null
+      },
+      {
+       "t": "质量",
+       "term_id": null
+      },
+      {
+       "t": "责任",
+       "term_id": null
+      },
+      {
+       "t": "承担",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 747,
+   "order_no": 27,
+   "label": "2.4.3",
+   "paragraphs": [
+    {
+     "id": 1247,
+     "order_no": 1,
+     "text": "云计算服务协议应当明确网络安全保证、患者数据与隐私保护等责任承担要求。",
+     "tokens": [
+      {
+       "t": "云",
+       "term_id": null
+      },
+      {
+       "t": "计算",
+       "term_id": null
+      },
+      {
+       "t": "服务",
+       "term_id": null
+      },
+      {
+       "t": "协议",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "明确",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "患者",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "隐私",
+       "term_id": null
+      },
+      {
+       "t": "保护",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "责任",
+       "term_id": null
+      },
+      {
+       "t": "承担",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 748,
+   "order_no": 28,
+   "label": "2.5.1",
+   "paragraphs": [
+    {
+     "id": 1248,
+     "order_no": 1,
+     "text": "软件发布应当形成文件，确定软件产品文件创建、软件产品与文件归档备份、软件版本识别与标记、交付形式评估与验证、病毒防护等活动要求，保证软件发布的可重复性。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "软件产品",
+       "term_id": null
+      },
+      {
+       "t": "文件创建",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件产品",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "归档",
+       "term_id": null
+      },
+      {
+       "t": "备份",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "版本",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "标记",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "交付",
+       "term_id": null
+      },
+      {
+       "t": "形式",
+       "term_id": null
+      },
+      {
+       "t": "评估",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "病毒",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "发布",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "可重复性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 749,
+   "order_no": 29,
+   "label": "2.5.2",
+   "paragraphs": [
+    {
+     "id": 1249,
+     "order_no": 1,
+     "text": "物理交付方式应当确定软件产品复制、许可授权以及存储媒介包装、标记、防护等要求，网络交付方式应当确定软件产品标记、许可授权、网络安全保证等要求。",
+     "tokens": [
+      {
+       "t": "物理",
+       "term_id": null
+      },
+      {
+       "t": "交付",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "软件产品",
+       "term_id": null
+      },
+      {
+       "t": "复制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "许可",
+       "term_id": null
+      },
+      {
+       "t": "授权",
+       "term_id": null
+      },
+      {
+       "t": "以及",
+       "term_id": null
+      },
+      {
+       "t": "存储",
+       "term_id": null
+      },
+      {
+       "t": "媒介",
+       "term_id": null
+      },
+      {
+       "t": "包装",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "标记",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "防护",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "网络",
+       "term_id": null
+      },
+      {
+       "t": "交付",
+       "term_id": null
+      },
+      {
+       "t": "方式",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "软件产品",
+       "term_id": null
+      },
+      {
+       "t": "标记",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "许可",
+       "term_id": null
+      },
+      {
+       "t": "授权",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "保证",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 750,
+   "order_no": 30,
+   "label": "2.6.1",
+   "paragraphs": [
+    {
+     "id": 1250,
+     "order_no": 1,
+     "text": "软件产品放行应当形成文件，确定软件版本识别、安装卸载测试、产品完整性检查、放行批准等活动要求，保持相关记录。",
+     "tokens": [
+      {
+       "t": "软件产品",
+       "term_id": null
+      },
+      {
+       "t": "放行",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "版本",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "安装",
+       "term_id": null
+      },
+      {
+       "t": "卸载",
+       "term_id": null
+      },
+      {
+       "t": "测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "产品",
+       "term_id": null
+      },
+      {
+       "t": "完整性检查",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "放行",
+       "term_id": null
+      },
+      {
+       "t": "批准",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 751,
+   "order_no": 31,
+   "label": "2.7.1",
+   "paragraphs": [
+    {
+     "id": 1251,
+     "order_no": 1,
+     "text": "软件部署应当形成文件，确定交付、安装、设置、配置、用户培训等活动要求，保持相关记录。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "部署",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "交付",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "安装",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "设置",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "配置",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "培训",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 752,
+   "order_no": 32,
+   "label": "2.7.2",
+   "paragraphs": [
+    {
+     "id": 1252,
+     "order_no": 1,
+     "text": "软件停运应当形成文件，确定停运后续用户服务、数据迁移、患者数据与隐私保护、用户告知等活动要求，保持相关记录。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "停运",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "停运",
+       "term_id": null
+      },
+      {
+       "t": "后续",
+       "term_id": null
+      },
+      {
+       "t": "用户服务",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "迁移",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "患者",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "与",
+       "term_id": null
+      },
+      {
+       "t": "隐私",
+       "term_id": null
+      },
+      {
+       "t": "保护",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "告知",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 753,
+   "order_no": 33,
+   "label": "2.8.1",
+   "paragraphs": [
+    {
+     "id": 1253,
+     "order_no": 1,
+     "text": "数据分析控制程序应当涵盖软件缺陷、网络安全事件要求。",
+     "tokens": [
+      {
+       "t": "数据分析",
+       "term_id": null
+      },
+      {
+       "t": "控制程序",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "涵盖",
+       "term_id": null
+      },
+      {
+       "t": "软件缺陷",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "事件",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 754,
+   "order_no": 34,
+   "label": "2.8.2",
+   "paragraphs": [
+    {
+     "id": 1254,
+     "order_no": 1,
+     "text": "网络安全事件应急响应应当形成文件，确定网络安全事件风险管理、应急响应措施验证、用户告知、召回等活动要求，保持相关记录。",
+     "tokens": [
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "事件",
+       "term_id": null
+      },
+      {
+       "t": "应急",
+       "term_id": null
+      },
+      {
+       "t": "响应",
+       "term_id": null
+      },
+      {
+       "t": "应当",
+       "term_id": null
+      },
+      {
+       "t": "形成",
+       "term_id": null
+      },
+      {
+       "t": "文件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "确定",
+       "term_id": null
+      },
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "事件",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "应急",
+       "term_id": null
+      },
+      {
+       "t": "响应",
+       "term_id": null
+      },
+      {
+       "t": "措施",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "用户",
+       "term_id": null
+      },
+      {
+       "t": "告知",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "召回",
+       "term_id": null
+      },
+      {
+       "t": "等",
+       "term_id": null
+      },
+      {
+       "t": "活动",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 755,
+   "order_no": 35,
+   "label": "3.1",
+   "paragraphs": [
+    {
+     "id": 1255,
+     "order_no": 1,
+     "text": "下列术语的含义是：",
+     "tokens": [
+      {
+       "t": "下列",
+       "term_id": null
+      },
+      {
+       "t": "术语",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "含义",
+       "term_id": null
+      },
+      {
+       "t": "是",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1256,
+     "order_no": 2,
+     "text": "独立软件：具有一个或多个医疗目的，无需医疗器械硬件即可完成自身预期目的，运行于通用计算平台的软件。",
+     "tokens": [
+      {
+       "t": "独立",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "一个",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "多个",
+       "term_id": null
+      },
+      {
+       "t": "医疗",
+       "term_id": null
+      },
+      {
+       "t": "目的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "无需",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "硬件",
+       "term_id": null
+      },
+      {
+       "t": "即可",
+       "term_id": null
+      },
+      {
+       "t": "完成",
+       "term_id": null
+      },
+      {
+       "t": "自身",
+       "term_id": null
+      },
+      {
+       "t": "预期",
+       "term_id": null
+      },
+      {
+       "t": "目的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "运行",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "通用",
+       "term_id": null
+      },
+      {
+       "t": "计算",
+       "term_id": null
+      },
+      {
+       "t": "平台",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1257,
+     "order_no": 3,
+     "text": "软件组件：具有一个或多个医疗目的，控制、驱动医疗器械硬件或运行于医用计算平台的软件。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "组件",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "具有",
+       "term_id": null
+      },
+      {
+       "t": "一个",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "多个",
+       "term_id": null
+      },
+      {
+       "t": "医疗",
+       "term_id": null
+      },
+      {
+       "t": "目的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "驱动",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "硬件",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "运行",
+       "term_id": null
+      },
+      {
+       "t": "于",
+       "term_id": null
+      },
+      {
+       "t": "医用",
+       "term_id": null
+      },
+      {
+       "t": "计算",
+       "term_id": null
+      },
+      {
+       "t": "平台",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1258,
+     "order_no": 4,
+     "text": "软件安全性级别：基于软件风险程度分为轻微、中等和严重，其中轻微即软件不可能产生伤害，中等即软件可能直接或间接产生轻微伤害，严重即软件可能直接或间接产生严重伤害或导致死亡。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "安全性",
+       "term_id": null
+      },
+      {
+       "t": "级别",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "基于",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "风险",
+       "term_id": null
+      },
+      {
+       "t": "程度",
+       "term_id": null
+      },
+      {
+       "t": "分为",
+       "term_id": null
+      },
+      {
+       "t": "轻微",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "中等",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "严重",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "其中",
+       "term_id": null
+      },
+      {
+       "t": "轻微",
+       "term_id": null
+      },
+      {
+       "t": "即",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "不",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "伤害",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "中等",
+       "term_id": null
+      },
+      {
+       "t": "即",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "间接",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "轻微",
+       "term_id": null
+      },
+      {
+       "t": "伤害",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "严重",
+       "term_id": null
+      },
+      {
+       "t": "即",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "可能",
+       "term_id": null
+      },
+      {
+       "t": "直接",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "间接",
+       "term_id": null
+      },
+      {
+       "t": "产生",
+       "term_id": null
+      },
+      {
+       "t": "严重",
+       "term_id": null
+      },
+      {
+       "t": "伤害",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "导致",
+       "term_id": null
+      },
+      {
+       "t": "死亡",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1259,
+     "order_no": 5,
+     "text": "软件验证：通过提供客观证据认定软件开发、软件更新某一阶段的输出满足输入要求。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "验证",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "通过",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "客观",
+       "term_id": null
+      },
+      {
+       "t": "证据",
+       "term_id": null
+      },
+      {
+       "t": "认定",
+       "term_id": null
+      },
+      {
+       "t": "软件开发",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "某一",
+       "term_id": null
+      },
+      {
+       "t": "阶段",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "输出",
+       "term_id": null
+      },
+      {
+       "t": "满足",
+       "term_id": null
+      },
+      {
+       "t": "输入",
+       "term_id": null
+      },
+      {
+       "t": "要求",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1260,
+     "order_no": 6,
+     "text": "软件确认：通过提供客观证据认定软件满足用户需求和预期目的。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "确认",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "通过",
+       "term_id": null
+      },
+      {
+       "t": "提供",
+       "term_id": null
+      },
+      {
+       "t": "客观",
+       "term_id": null
+      },
+      {
+       "t": "证据",
+       "term_id": null
+      },
+      {
+       "t": "认定",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "满足用户",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "预期",
+       "term_id": null
+      },
+      {
+       "t": "目的",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1261,
+     "order_no": 7,
+     "text": "软件可追溯性分析：追踪软件需求、软件设计、源代码、软件测试、软件风险管理之间的关系，分析已识别关系的正确性、一致性、完整性和准确性。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "可追溯",
+       "term_id": null
+      },
+      {
+       "t": "性",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "追踪",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "需求",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件设计",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "源代码",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件测试",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "风险管理",
+       "term_id": null
+      },
+      {
+       "t": "之间",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "关系",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "分析",
+       "term_id": null
+      },
+      {
+       "t": "已",
+       "term_id": null
+      },
+      {
+       "t": "识别",
+       "term_id": null
+      },
+      {
+       "t": "关系",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "正确性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "一致性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "完整性",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "准确性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1262,
+     "order_no": 8,
+     "text": "软件更新：生产企业在软件生存周期全过程对软件所做的任一修改，亦称软件变更或软件维护。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "更新",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "全过程",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "所",
+       "term_id": null
+      },
+      {
+       "t": "做",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "任一",
+       "term_id": null
+      },
+      {
+       "t": "修改",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "亦",
+       "term_id": null
+      },
+      {
+       "t": "称",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "变更",
+       "term_id": null
+      },
+      {
+       "t": "或",
+       "term_id": null
+      },
+      {
+       "t": "软件维护",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1263,
+     "order_no": 9,
+     "text": "软件停运：生产企业在软件生存周期过程末期终止对软件的售后服务和销售，亦称软件退市。",
+     "tokens": [
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "停运",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "在",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "过程",
+       "term_id": null
+      },
+      {
+       "t": "末期",
+       "term_id": null
+      },
+      {
+       "t": "终止",
+       "term_id": null
+      },
+      {
+       "t": "对",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "售后服务",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "销售",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "亦",
+       "term_id": null
+      },
+      {
+       "t": "称",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "退市",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1264,
+     "order_no": 10,
+     "text": "现成软件：生产企业未进行完整生存周期控制的软件，包括遗留软件、成品软件、外包软件。",
+     "tokens": [
+      {
+       "t": "现成",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "未",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "包括",
+       "term_id": null
+      },
+      {
+       "t": "遗留",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "外",
+       "term_id": null
+      },
+      {
+       "t": "包",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1265,
+     "order_no": 11,
+     "text": "遗留软件：生产企业以前开发但现在不能得到足够开发记录的软件。",
+     "tokens": [
+      {
+       "t": "遗留",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "以前",
+       "term_id": null
+      },
+      {
+       "t": "开发",
+       "term_id": null
+      },
+      {
+       "t": "但",
+       "term_id": null
+      },
+      {
+       "t": "现在",
+       "term_id": null
+      },
+      {
+       "t": "不能",
+       "term_id": null
+      },
+      {
+       "t": "得到",
+       "term_id": null
+      },
+      {
+       "t": "足够",
+       "term_id": null
+      },
+      {
+       "t": "开发",
+       "term_id": null
+      },
+      {
+       "t": "记录",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1266,
+     "order_no": 12,
+     "text": "成品软件：已开发且通常可得到的，但生产企业未进行完整生存周期控制的软件。",
+     "tokens": [
+      {
+       "t": "成品",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "已",
+       "term_id": null
+      },
+      {
+       "t": "开发",
+       "term_id": null
+      },
+      {
+       "t": "且",
+       "term_id": null
+      },
+      {
+       "t": "通常",
+       "term_id": null
+      },
+      {
+       "t": "可",
+       "term_id": null
+      },
+      {
+       "t": "得到",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "，",
+       "term_id": null
+      },
+      {
+       "t": "但",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "未",
+       "term_id": null
+      },
+      {
+       "t": "进行",
+       "term_id": null
+      },
+      {
+       "t": "完整",
+       "term_id": null
+      },
+      {
+       "t": "生存",
+       "term_id": null
+      },
+      {
+       "t": "周期",
+       "term_id": null
+      },
+      {
+       "t": "控制",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1267,
+     "order_no": 13,
+     "text": "外包软件：生产企业委托第三方开发的软件。",
+     "tokens": [
+      {
+       "t": "外",
+       "term_id": null
+      },
+      {
+       "t": "包",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "生产",
+       "term_id": null
+      },
+      {
+       "t": "企业",
+       "term_id": null
+      },
+      {
+       "t": "委托",
+       "term_id": null
+      },
+      {
+       "t": "第三方",
+       "term_id": null
+      },
+      {
+       "t": "开发",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "软件",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    },
+    {
+     "id": 1268,
+     "order_no": 14,
+     "text": "网络安全：保持医疗器械相关数据的保密性、完整性和可得性。",
+     "tokens": [
+      {
+       "t": "网络安全",
+       "term_id": null
+      },
+      {
+       "t": "：",
+       "term_id": null
+      },
+      {
+       "t": "保持",
+       "term_id": null
+      },
+      {
+       "t": "医疗器械",
+       "term_id": null
+      },
+      {
+       "t": "相关",
+       "term_id": null
+      },
+      {
+       "t": "数据",
+       "term_id": null
+      },
+      {
+       "t": "的",
+       "term_id": null
+      },
+      {
+       "t": "保密性",
+       "term_id": null
+      },
+      {
+       "t": "、",
+       "term_id": null
+      },
+      {
+       "t": "完整性",
+       "term_id": null
+      },
+      {
+       "t": "和",
+       "term_id": null
+      },
+      {
+       "t": "可得性",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 756,
+   "order_no": 36,
+   "label": "4.1",
+   "paragraphs": [
+    {
+     "id": 1269,
+     "order_no": 1,
+     "text": "本附录由国家药品监督管理局负责解释。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "由",
+       "term_id": null
+      },
+      {
+       "t": "国家药品监督管理局",
+       "term_id": null
+      },
+      {
+       "t": "负责",
+       "term_id": null
+      },
+      {
+       "t": "解释",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 757,
+   "order_no": 37,
+   "label": "4.2",
+   "paragraphs": [
+    {
+     "id": 1270,
+     "order_no": 1,
+     "text": "本附录自2020年7月1日起施行。",
+     "tokens": [
+      {
+       "t": "本",
+       "term_id": null
+      },
+      {
+       "t": "附录",
+       "term_id": null
+      },
+      {
+       "t": "自",
+       "term_id": null
+      },
+      {
+       "t": "2020",
+       "term_id": null
+      },
+      {
+       "t": "年",
+       "term_id": null
+      },
+      {
+       "t": "7",
+       "term_id": null
+      },
+      {
+       "t": "月",
+       "term_id": null
+      },
+      {
+       "t": "1",
+       "term_id": null
+      },
+      {
+       "t": "日起",
+       "term_id": null
+      },
+      {
+       "t": "施行",
+       "term_id": null
+      },
+      {
+       "t": "。",
+       "term_id": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

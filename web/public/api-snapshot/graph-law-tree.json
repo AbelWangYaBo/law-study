@@ -37,6 +37,237 @@
    ]
   },
   {
+   "name": "规范性文件",
+   "itemStyle": {
+    "color": "#8c8579"
+   },
+   "children": [
+    {
+     "name": "医疗器械生产质量管理规范附录 无菌医疗器械",
+     "extra": {
+      "level": "规范性文件",
+      "law_id": 11,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "医疗器械生产质量管理规范附录 植入性医疗器械",
+     "extra": {
+      "level": "规范性文件",
+      "law_id": 12,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "医疗器械生产质量管理规范附录 体外诊断试剂",
+     "extra": {
+      "level": "规范性文件",
+      "law_id": 13,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "医疗器械生产质量管理规范附录 定制式义齿",
+     "extra": {
+      "level": "规范性文件",
+      "law_id": 14,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "医疗器械生产质量管理规范附录 独立软件",
+     "extra": {
+      "level": "规范性文件",
+      "law_id": 15,
+      "virtual": false
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "规范性文件（79号令配套附录）",
+   "itemStyle": {
+    "color": "#8c8579"
+   },
+   "children": [
+    {
+     "name": "药品生产质量管理规范附录：无菌药品",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 17,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：原料药",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 18,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：确认与验证",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 19,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：计算机化系统",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 20,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：放射性药品",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 21,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：中药制剂",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 22,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：中药饮片",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 23,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：医用氧",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 24,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：取样",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 25,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：生化药品",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 26,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：临床试验用药品（试行）",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 27,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：生物制品",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 28,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：血液制品",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 29,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：药用辅料",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 30,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：药包材",
+     "extra": {
+      "level": "规范性文件（79号令配套附录）",
+      "law_id": 31,
+      "virtual": false
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "历史版本",
+   "itemStyle": {
+    "color": "#8c8579"
+   },
+   "children": [
+    {
+     "name": "药品生产质量管理规范附录：生物制品（2011年版，已被替代）",
+     "extra": {
+      "level": "历史版本",
+      "law_id": 33,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：血液制品（2020年版，已被替代）",
+     "extra": {
+      "level": "历史版本",
+      "law_id": 34,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "药品生产质量管理规范附录：血液制品（2011年版，已被替代）",
+     "extra": {
+      "level": "历史版本",
+      "law_id": 35,
+      "virtual": false
+     },
+     "children": []
+    }
+   ]
+  },
+  {
    "name": "医疗器械监督管理条例",
    "extra": {
     "level": "",
@@ -49,6 +280,24 @@
      "extra": {
       "level": "规范性文件",
       "law_id": 1,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "医疗器械生产质量管理规范",
+     "extra": {
+      "level": "规范性文件",
+      "law_id": 10,
+      "virtual": false
+     },
+     "children": []
+    },
+    {
+     "name": "医疗器械生产质量管理规范（2014年版，已被替代）",
+     "extra": {
+      "level": "历史版本",
+      "law_id": 32,
       "virtual": false
      },
      "children": []
@@ -108,6 +357,25 @@
        "children": []
       }
      ]
+    }
+   ]
+  },
+  {
+   "name": "中华人民共和国药品管理法",
+   "extra": {
+    "level": "",
+    "law_id": null,
+    "virtual": true
+   },
+   "children": [
+    {
+     "name": "药品生产质量管理规范（2010年修订）",
+     "extra": {
+      "level": "部门规章",
+      "law_id": 16,
+      "virtual": false
+     },
+     "children": []
     }
    ]
   }

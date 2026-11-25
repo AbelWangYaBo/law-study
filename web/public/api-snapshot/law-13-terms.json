@@ -1,0 +1,20 @@
+[
+ {
+  "id": 71,
+  "name": "PCR",
+  "term_type": "abbreviation",
+  "full_name": "聚合酶链反应",
+  "definition": "",
+  "article_id": 630,
+  "article_label": "2.2.4"
+ },
+ {
+  "id": 72,
+  "name": "PCR",
+  "term_type": "abbreviation",
+  "full_name": "生产聚合酶链反应",
+  "definition": "",
+  "article_id": 647,
+  "article_label": "2.2.21"
+ }
+]
